@@ -38,7 +38,7 @@
 <meta name="twitter:description"  content= "JavaTportal leading Website Designing Company in Ghaziabad based Company. Which Offers Web Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services "/>
 <meta name="twitter:title" content="Website Designing in Ghaziabad | Mobile Apps Development in Ghaziabad" />
 
-        <?php include '../styling.php';?>
+        <?php include 'styling.php';?>
         <style>
             h1, h2, h3, h4, h5, h6 
             {
@@ -54,6 +54,7 @@
         <?php include 'inc/header.php';?>
         <div class="jumbotron">
         <h1 class="display-3">Contact Us</h1>
+        <h4>We are Happy to Serve You</h4>
         </div>
         <div class="container">
             <h2>Javatportal Corporation - Website/Software Development and Training Center</h2>
