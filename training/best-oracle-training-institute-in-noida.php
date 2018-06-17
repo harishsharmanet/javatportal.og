@@ -1,10 +1,10 @@
 <?php include '../inc/config.php';?>
 <!DOCTYPE html>
 <html lang="en">
-    <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-        <link rel="shortcut icon" href="assets/img/favicon.ico" />
-        <meta name="viewport" content="width=device-width">
-        <title>Oralce Training | Oracle training In Noida | Oracle Training Institute In Noida | JavaTportal</title>
+<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<link rel="shortcut icon" href="assets/img/favicon.ico" />
+<meta name="viewport" content="width=device-width">
+<title>Oralce Training | Oracle training In Noida | Oracle Training Institute In Noida | JavaTportal</title>
  <meta name="description" content="JavaTportal provides Oracle training In Noida. Course duration 40 Hours with 03 live projects. Our HR Team provides 100% Job support. Trainers are having 6+ years of working experience with MNC. 400+ certified candidates Trained. Join Our Two Days free Training Program. # +91-9650322998"/>
 <meta name="keywords" content="oracle training in noida, best oracle training institute in noida, oracle training center in noida, best oracle training center in noida, oracle training institute in noida, best oracle training institutes in noida, oracle course content in noida, oracle dba training in noida, oracle training noida, oracle 10g training noida, oracle 11g training noida"/>
 <link rel="canonical" href="<?php echo HOME; ?>/training/best-oracle-training-institute-in-noida.php/" />

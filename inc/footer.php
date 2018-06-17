@@ -180,7 +180,7 @@
                         <a href="https://plus.google.com/+javatportalcorporationsgkp/about"><i class="fab fa-google fa-2x"></i></a>
                         <a href="http://feedburner.google.com/fb/a/mailverify?uri=javatportalcorporationsBlog&loc=en_US"><i class="fas fa-rss fa-2x"></i></a>
                         <a href="https://www.linkedin.com/in/javatportalcorporations"><i class="fab fa-linkedin-in fa-2x"></i></a>
-                        <a href="https://www.youtube.com/c/javatportalcorporationsgkp"><i class="fab fa-youtube fa-2x"></i></a>
+                        <a href="https://www.youtube.com/c/javatportalcorporations"><i class="fab fa-youtube fa-2x"></i></a>
                     </li>
 
                 </ul>
