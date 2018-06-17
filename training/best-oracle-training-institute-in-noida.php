@@ -126,10 +126,10 @@
                     <hr/>
                     <div class="card-body">
                         <h5>Mobile:</h5>
-                        <h6>+91 971 119 5889</h6>
-                        <br/>
+                        <h6><a href="tel:09711195889" style="color: #fff">+91 | 97111 95889</a></h6>
+                        
                         <h5>Email:</h5>
-                        <h6>info@javatportal.org</h6>
+                        <h6><a href="mailto:info@javatportal.org?Subject=Enquiry%20Statement" target="_top" style="color:#fff">info@javatportal.org</a></h6>
                     </div>
 
                   </div> 
@@ -157,7 +157,7 @@
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingOne">
       <h6 class="panel-title">
-        <a class="btn btn-success"role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <a class="btn btn-primary btn-lg btn-block"role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
           Introduction to Oracle Database
         </a>
       </h6>
@@ -177,7 +177,7 @@
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingTwo">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
           First Steps SQL
         </a>
       </h6>
@@ -196,7 +196,7 @@
   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
           Retrieve Data using the SQL SELECT Statement
         </a>
       </h6>
@@ -221,7 +221,7 @@
                          <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
           Learn to Restrict and Sort Data
         </a>
       </h6>
@@ -243,7 +243,7 @@
                          <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
           Functions
         </a>
       </h6>
@@ -260,8 +260,8 @@
                         <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-          Usage of Single-Row Functions to Customize Output
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+          Usage of Single-Row Functions
         </a>
       </h6>
     </div>
@@ -280,8 +280,8 @@
                                                 <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-        Invoke Conversion Functions and Conditional Expressions
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+        Invoke Conversion Functions
         </a>
       </h6>
     </div>
@@ -300,7 +300,7 @@
                                        <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
         Aggregate Data Using the Group Functions
         </a>
       </h6>
@@ -318,7 +318,7 @@
                                                   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
         Display Data from Multiple Tables Using Joins
         </a>
       </h6>
@@ -341,7 +341,7 @@
                                                   <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
         Use Sub-queries to Solve Queries
         </a>
       </h6>
@@ -360,7 +360,7 @@
                                                           <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
         Use Correlated Sub-queries to Solve Queries
         
         </a>
@@ -379,7 +379,7 @@
                                                  <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
         The SET Operators
         </a>
       </h6>
@@ -397,7 +397,7 @@
                                         <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
         Data Manipulation Statements
         </a>
       </h6>
@@ -418,8 +418,8 @@
                                <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
-       Use of DDL Statements to Create and Manage Tables
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+       Use of DDL Statements 
         </a>
       </h6>
     </div>
@@ -440,7 +440,7 @@
                          <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
        Other Schema Objects
         </a>
       </h6>
@@ -461,7 +461,7 @@
                                 <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
        Control User Access
 
         </a>
@@ -485,7 +485,7 @@
                         <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">
 Management of Schema Objects
         </a>
       </h6>
@@ -508,7 +508,7 @@ Management of Schema Objects
                          <div class="panel panel-default">
     <div class="panel-heading" role="tab" id="headingThree">
       <h6 class="panel-title">
-        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEighteen" aria-expanded="false" aria-controls="collapseEighteen">
+        <a class="btn btn-primary btn-lg btn-block" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEighteen" aria-expanded="false" aria-controls="collapseEighteen">
 Manage Objects with Data Dictionary Views
         </a>
       </h6>
