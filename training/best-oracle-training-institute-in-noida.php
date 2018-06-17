@@ -51,9 +51,22 @@
     </head>
     <body>
         <?php include '../inc/header.php';?>
+        <style>
+                    .jumbotron {
+         padding: 2rem 1rem;
+         margin-bottom: 2rem;
+         background-color: #fafafa;
+         border-radius: 0.3rem;
+         background-image: url(<?php echo HOME;?>/assets/img/jumborton.jpg);
+     }
+
+            </style>
         <div class="jumbotron">
-        <h1 class="display-3">Oracle Training Program | Noida</h1>
+            <div class="opacity-effect">
+            <h1 class="display-3"><i class="fas fa-database"></i>&nbsp;Oracle Training Program | Noida</h1>
         <h4>Best Oracle Training Program Center in Noida</h4>
+        <h5><i class="fas fa-star icogreen"></i><i class="fas fa-star icogreen"></i><i class="fas fa-star icogreen"></i><i class="fas fa-star icogreen"></i><i class="fas fa-star icogreen"></i></h5>
+        </div>
         </div>
         <div class="container">
             <div class="row">
@@ -101,9 +114,9 @@
                     <h3>CMS Training</h3>
                     <p>CMS (Content Management System) is a popular tool that widely used in various corporate and marketing websites like shopping, news, movies, article etc. to manage the content (like edit, publish, and organize etc. content on web pages). Content management application (CMA) and content display application (CDA) are two components of CMS.</p>
                     <div class="row">
-                        <div class="col">
-                            <img src="../assets/img/training/Advanced-PHP-Training.jpg">
-                        </div>
+                        
+                            <img src="../assets/img/training/Advanced-PHP-Training.jpg" width="100%">
+                        
                         <div class="col">
                             <p>The Popular PHP frameworks like CakePHP, CodeIgniter, Zend Framework, Symfony follow Model View Controller(MVC) design pattern which separates business logic from user interface making the code cleaner and extensible. ... Models represent your data structures, usually by interfacing with the database.</p>
                             <h3>The importance of PHP Training in different sectors</h3>
@@ -112,46 +125,24 @@
                     </div>
                     <hr/>
                     <h3>Other Related Cources:</h3>
-                    <div class="row">
-                        <div class="col"></div>
-                        <div class="col"></div>
-                        <div class="col"></div>
-                    </div>
+                        <div class="panel-group">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title">
+                      <a data-toggle="collapse" href="#collapse1" class="breadcrumb"><i class="fas fa-chevron-circle-down"></i> &nbsp;&nbsp; Oracle Trainer Profile</a>
+                    </h4>
+                  </div>
+                  <div id="collapse1" class="panel-collapse collapse">
+                    <div class="panel-body">More than 5 Years of experience in Oracle® Technologies</div>
+                    <div class="panel-footer">Working in a top MNC company in Bangalore</div>
+                  </div>
+                </div>
+              </div>
                 
                 </div>   
                 
                 <div class="col-md-4">
-                              <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-                    <h4 class="card-title">Contact Us</h4>
-                    <hr/>
-                    <div class="card-body">
-                        <h5>Mobile:</h5>
-                        <h6><a href="tel:09711195889" style="color: #fff">+91 | 97111 95889</a></h6>
-                        
-                        <h5>Email:</h5>
-                        <h6><a href="mailto:info@javatportal.org?Subject=Enquiry%20Statement" target="_top" style="color:#fff">info@javatportal.org</a></h6>
-                    </div>
-
-                  </div> 
-                    
-                <h4><strong>Get in Touch</strong></h4>
-                <form>
-                    <div class="form-group">
-                        <input type="text" class="form-control" name="" value="" placeholder="Name">
-                    </div>
-                    <div class="form-group">
-                        <input type="email" class="form-control" name="" value="" placeholder="E-mail">
-                    </div>
-                    <div class="form-group">
-                        <input type="tel" class="form-control" name="" value="" placeholder="Phone">
-                    </div>
-                    <div class="form-group">
-                        <textarea class="form-control" name="" rows="3" placeholder="Message"></textarea>
-                    </div>
-                    <button class="btn btn-default" type="submit" name="button">
-                        <i class="fa fa-paper-plane-o" aria-hidden="true"></i> Submit
-                    </button>
-                </form>
+                       <?php include '../inc/contact-sidebar.php' ?>
                     <hr/>
                     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
   <div class="panel panel-default">

@@ -1,10 +1,8 @@
-.carousel .item {
-    height: 311px !important;
-    background-color: #1583c9;
-}
+
 .carousel {
     height: 316px !important;
     margin-bottom: 34px !important;
+        margin-top: 55px;
 }
 a:hover, a:focus {
   color: #2a6496;
@@ -394,4 +392,10 @@ body {
 }
 .card-title {
     margin-bottom: 0rem !important;
+}
+.icogreen{
+    color: green !important;
+}
+.opacity-effect{
+    background-color: #ffffff94;
 }

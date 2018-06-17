@@ -1,5 +1,5 @@
 <section id="contact">
-    <div class="container">
+    <div><!-- Container class Missing -->
         <div class="well well-sm">
             <h3><strong>Contact Us</strong></h3>
         </div>
@@ -34,7 +34,7 @@
 </section>
 
 <footer>
-    <div class="container">
+    <div> <!-- Container Class Missing -->
         <div class="row">
 
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
