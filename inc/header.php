@@ -7,62 +7,46 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Themes <span class="caret"></span></a>
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="themes">All Courses <span class="caret"></span></a>
               <div class="dropdown-menu" aria-labelledby="themes">
-                <a class="dropdown-item" href="../default/">Default</a>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="../cerulean/">Cerulean</a>
-                <a class="dropdown-item" href="../cosmo/">Cosmo</a>
-                <a class="dropdown-item" href="../cyborg/">Cyborg</a>
-                <a class="dropdown-item" href="../darkly/">Darkly</a>
-                <a class="dropdown-item" href="../flatly/">Flatly</a>
-                <a class="dropdown-item" href="../journal/">Journal</a>
-                <a class="dropdown-item" href="../litera/">Litera</a>
-                <a class="dropdown-item" href="../lumen/">Lumen</a>
-                <a class="dropdown-item" href="../lux/">Lux</a>
-                <a class="dropdown-item" href="../materia/">Materia</a>
-                <a class="dropdown-item" href="../minty/">Minty</a>
-                <a class="dropdown-item" href="../pulse/">Pulse</a>
-                <a class="dropdown-item" href="../sandstone/">Sandstone</a>
-                <a class="dropdown-item" href="../simplex/">Simplex</a>
-                <a class="dropdown-item" href="../sketchy/">Sketchy</a>
-                <a class="dropdown-item" href="../slate/">Slate</a>
-                <a class="dropdown-item" href="../solar/">Solar</a>
-                <a class="dropdown-item" href="../spacelab/">Spacelab</a>
-                <a class="dropdown-item" href="../superhero/">Superhero</a>
-                <a class="dropdown-item" href="../united/">United</a>
-                <a class="dropdown-item" href="../yeti/">Yeti</a>
+            <!--    <a class="dropdown-item" href="../default/"></a>
+                <div class="dropdown-divider"></div> -->
+                <a class="dropdown-item" href="../cerulean/">Oracle®</a>
+                <a class="dropdown-item" href="../cosmo/">Digital Marketing</a>
+                <a class="dropdown-item" href="../cyborg/">Programming and Development</a>
+                <a class="dropdown-item" href="../darkly/">Software Quality Testing</a>
+                <a class="dropdown-item" href="../flatly/">Cloud Computing</a>
+                <a class="dropdown-item" href="../journal/">Data and Analytics</a>
+                <a class="dropdown-item" href="../litera/">Big Data</a>
+                <a class="dropdown-item" href="../lumen/">Microsoft® </a>
+                <a class="dropdown-item" href="../lux/">Mobile Development</a>
+                <a class="dropdown-item" href="../materia/">Databases </a>
+                
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../help/">Help</a>
+              <a class="nav-link" href="../help/">Latest Placements</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="http://blog.bootswatch.com">Blog</a>
+              <a class="nav-link" href="http://blog.bootswatch.com">Clients</a>
             </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="download">Journal <span class="caret"></span></a>
-              <div class="dropdown-menu" aria-labelledby="download">
-                <a class="dropdown-item" href="https://jsfiddle.net/bootswatch/uyeaokyd/">Open in JSFiddle</a>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="../4/journal/bootstrap.min.css">bootstrap.min.css</a>
-                <a class="dropdown-item" href="../4/journal/bootstrap.css">bootstrap.css</a>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="../4/journal/_variables.scss">_variables.scss</a>
-                <a class="dropdown-item" href="../4/journal/_bootswatch.scss">_bootswatch.scss</a>
-              </div../4/journal
+             <li class="nav-item">
+              <a class="nav-link" href="http://blog.bootswatch.com">Services</a>
             </li>
-          </ul>
+              <li class="nav-item">
+              <a class="nav-link" href="http://blog.bootswatch.com">Our Packages</a>
+            </li>
+             <li class="nav-item">
+              <a class="nav-link" href="http://blog.bootswatch.com">About Us</a>
+            </li>
+             <li class="nav-item">
+              <a class="nav-link" href="http://blog.bootswatch.com">Contact Us</a>
+            </li>
+           </ul>
 
           <ul class="nav navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="http://builtwithbootstrap.com/" target="_blank">Built With Bootstrap</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://wrapbootstrap.com/?ref=bsw" target="_blank">WrapBootstrap</a>
-            </li>
+            
           </ul>
-
-        </div>
+     </div>
       </div>
     </div>
