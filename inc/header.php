@@ -11,7 +11,7 @@
               <div class="dropdown-menu" aria-labelledby="themes">
             <!--    <a class="dropdown-item" href="../default/"></a>
                 <div class="dropdown-divider"></div> -->
-                <a class="dropdown-item" href="../cerulean/">Oracle®</a>
+            <a class="dropdown-item" href="../cerulean/">Oracle® Database</a>
                 <a class="dropdown-item" href="../cosmo/">Digital Marketing</a>
                 <a class="dropdown-item" href="../cyborg/">Programming and Development</a>
                 <a class="dropdown-item" href="../darkly/">Software Quality Testing</a>
@@ -21,8 +21,7 @@
                 <a class="dropdown-item" href="../lumen/">Microsoft® </a>
                 <a class="dropdown-item" href="../lux/">Mobile Development</a>
                 <a class="dropdown-item" href="../materia/">Databases </a>
-                
-              </div>
+                </div>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="../help/">Latest Placements</a>
@@ -30,10 +29,17 @@
             <li class="nav-item">
               <a class="nav-link" href="http://blog.bootswatch.com">Clients</a>
             </li>
-             <li class="nav-item">
-              <a class="nav-link" href="http://blog.bootswatch.com">Services</a>
+             <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="themes">Services <span class="caret"></span></a>
+              <div class="dropdown-menu" aria-labelledby="themes">
+            <!--    <a class="dropdown-item" href="../default/"></a>
+                <div class="dropdown-divider"></div> -->
+            <a class="dropdown-item" href="../cerulean/">Web Development</a>
+             <a class="dropdown-item" href="../cosmo/">Web Development</a>
+                <a class="dropdown-item" href="../cyborg/">Web Marketing</a>
+                </div>
             </li>
-              <li class="nav-item">
+               <li class="nav-item">
               <a class="nav-link" href="http://blog.bootswatch.com">Our Packages</a>
             </li>
              <li class="nav-item">
