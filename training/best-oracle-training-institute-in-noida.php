@@ -110,9 +110,30 @@
                             <p>JavaTportal Corporation is one of the leading IT companies in India and PHP Training Institute.</p>
                         </div>
                     </div>
+                    <hr/>
+                    <h3>Other Related Cources:</h3>
+                    <div class="row">
+                        <div class="col"></div>
+                        <div class="col"></div>
+                        <div class="col"></div>
+                    </div>
+                
                 </div>   
+                
                 <div class="col-md-4">
-                    <div>
+                              <div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
+                    <h4 class="card-title">Contact Us</h4>
+                    <hr/>
+                    <div class="card-body">
+                        <h5>Mobile:</h5>
+                        <h6>+91 971 119 5889</h6>
+                        <br/>
+                        <h5>Email:</h5>
+                        <h6>info@javatportal.org</h6>
+                    </div>
+
+                  </div> 
+                    
                 <h4><strong>Get in Touch</strong></h4>
                 <form>
                     <div class="form-group">
@@ -131,24 +152,58 @@
                         <i class="fa fa-paper-plane-o" aria-hidden="true"></i> Submit
                     </button>
                 </form>
-            </div>
-                        <h4>Introduction to Oracle Database</h4>
-                        <ul>
+                    <hr/>
+                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h6 class="panel-title">
+        <a class="btn btn-success"role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          Introduction to Oracle Database
+        </a>
+      </h6>
+    </div>
+    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+            <ul>
                            <li>What is Oracle</li>
                            <li>The History of Oracle</li>
                            <li>Different Type of Oracle Versions 9i,10g,11g</li>
                            <li>List the features of Oracle Database 11g</li>
                            <li>Discuss the basic design, theoretical, and physical aspects of a relational database</li>
                         </ul>
-                        <h4>First Steps SQL</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          First Steps SQL
+        </a>
+      </h6>
+    </div>
+    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+        <ul>
                            <li>Categorize the different types of SQL statements</li>
                            <li>Describe the data set used by the course</li>
                            <li>Log on to the database using SQL Developer environment</li>
                            <li>Save queries to files and use script files in SQL Developer</li>
                         </ul>
-                        <h4>Retrieve Data using the SQL SELECT Statement</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          Retrieve Data using the SQL SELECT Statement
+        </a>
+      </h6>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+          <ul>
                            <li>List the capabilities of SQL SELECT statements</li>
                            <li>Generate a report of data from the output of a basic SELECT statement</li>
                            <li>Select All Columns</li>
@@ -160,8 +215,20 @@
                            <li>Understand Operator Precedence</li>
                            <li>Learn the DESCRIBE command to display the table structure</li>
                         </ul>
-                        <h4>Learn to Restrict and Sort Data</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>
+                         <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          Learn to Restrict and Sort Data
+        </a>
+      </h6>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+      <div class="panel-body">
+          <ul>
                            <li>Write queries that contain a WHERE clause to limit the output retrieved</li>
                            <li>List the comparison operators and logical operators that are used in a WHERE clause</li>
                            <li>Describe the rules of precedence for comparison and logical operators</li>
@@ -170,35 +237,95 @@
                            <li>Sort output in descending and ascending order</li>
                            <li>Use Distinct and Unique</li>
                         </ul>
-                        <h4>Functions</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>
+                         <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          Functions
+        </a>
+      </h6>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+      <div class="panel-body">
+          <ul>
                            <li>What is Function</li>
                            <li>Type of Function</li>
                         </ul>
-                        <h4>Usage of Single-Row Functions to Customize Output</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>
+                        <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+          Usage of Single-Row Functions to Customize Output
+        </a>
+      </h6>
+    </div>
+    <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+          <ul>
                            <li>Describe the differences between single row and multiple row functions</li>
                            <li>Manipulate strings with character function in the SELECT and WHERE clauses</li>
                            <li>Manipulate numbers with the ROUND, TRUNC, and MOD functions</li>
                            <li>Perform arithmetic with date data</li>
                            <li>Manipulate dates with the DATE functions</li>
                         </ul>
-                        <h4>Invoke Conversion Functions and Conditional Expressions</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>
+                                                <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+        Invoke Conversion Functions and Conditional Expressions
+        </a>
+      </h6>
+    </div>
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
+      <div class="panel-body">
+          <ul>
                            <li>Describe implicit and explicit data type conversion</li>
                            <li>Use the TO_CHAR, TO_NUMBER, and TO_DATE conversion functions</li>
                            <li>Nest multiple functions</li>
                            <li>Apply the NVL, NULLIF, and COALESCE functions to data</li>
                            <li>Use conditional IF THEN ELSE logic in a SELECT statement</li>
                         </ul>
-                        <h4>Aggregate Data Using the Group Functions</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>
+                                       <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+        Aggregate Data Using the Group Functions
+        </a>
+      </h6>
+    </div>
+    <div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+          <ul>
                            <li>Use the aggregation functions in SELECT statements to produce meaningful reports</li>
                            <li>Divide the data in groups by using the GROUP BY clause</li>
                            <li>Exclude groups of date by using the HAVING clause</li>
                         </ul>
-                        <h4>Display Data from Multiple Tables Using Joins</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>
+                                                  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+        Display Data from Multiple Tables Using Joins
+        </a>
+      </h6>
+    </div>
+    <div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+          <ul>
                            <li>What is Join &amp; Types of Joins</li>
                            <li>Cross Join</li>
                            <li>Inner Join</li>
@@ -208,27 +335,76 @@
                            <li>View data that generally does not meet a join condition by using outer joins</li>
                            <li>Join a table by using a self-join</li>
                         </ul>
-                        <h4>Use Sub-queries to Solve Queries</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>
+                                                  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+        Use Sub-queries to Solve Queries
+        </a>
+      </h6>
+    </div>
+    <div id="collapseTen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+         <ul>
                            <li>Define sub-queries</li>
                            <li>Describe the types of problem that sub-queries can solve</li>
                            <li>List the types of sub-queries</li>
                            <li>Write single-row and multiple-row sub-queries</li>
                         </ul>
-                        <h4>Use Correlated Sub-queries to Solve Queries</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>   
+                                                          <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+        Use Correlated Sub-queries to Solve Queries
+        
+        </a>
+      </h6>
+    </div>
+    <div id="collapseEleven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+         <ul>
                            <li>Define Correlated sub-queries</li>
                            <li>Describe the types of problem that sub-queries can solve</li>
                            <li>Use IN and EXIST Keywords</li>
                         </ul>
-                        <h4>The SET Operators</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>   
+                                                 <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+        The SET Operators
+        </a>
+      </h6>
+    </div>
+    <div id="collapseTwelve" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+         <ul>
                            <li>Describe the SET operators</li>
                            <li>Use a SET operator to combine multiple queries into a single query</li>
                            <li>Control the order of rows returned</li>
                         </ul>
-                        <h4>Data Manipulation Statements</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>   
+                                        <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+        Data Manipulation Statements
+        </a>
+      </h6>
+    </div>
+    <div id="collapseThirteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+     <ul>
                            <li>Describe each DML statement</li>
                            <li>Insert rows into a table</li>
                            <li>Change rows in a table by the UPDATE statement</li>
@@ -236,8 +412,20 @@
                            <li>Save and discard changes with the COMMIT and ROLLBACK statements</li>
                            <li>Explain read consistency</li>
                         </ul>
-                        <h4>Use of DDL Statements to Create and Manage Tables</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>   
+                               <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFourteen" aria-expanded="false" aria-controls="collapseFourteen">
+       Use of DDL Statements to Create and Manage Tables
+        </a>
+      </h6>
+    </div>
+    <div id="collapseFourteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+    <ul>
                            <li>Categorize the main database objects</li>
                            <li>Review the table structure</li>
                            <li>List the data types available for columns</li>
@@ -246,8 +434,20 @@
                            <li>Decipher how constraints can be created at table creation</li>
                            <li>Describe how schema objects work</li>
                         </ul>
-                        <h4>Other Schema Objects</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>   
+                         <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFifteen" aria-expanded="false" aria-controls="collapseFifteen">
+       Other Schema Objects
+        </a>
+      </h6>
+    </div>
+    <div id="collapseFifteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+    <ul>
                            <li>Create a simple and complex view</li>
                            <li>Retrieve data from views</li>
                            <li>Create, maintain, and use sequences</li>
@@ -255,8 +455,21 @@
                            <li>Type of Indexes</li>
                            <li>Create private and public synonyms</li>
                         </ul>
-                        <h4>Control User Access</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>   
+                                <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSixteen" aria-expanded="false" aria-controls="collapseSixteen">
+       Control User Access
+
+        </a>
+      </h6>
+    </div>
+    <div id="collapseSixteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+    <ul>
                            <li>Differentiate system privileges from object privileges</li>
                            <li>Create Users</li>
                            <li>Grant System Privileges</li>
@@ -266,8 +479,20 @@
                            <li>How to pass on privileges?</li>
                            <li>Revoke Object Privileges</li>
                         </ul>
-                        <h4>Management of Schema Objects</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>   
+                        <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeventeen" aria-expanded="false" aria-controls="collapseSeventeen">
+Management of Schema Objects
+        </a>
+      </h6>
+    </div>
+    <div id="collapseSeventeen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+    <ul>
                            <li>Add, Modify and Drop a Column</li>
                            <li>Add, Drop and Defer a Constraint</li>
                            <li>How to enable and disable a Constraint?</li>
@@ -277,8 +502,20 @@
                            <li>Create an External Table by Using ORACLE_LOADER and by Using ORACLE_DATAPUMP</li>
                            <li>Query External Tables</li>
                         </ul>
-                        <h4>Manage Objects with Data Dictionary Views</h4>
-                        <ul>
+      </div>
+    </div>
+  </div>   
+                         <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h6 class="panel-title">
+        <a class="btn btn-success" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEighteen" aria-expanded="false" aria-controls="collapseEighteen">
+Manage Objects with Data Dictionary Views
+        </a>
+      </h6>
+    </div>
+    <div id="collapseEighteen" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+    <ul>
                            <li>Explain the data dictionary</li>
                            <li>Use the Dictionary Views</li>
                            <li>USER_OBJECTS and ALL_OBJECTS Views</li>
@@ -288,8 +525,10 @@
                            <li>Add a comment to a table</li>
                            <li>Query the dictionary views for comment information</li>
                         </ul>
-
-                    
+      </div>
+    </div>
+  </div>                   
+</div>
                 </div>
             </div>
         </div>
