@@ -112,7 +112,26 @@
                     </div>
                 </div>   
                 <div class="col-md-4">
-
+                    <div>
+                <h4><strong>Get in Touch</strong></h4>
+                <form>
+                    <div class="form-group">
+                        <input type="text" class="form-control" name="" value="" placeholder="Name">
+                    </div>
+                    <div class="form-group">
+                        <input type="email" class="form-control" name="" value="" placeholder="E-mail">
+                    </div>
+                    <div class="form-group">
+                        <input type="tel" class="form-control" name="" value="" placeholder="Phone">
+                    </div>
+                    <div class="form-group">
+                        <textarea class="form-control" name="" rows="3" placeholder="Message"></textarea>
+                    </div>
+                    <button class="btn btn-default" type="submit" name="button">
+                        <i class="fa fa-paper-plane-o" aria-hidden="true"></i> Submit
+                    </button>
+                </form>
+            </div>
                         <h4>Introduction to Oracle Database</h4>
                         <ul>
                            <li>What is Oracle</li>
