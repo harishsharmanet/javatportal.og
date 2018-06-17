@@ -9,7 +9,7 @@
 <script src="<?php echo HOME;?>/assets/js/jquery.min.js"></script>    -->
  
  <link rel="stylesheet" href="http://localhost/javatportal.org/assets/css/custom.css">
- <link rel="stylesheet" href="http://localhost/javatportal.org/assets/css/bootstrap7.min.css">
+ <link rel="stylesheet" href="http://localhost/javatportal.org/assets/css/bootstrap8.min.css">
    <link rel="stylesheet" href="http://localhost/javatportal.org/assets/css/carasoul.css">
  
 
