@@ -16,7 +16,8 @@
           </center>
         <div class="carousel-caption">
           <h3>JAVATPORTAL CORPORATION</h3>
-          <p>Software Development & Training Program Center</p>
+          <p>सॉफ्टवेयर विकास एवं प्रशिक्षण कार्यक्रम केंद्र</p>
+          <p style="font-size:12px">Software Development & Training Program Center</p>
         </div>
       </div>  
     </div>
