@@ -1,4 +1,4 @@
-
+<?php include 'contact-sidebar.php'; ?>
             <h6>ADVERTISEMENT</h6>
             <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Ad Sidebar -->

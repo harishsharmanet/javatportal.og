@@ -63,7 +63,7 @@
             </style>
         <div class="jumbotron">
             <div class="opacity-effect">
-            <h1 class="display-3"><i class="fas fa-database"></i>&nbsp;Oracle Training Program | Noida</h1>
+            <h1 class="display-3 mobd"><i class="fas fa-database"></i>&nbsp;Oracle Training Program | Noida</h1>
         <h4>Best Oracle Training Program Center in Noida</h4>
         <h5><i class="fas fa-star icogreen"></i><i class="fas fa-star icogreen"></i><i class="fas fa-star icogreen"></i><i class="fas fa-star icogreen"></i><i class="fas fa-star icogreen"></i></h5>
         </div>
