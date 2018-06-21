@@ -54,82 +54,10 @@
         
         <?php include 'slider/slider.php';?>
         <div class="container">
-        <div class="row">
-          <div class="col-md-3">
-            <div class="square-service-block">
-               <a href="<?php echo HOME;?>/services/seo-services.php">
-                 <div class="ssb-icon"><i class="fas fa-search fa-spin" aria-hidden="true"></i></div>
-                 <h2 class="ssb-title">SEO</h2>  
-               </a>
-            </div>
-          </div>
-          
-          <div class="col-md-3">
-            <div class="square-service-block">
-               <a href="<?php echo HOME;?>/services/web-design-services.php">
-                 <div class="ssb-icon"> <i class="fa fa-globe fa-spin" aria-hidden="true"></i> </div>
-                 <h2 class="ssb-title">Web Design</h2>  
-               </a>
-            </div>
-          </div>
-          
-          <div class="col-md-3">
-            <div class="square-service-block">
-               <a href="<?php echo HOME;?>/services/logo-designing.php">
-                 <div class="ssb-icon"><i class="fab fa-accusoft fa-spin" aria-hidden="true"></i></div>
-                 <h2 class="ssb-title">Logo Design</h2>  
-               </a>
-            </div>
-          </div>
-          
-          <div class="col-md-3">
-            <div class="square-service-block">
-               <a href="<?php echo HOME;?>/services/content-writing-services.php">
-                 <div class="ssb-icon"><i class="fa fa-font fa-spin" aria-hidden="true"></i></div>
-                 <h2 class="ssb-title">Content Writing</h2>  
-               </a>
-            </div>
-          </div>
-          
-          <div class="col-md-3">
-            <div class="square-service-block">
-               <a href="<?php echo HOME;?>/services/smo-services.php">
-                 <div class="ssb-icon"><i class="fa fa-cubes fa-spin" aria-hidden="true"></i></div>
-                 <h2 class="ssb-title">SMO</h2>  
-               </a>
-            </div>
-          </div>
-          
-          <div class="col-md-3">
-            <div class="square-service-block">
-               <a href="<?php echo HOME;?>/services/web-development-services.php">
-                 <div class="ssb-icon"><i class="fab fa-connectdevelop fa-spin" aria-hidden="true"></i></div>
-                 <h2 class="ssb-title">Web Development</h2>  
-               </a>
-            </div>
-          </div>
-          
-          <div class="col-md-3">
-            <div class="square-service-block">
-               <a href="<?php echo HOME;?>/services/link-building-services.php">
-                 <div class="ssb-icon"><i class="fas fa-link fa-spin" aria-hidden="true"></i> </div>
-                 <h2 class="ssb-title">Link Building</h2>  
-               </a>
-            </div>
-          </div>
-          
-          <div class="col-md-3">
-            <div class="square-service-block">
-               <a href="<?php echo HOME;?>/services/payment-gateway-services.php">
-                 <div class="ssb-icon"><i class="fas fa-rupee-sign fa-spin" aria-hidden="true"></i> </div>
-                 <h2 class="ssb-title">Payment Gateways</h2>  
-               </a>
-            </div>
-          </div>
-          
-       </div>
+        
             <br/>
             <h1>Welcome to JavaTportal Corporation</h1>
+
             <p>JavaTportal Corporation Private Limited objective is to provide the best IT and software services to the client. We also looking our self to be establish as a best Indian IT company. We also want the provide our services not only for Indian clients even also for foreign clients. Our team members also handling the challenges for complete our vision and mission. We also supports the Indian Government campaign like 'Digital India' and 'Skill India'. JavaTportal Corporation providing their services successfully as a web development company in Ghaziabad and Delhi region. The happy clients and society will be always our objective and mission. Read More</p>
             
             <h2>Expertise Services We Offer</h2>
@@ -137,32 +65,31 @@
             
            <div class="row">
             <div class="col">
-                <i class="far fa-object-group fa-7x"></i>
-                <a href="<?php echo HOME;?>/services/web-design-services.php"><h4>Web Designing</h4></a>
+                <a href="<?php echo HOME;?>/services/web-design-services.php" class="faa-parent animated-hover"><i class="far fa-object-group fa-7x faa-tada"></i><h4>Web Designing</h4></a>
             </div>
             <div class="col">
-                <i class="fab fa-connectdevelop fa-7x"></i>
-                <a href="<?php echo HOME;?>/services/wordpress-website-design.php"><h4>CMS Web Development</h4></a></div>
+                
+                <a class="faa-parent animated-hover" href="<?php echo HOME;?>/services/wordpress-website-design.php"><i class="fab fa-connectdevelop fa-7x faa-tada"></i><h4>CMS Web Development</h4></a></div>
             <div class="col">
-                <i class="fab fa-android fa-7x"></i>
-                <a href="<?php echo HOME;?>/services/web-design-services.php"><h4>Android App Development</h4></a></div>
+                
+                <a class="faa-parent animated-hover" href="<?php echo HOME;?>/services/web-design-services.php"><i class="fab fa-android fa-7x faa-tada"></i><h4>Android App Development</h4></a></div>
             <div class="col">
-                <i class="fas fa-cart-arrow-down fa-7x"></i>
-                <a href="<?php echo HOME;?>/services/ecommerce-design.php"><h4>E-commercial Development</h4></a></div>
+                
+                <a class="faa-parent animated-hover" href="<?php echo HOME;?>/services/ecommerce-design.php"><i class="fas fa-cart-arrow-down fa-7x faa-tada"></i><h4>E-commercial Development</h4></a></div>
           </div>
             <div class="row">
             <div class="col">
-                <i class="fab fa-searchengin fa-7x"></i>
-                <a href="<?php echo HOME;?>/services/seo-services.php"><h4>SEO Services</h4></a></div>
+                
+                <a class="faa-parent animated-hover" href="<?php echo HOME;?>/services/seo-services.php"><i class="fab fa-searchengin fa-7x faa-tada"></i><h4>SEO Services</h4></a></div>
             <div class="col">
-                <i class="fas fa-money-bill-alt fa-7x"></i>
-                <a href="<?php echo HOME;?>/services/smo-services.php"><h4>PPC Services</h4></a></div>
+                
+                <a class="faa-parent animated-hover" href="<?php echo HOME;?>/services/smo-services.php"><i class="fas fa-money-bill-alt fa-7x faa-tada"></i><h4>PPC Services</h4></a></div>
             <div class="col">
-                <i class="fas fa-server fa-7x"></i>
-                <a href="https://myhost.javatportal.org"><h4>Domain & Hosting</h4></a></div>
+                
+                <a class="faa-parent animated-hover" href="https://myhost.javatportal.org"><i class="fas fa-server fa-7x faa-tada"></i><h4>Domain & Hosting</h4></a></div>
             <div class="col">
-                <i class="fab fa-soundcloud fa-7x"></i>
-                <a href="<?php echo HOME;?>/services/web-design-services.php"><h4>ERP Software</h4></a></div>
+                
+                <a class="faa-parent animated-hover" href="<?php echo HOME;?>/services/web-design-services.php"><i class="fab fa-soundcloud fa-7x faa-tada"></i><h4>ERP Software</h4></a></div>
           </div>
         </div>
         

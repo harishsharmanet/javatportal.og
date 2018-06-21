@@ -20,8 +20,8 @@
         <div class="carousel-caption " >
             <img src="<?php echo HOME;?>/assets/img/logo.png" alt="Javatportal" style="width: 10% !important;">
           <h3>JAVATPORTAL CORPORATION</h3>
-          <p>सॉफ्टवेयर विकास एवं प्रशिक्षण कार्यक्रम केंद्र</p>
-          <p style="font-size:12px">Software Development & Training Program Center</p>
+          <p style="text-align:center">सॉफ्टवेयर विकास एवं प्रशिक्षण कार्यक्रम केंद्र</p>
+          <p style="font-size:12px; text-align:center">Software Development & Training Program Center</p>
         </div>
       </div>  
     </div>
