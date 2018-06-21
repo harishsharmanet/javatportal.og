@@ -4,7 +4,7 @@
     <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
         <link rel="shortcut icon" href="assets/img/favicon.ico" />
         <meta name="viewport" content="width=device-width">
-        <title>About Us- Javatportal Corporation Private Limited</title>
+        <title>About Us- JavaTportal Corporation Private Limited</title>
     <meta name="description" content="JavaTportal leading Website Designing Company in Ghaziabad based Company. Which Offers Website Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services.">
 <meta name="keywords" content="website designing company in delhi,web designing company in delhi,web designing company delhi,website designing company delhi,website designing in delhi,website designing company in noida,best website designing company in delhi,ecommerce website designing company in delhi,top web designing company in delhi,website designing services in delhi,responsive website designing company in delhi,web designing company, website designing companies, web development companies, website designing in India,B2B Portal Development Company Delhi, B2C Portal Development company Delhi" />
   <meta name="copyright" content="Copyright 2014-17 JavaTportal Corporation (P) Limited - Website Designing Company in Ghaziabad" /> 

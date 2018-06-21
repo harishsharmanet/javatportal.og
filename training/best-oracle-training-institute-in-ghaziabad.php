@@ -103,27 +103,75 @@
 
                     </div>
                     <hr/>       
-
-                    <div class="panel-group">
-                        <div class="panel panel-default">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                    <a data-toggle="collapse" href="#collapse1" class="breadcrumb">
-                                        <i class="fas fa-chevron-circle-down"></i> &nbsp;&nbsp; Oracle Trainer Profile</a>
-                                </h4>
+     <div id="accordion">
+                        <div class="card">
+                            <div class="card-header" id="headingOne">
+                                <h8 class="mb-0"  text-align: left>
+                                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        <i class="fas fa-chevron-circle-down"></i> Oracle Trainer Profile 
+                                    </button>
+                                </h8>
                             </div>
-                            <div id="collapse1" class="panel-collapse collapse">
-                                <ul> 
-                                    <li>More than 10 Years of experience in Oracle&reg; Technologies</li>
-                                    <li>Has worked on multiple realtime Oracle projects</li>
-                                    <li>Working in a top MNC company in Bangalore</li>
-                                    <li>Trained 2000+ Students so far</li>
-                                    <li>Strong Theoretical & Practical Knowledge</li>
-                                    <li>Certified Professionals</li>
-                                </ul>
+
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul> 
+                                        <li>More than 10 Years of experience in Oracle&reg; Technologies</li>
+                                        <li>Has worked on multiple realtime Oracle projects</li>
+                                        <li>Working in a top MNC company in Bangalore</li>
+                                        <li>Trained 2000+ Students so far</li>
+                                        <li>Strong Theoretical & Practical Knowledge</li>
+                                        <li>Certified Professionals</li>
+                                    </ul>      </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingTwo">
+                                <h8 class="mb-0">
+                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        <i class="fas fa-chevron-circle-down"></i>   Oracle Placement Training in Noida
+                                    </button>
+                                </h8>
+                            </div>
+                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                                <div class="card-body">
+                                    <ul> 
+                                        <li>    More than 2000+ students Trained</li>
+                                        <li> 92% percent Placement Record</li>
+                                        <li> 1000+ Interviews Organized</li></ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="card-header" id="headingThree">
+                                <h8 class="mb-0">
+                                    <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        <i class="fas fa-chevron-circle-down"></i>   Oracle Training Batch Size in Noida
+                                    </button>
+                                </h8>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                <div class="card-body">
+                                    <div class="card-body"> 
+
+                                        <ul class="list-1">
+                                            <strong>Regular Batch (Morning, Day time &amp; Evening)</strong>
+                                            <li>Seats Available : 10 (maximum)</li>
+                                        </ul>
+                                        <ul class="list-1">
+                                            <strong>Weekend Training Batch (Saturday, Sunday &amp; Holidays)</strong>
+                                            <li>Seats Available : 8 (maximum)</li>
+                                        </ul>
+                                        <ul class="list-1">
+                                            <strong>Fast Track Batch</strong>
+                                            <li>Seats Available : 5 (maximum)</li>
+                                        </ul>
+                                    </div> 
+                                </div>
                             </div>
                         </div>
                     </div>
+                    <hr>
                     <?php include '../inc/oralce-related-courses.php' ?>
                 </div>   
                 <div class="col-md-4">

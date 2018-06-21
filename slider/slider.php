@@ -1,8 +1,8 @@
 <style>
     .carousel .item {
-    height: 311px !important;
+    height: 340px !important;
     background-image: url('<?php echo HOME;?>/assets/img/jumborton2.jpg');
-}
+   
 </style>
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
