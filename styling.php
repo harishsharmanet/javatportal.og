@@ -11,6 +11,7 @@
  <link rel="stylesheet" href="http://localhost/javatportal.org/assets/css/custom.css">
  <link rel="stylesheet" href="http://localhost/javatportal.org/assets/css/bootstrap2.min.css">
    <link rel="stylesheet" href="http://localhost/javatportal.org/assets/css/carasoul.css">
+   <link rel="stylesheet" href="http://localhost/javatportal.org/assets/css/font-awesome-animation.min.css">
  
 
  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
