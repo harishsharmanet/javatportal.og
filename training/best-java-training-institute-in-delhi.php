@@ -1,4 +1,3 @@
-<?php include '../inc/config.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
     <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">

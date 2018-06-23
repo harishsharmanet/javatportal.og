@@ -158,6 +158,7 @@
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 <ul class="contact">
                     <span>Contact US</span>    
+                    
                     <li>
                         <a href="http://www.javatportal.org/training/terms-of-use.php">Terms of Use</a>
                     </li>
@@ -190,7 +191,10 @@
         </div> 
     </div>
       <div class="container">
-        <span class="text-muted">All Rights Reserved at Javatportal.org</span>
+          <center><img src="http://localhost/javatportal.org/assets/img/jtp_logo.png" class="img-responsive">
+          <p style="color:white; text-align: center">All Rights Reserved at Javatprotal Corporation</p>
+          </center>
+        
       </div>
 </footer>
 <style>

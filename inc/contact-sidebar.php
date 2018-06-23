@@ -1,5 +1,5 @@
-<div class="card text-white bg-primary mb-3" style="max-width: 20rem;">
-    <h4 class="card-title">Contact Us</h4>
+<div class="card text-white bg-primary mb-3 " style="max-width: 20rem;">
+    <h4 class="card-title faa-horizontal animated">Contact Us</h4>
     <hr/>
     <div class="card-body">
         <h6><a href="tel:09711195889" style="color: #fff">+91 | 97111 95889</a></h6>

@@ -62,11 +62,11 @@
             
             <div class="row">
                 <div class="col">
-                    <i class="fas fa-phone fa-7x"></i><br/><br/>
+                    <i class="fas fa-phone fa-7x faa-wrench animated"></i><br/><br/>
                     <h2><a href="tel:09711195889">+91 | 97111 95889</a></h2>
                 </div>
                 <div class="col">
-                     <i class="fas fa-at fa-7x"></i><br/><br/>
+                     <i class="fas fa-at fa-7x faa-horizontal animated"></i><br/><br/>
                      <h2 style="text-transform: inherit;"><a href="mailto:info@javatportal.org?Subject=Enquiry%20Statement" target="_top">info@javatportal.org</a></h2>
                     
                 </div>
