@@ -40,75 +40,32 @@
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 <ul class="contact">
                     <span>Website Designing</span>    
-                    <li>
-                        <a href="http://www.javatportal.org/services/web-design-services.php">Website Designing Company in Delhi</a>
-                    </li>
-
-                    <li>
-                        <a href="http://www.javatportal.org/services/web-design-services.php">Website Designing Company in India</a>
-                    </li>
-
-                    <li>
-                        <a href="http://www.javatportal.org/services/web-design-services.php">Website Designing Company in Gurgaon</a>
-                    </li>
-
-                    <li>
-                        <a href="http://www.javatportal.org/services/web-design-services.php">Website Designing Company in Faridabad </a>
-                    </li>
-
-                    <li>
-                        <a href="http://www.javatportal.org/services/web-design-services.php">Website Designing Company in Ghaziabad</a>
-                    </li>
-                    <li>
-                        <a href="http://www.javatportal.org/services/web-design-services.php">Website Designing Company in Noida</a>
-                    </li>
-                    <li>
-                        <a href="http://www.javatportal.org/services/web-design/ecommerce-design.php">E Commerce Website Design Company</a>
-                    </li>
-                    <li>
-                        <a href="http://www.javatportal.org/services/web-design-services.php">Website re-designing Design Company</a>
-                    </li>
-                    <li>
-                        <a href="http://www.javatportal.org/services/web-design-services.php">Website Maintenance Services Provider</a>
-                    </li>
-                </ul>
+                    <ul>
+                                	<li><a  href="#"><i class="fa fa-angle-double-right"></i> About Us</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> Contact Us</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> Success Stories</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> PG Courses</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> Achiever's Batch</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Regular Batch</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Test & Discussion</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Fast Track T & D</a></li>
+                                </ul>
             </div>
 
             
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 <ul class="contact">
                     <span>Website Promotion</span>    
-                    <li>
-                        <a href="#">Search Engine Optimization</a>
-                    </li>
-
-                    <li>
-                        <a href="#">Top 20 Search Engines</a>
-                    </li>
-
-                    <li>
-                        <a href="#">Search Engines List</a>
-                    </li>
-
-                    <li>
-                        <a href="#">Internet Marketing </a>
-                    </li>
-
-                    <li>
-                        <a href="#">Email Marketing</a>
-                    </li>
-                    <li>
-                        <a href="#">PPC Management</a>
-                    </li>
-                    <li>
-                        <a href="#">Social Media Optimization</a>
-                    </li>
-                    <li>
-                        <a href="#">Local Seo Services</a>
-                    </li>
-                    <li>
-                        <a href="#">Global Seo Services</a>
-                    </li>
+                 <ul>
+                                	<li><a  href="#"><i class="fa fa-angle-double-right"></i> About Us</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> Contact Us</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> Success Stories</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> PG Courses</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i> Achiever's Batch</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Regular Batch</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Test & Discussion</a></li>
+                                    <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Fast Track T & D</a></li>
+                                </ul>
 
                 </ul>
             </div>
@@ -117,41 +74,15 @@
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 <ul class="contact">
                     <span>Training-Programs</span>    
-                    <li>
-                        <a href="http://www.javatportal.org/services/mis-training-institute-in-delhi-ncr.php">MIS & Analytics Training Institute</a>
-                    </li>
-
-                    <li>
-                        <a href="http://www.javatportal.org/training/php-training-institute.php">PHP Training Institute in Ghaziabad</a>
-                    </li>
-
-                    <li>
-                        <a href="#">Android Training</a>
-                    </li>
-
-                    <li>
-                        <a href="#">.Net Training</a>
-                    </li>
-
-                    <li>
-                        <a href="#">PHP Training</a>
-                    </li>
-                    <li>
-                        <a href="#">C/C++ Training</a>
-                    </li>
-                    <li>
-                        <a href="#">Oracle Training</a>
-                    </li>
-                    <li>
-                        <a href="#">SQT Training</a>
-                    </li>
-                    <li>
-                        <a href="#">Web Designing Training</a>
-                    </li>
-                    <li>
-                        <a href="#">SEO Training</a>
-                    </li>
-                    
+                   <li><a href="#"><i class="fa fa-angle-double-right"></i> Enquiry Form</a></li>
+ 				<li><a href="#"><i class="fa fa-angle-double-right"></i> Online Test Series</a></li>
+				<li><a href="#"><i class="fa fa-angle-double-right"></i> Grand Tests Series</a></li>
+				<li><a href="#"><i class="fa fa-angle-double-right"></i> Subject Wise Test Series</a></li>
+				<li><a href="#"><i class="fa fa-angle-double-right"></i> Smart Book</a></li>
+				<li><a href="#"><i class="fa fa-angle-double-right"></i> Test Centres</a></li>
+                <li><a href="#"><i class="fa fa-angle-double-right"></i>  Admission Form</a></li>
+				<li><a href="#"><i class="fa fa-angle-double-right"></i>  Computer Live Test</a></li>
+      
                 </ul>
             </div>
 
@@ -221,6 +152,11 @@
         </div>
     </div>
 </div>
+ 
+ 
+</footer>
+<!--header-->
 
+ 
     </body>
 </html>
