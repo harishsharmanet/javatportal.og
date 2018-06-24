@@ -180,7 +180,7 @@
                             <h4 class="card-title">
                                 <a href="<?php echo HOME; ?>/amazon-web-services-training-in-bangalore.html">AWS Training</a>                      
                                 <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
-                             </h4>                  
+                            </h4>                  
                         </div>                      
                     </div>   
                 </div>
@@ -214,7 +214,7 @@
                         <div class="card-body">
                             <h4 class="card-title">
                                 <a href="<?php echo HOME; ?>/datastage-training-in-bangalore.html">Data Science with R</a>
-                                 <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
 
                             </h4>
                         </div>
@@ -226,7 +226,7 @@
                         <div class="card-body">
                             <h4 class="card-title">
                                 <a href="<?php echo HOME; ?>/datastage-training-in-bangalore.html">Big Data Hadoop Training</a>
-                               <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
 
                             </h4>
                         </div>
@@ -238,7 +238,7 @@
                         <div class="card-body">
                             <h4 class="card-title">
                                 <a href="<?php echo HOME; ?>/python-training-in-bangalore.html">Python Training</a>
-                                 <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
 
                             </h4>
                         </div>
@@ -250,7 +250,7 @@
                         <div class="card-body">
                             <h4 class="card-title">
                                 <a href="<?php echo HOME; ?>/web-designing-training-in-bangalore.html">Web Designing</a>
-                            <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
 
                             </h4>
                         </div>
@@ -262,7 +262,7 @@
                         <div class="card-body">
                             <h4 class="card-title">
                                 <a href="<?php echo HOME; ?>/training/best-oracle-training-institute-in-noida.php">Data Science Training</a>
-                              <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
 
                             </h4>
                         </div>
@@ -274,7 +274,7 @@
                         <div class="card-body">
                             <h4 class="card-title">
                                 <a href="<?php echo HOME; ?>/java-training-in-bangalore.html">Java Training</a>
-                          <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
 
                             </h4>
                         </div>
@@ -286,7 +286,7 @@
                         <div class="card-body">
                             <h4 class="card-title">
                                 <a href="<?php echo HOME; ?>/angularjs-training-in-bangalore.html">Angular JS Training</a>
-                          <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
 
                             </h4>
                         </div>
@@ -298,7 +298,7 @@
                         <div class="card-body">
                             <h4 class="card-title">
                                 <a href="<?php echo HOME; ?>/sas-training-in-bangalore.html">SAS Training</a>
-                            <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
 
                             </h4>
                         </div>
@@ -310,7 +310,7 @@
                         <div class="card-body">
                             <h4 class="card-title">
                                 <a href="<?php echo HOME; ?>/training/php-training-institute.php">PHP Training</a>
-                              <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
 
                             </h4>
                         </div>
@@ -358,10 +358,11 @@
                     <span class="fa fa-chevron-right"></span>
                 </a>
             </div>
-            <h2>About US</h2>
-            <h4>JavaTportal Corporation - SEO & Web Designing Company India</h4>
-            <p>JavaTportal Corporation is an emerging Online Marketing Firm dedicated to provide wide range of Online Marketing Solutions and Web based solutions to clients based in India and abroad. Since our inception we are working towards creating successful Internet Marketing Campaigns for our clients which can increase their business into many folds.</p>
-            <button type="button" class="btn btn-primary btn-lg btn-block" onclick="window.location = '<?php echo HOME; ?>/about-us.php'">Read More About Javatportal Corporation</button>
+            <h4>JavaTportal Campus Placement Preparation</h4>
+            <p><strong> The 3 Tier Placement Cell</strong> We have a dedicated Placement cell, continuously working to provide the best placement opportunities to our student. The Placement Cell works the Following structure:</p>
+            <p style="text-align: center" > <strong> 1. Local Network. </strong> <strong> 2. National Presence. </strong> <strong> 3. International Reach.</strong></p>
+            <img src="assets/img/javatportal-placement-process.jpg" width="100%">
+           <p>The entire placement process, be it for the summer or the Final placements, is managed by a group of dynamic students under the placement committee. These students manage the entire placement process from arranging corporative visits to final interviews and even joining formalities. This is one of the most beneficial experiential exercises done by student at JavaTportal. This activity gives them practical and real time exposure to planning, Resource utilization and perfect execution techniques.</p>
         </div>
         <?php include 'inc/footer.php'; ?>
         

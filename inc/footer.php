@@ -1,3 +1,4 @@
+
 <section id="contact">
     <div><!-- Container class Missing -->
         <div class="well well-sm">
@@ -127,6 +128,7 @@
           </center>
         
       </div>
+   
 </footer>
 <style>
     .fixed-bottom i{
@@ -152,11 +154,5 @@
         </div>
     </div>
 </div>
- 
- 
-</footer>
-<!--header-->
-
- 
-    </body>
+  </body>
 </html>
