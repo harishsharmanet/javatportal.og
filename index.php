@@ -319,45 +319,94 @@
             </div>
             <br/>
             <h2>what our clients are saying</h2>
-            <div id="testimonial4" class="carousel slide testimonial4_indicators testimonial4_control_button thumb_scroll_x swipe_x" data-ride="carousel" data-pause="hover" data-interval="5000" data-duration="2000">
-                <div class="testimonial4_header">
+             <!-- Section: Testimonials v.3 -->
+<section class="team-section text-center my-5">
+  <!--Grid row-->
+  <div class="row text-center">
 
-                </div>
-                <ol class="carousel-indicators">
-                    <li data-target="#testimonial4" data-slide-to="0" class="active"></li>
-                    <li data-target="#testimonial4" data-slide-to="1"></li>
-                    <li data-target="#testimonial4" data-slide-to="2"></li>
-                </ol>
-                <div class="carousel-inner" role="listbox">
-                    <div class="item active">
-                        <div class="testimonial4_slide">
-                            <img src="http://via.placeholder.com/100x100" class="img-circle img-responsive" />
-                            <p>Just wanted to say Thank You " I want to thank you for your excellent service, with fresh content and timely delivery of reports with positive results. This was my first experience to outsourcing my work to India, you made me surprised and happy as well. I shall be happy to hier you in future. All the best!</p>
-                            <h4>Ben Hanna</h4>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimonial4_slide">
-                            <img src="http://via.placeholder.com/100x100" class="img-circle img-responsive" />
-                            <p>Lorem ipsum dolor sit amet adipiscing elit am nibh unc varius facilisis eros ed erat in in velit quis arcu ornare laoreet urabitur.</p>
-                            <h4>Ben Hanna</h4>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="testimonial4_slide">
-                            <img src="http://via.placeholder.com/100x100" class="img-circle img-responsive" />
-                            <p>Just wanted to say Thank You " I want to thank you for your excellent service, with fresh content and timely delivery of reports with positive results. This was my first experience to outsourcing my work to India, you made me surprised and happy as well. I shall be happy to hier you in future. All the best!</p>
-                            <h4>Ben Hanna</h4>
-                        </div>
-                    </div>
-                </div>
-                <a class="left carousel-control" href="#testimonial4" role="button" data-slide="prev">
-                    <span class="fa fa-chevron-left"></span>
-                </a>
-                <a class="right carousel-control" href="#testimonial4" role="button" data-slide="next">
-                    <span class="fa fa-chevron-right"></span>
-                </a>
-            </div>
+    <!--Grid column-->
+    <div class="col-md-4 mb-md-0 mb-5">
+
+      <div class="testimonial">
+        <!--Avatar-->
+        <div class="avatar mx-auto">
+          <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(1).jpg" class="rounded-circle z-depth-1 img-fluid">
+        </div>
+        <!--Content-->
+        <h4 class="font-weight-bold dark-grey-text mt-4">Anna Deynah</h4>
+        <h6 class="font-weight-bold blue-text my-3">Web Designer</h6>
+        <p class="font-weight-normal dark-grey-text">
+          <i class="fa fa-quote-left pr-2"></i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab hic tenetur.</p>
+        <!--Review-->
+        <div class="orange-text">
+          <i class="fa fa-star"> </i>
+          <i class="fa fa-star"> </i>
+          <i class="fa fa-star"> </i>
+          <i class="fa fa-star"> </i>
+          <i class="fa fa-star-half-full"> </i>
+        </div>
+      </div>
+
+    </div>
+    <!--Grid column-->
+
+    <!--Grid column-->
+    <div class="col-md-4 mb-md-0 mb-5">
+
+      <div class="testimonial">
+        <!--Avatar-->
+        <div class="avatar mx-auto">
+          <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(8).jpg" class="rounded-circle z-depth-1 img-fluid">
+        </div>
+        <!--Content-->
+        <h4 class="font-weight-bold dark-grey-text mt-4">John Doe</h4>
+        <h6 class="font-weight-bold blue-text my-3">Web Developer</h6>
+        <p class="font-weight-normal dark-grey-text">
+          <i class="fa fa-quote-left pr-2"></i>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid commodi.</p>
+        <!--Review-->
+        <div class="orange-text">
+          <i class="fa fa-star"> </i>
+          <i class="fa fa-star"> </i>
+          <i class="fa fa-star"> </i>
+          <i class="fa fa-star"> </i>
+          <i class="fa fa-star"> </i>
+        </div>
+      </div>
+
+    </div>
+    <!--Grid column-->
+
+    <!--Grid column-->
+    <div class="col-md-4">
+
+      <div class="testimonial">
+        <!--Avatar-->
+        <div class="avatar mx-auto">
+          <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg" class="rounded-circle z-depth-1 img-fluid">
+        </div>
+        <!--Content-->
+        <h4 class="font-weight-bold dark-grey-text mt-4">Maria Kate</h4>
+        <h6 class="font-weight-bold blue-text my-3">Photographer</h6>
+        <p class="font-weight-normal dark-grey-text">
+          <i class="fa fa-quote-left pr-2"></i>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</p>
+        <!--Review-->
+        <div class="orange-text">
+          <i class="fa fa-star"> </i>
+          <i class="fa fa-star"> </i>
+          <i class="fa fa-star"> </i>
+          <i class="fa fa-star"> </i>
+          <i class="fa fa-star-o"> </i>
+        </div>
+      </div>
+
+    </div>
+    <!--Grid column-->
+
+  </div>
+  <!--Grid row-->
+
+</section>
+<!-- Section: Testimonials v.3 -->
             <h4>JavaTportal Campus Placement Preparation</h4>
             <p><strong> The 3 Tier Placement Cell</strong> We have a dedicated Placement cell, continuously working to provide the best placement opportunities to our student. The Placement Cell works the Following structure:</p>
             <p style="text-align: center" > <strong> 1. Local Network. </strong> <strong> 2. National Presence. </strong> <strong> 3. International Reach.</strong></p>
