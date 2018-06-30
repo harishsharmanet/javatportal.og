@@ -56,11 +56,11 @@
         <div class="container">
 
             <br/>
-            <h1>Welcome to JavaTportal Corporation</h1>
+            <h1><img src="<?php echo HOME; ?>/assets/img/logo.png" alt="Javatportal" style="width: 6% !important;">Welcome to JavaTportal Corporation</h1>
 
             <p>JavaTportal Corporation Private Limited objective is to provide the best IT and software services to the client. We also looking our self to be establish as a best Indian IT company. We also want the provide our services not only for Indian clients even also for foreign clients. Our team members also handling the challenges for complete our vision and mission. We also supports the Indian Government campaign like 'Digital India' and 'Skill India'. JavaTportal Corporation providing their services successfully as a web development company in Ghaziabad and Delhi region. The happy clients and society will be always our objective and mission. Read More</p>
 
-            <h2>Expertise Services We Offer</h2>
+            <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Expertise Services We Offer</h2>
             <h5>Grow your business and save time with seamless experience</h5>
 
             <div class="row">
@@ -93,24 +93,33 @@
             </div>
         </div>
 
+        <br/>
+         <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Recent Work</h2>
+                <h5>Make a better Health for bright Future</h5>
         <section id="tabs">
             <div class="container">
-                <h2>Recent Work</h2>
-                <h5>Make a better Health for bright Future</h5>
                 <div class="row">
                     <div class="col-xs-12 ">
-                        <nav>
-                            <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
-                                <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home-tab">What we done</a>
-                                <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile-tab">Design Process</a>
-                                <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact-tab">Quality SEO Services</a>
-                                <a class="nav-item nav-link" id="nav-about-tab" data-toggle="tab" href="#nav-about-tab">Logo Designing</a>
-                            </div>
-                        </nav>
-                        <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
-                            <div class="tab-pane fade show active" id="nav-home-tab" role="tabpanel" aria-labelledby="nav-home-tab">
+                        
+                            <ul class="nav nav-tabs" role="tablist">
+                                 <li class="nav-item">
+                                   <a class="nav-item nav-link active" href="#what-we-done" role="tab" data-toggle="tab">What we done?</a>
+                                 </li>
+                                 <li class="nav-item">
+                                   <a class="nav-item nav-link" href="#design-process" role="tab" data-toggle="tab">Design Process</a>
+                                 </li>
+                                 <li class="nav-item">
+                                   <a class="nav-item nav-link" href="#seo-services" role="tab" data-toggle="tab">Quality SEO Services</a>
+                                 </li>
+                                 <li class="nav-item">
+                                   <a class="nav-item nav-link" href="#logo-design" role="tab" data-toggle="tab">Logo Designing</a>
+                                 </li>
+                            </ul>
 
-                                <div class="row">
+                               <!-- Tab panes -->
+                               <div class="tab-content">
+                                   <div role="tabpanel" class="tab-pane fade in active" id="what-we-done">
+                                        <div class="row">
                                     <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
                                         <div class="card h-100">
                                             <a href="http://civildefenceghaziabad.com/"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/website_screenshot/civil_defence.jpg" alt="" width="700" height="300"></a>
@@ -151,27 +160,18 @@
                                             </div>
                                         </div>
                                     </div>
-
                                 </div>
-
-                            </div>
-                            <div class="tab-pane fade" id="nav-profile-tab" role="tabpanel" aria-labelledby="nav-profile-tab">
-                                Et et consectetur sdfadfasdf labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
-                            </div>
-                            <div class="tab-pane fade" id="nav-contact-tab" role="tabpanel" aria-labelledby="nav-contact-tab">
-                                Edsfsdfsd
-                                <div class="tab-pane fade" id="nav-about-tab" role="tabpanel" aria-labelledby="nav-about-tab">
-                                    Esdfsdfpsum labore excepteur est proident excepteur ad velit occaecat qui minim occaecat veniam. Fugiat veniam incididunt anim aliqua enim pariatur veniam sunt est aute sit dolor anim. Velit non irure adipisicing aliqua ullamco irure incididunt irure non esse consectetur nostrud minim non minim occaecat. Amet duis do nisi duis veniam non est eiusmod tempor incididunt tempor dolor ipsum in qui sit. Exercitation mollit sit culpa nisi culpa non adipisicing reprehenderit do dolore. Duis reprehenderit occaecat anim ullamco ad duis occaecat ex.
-                                </div>
-                            </div>
-
-                        </div>
+                                   </div>
+                                 <div role="tabpanel" class="tab-pane fade" id="design-process">bbb</div>
+                                 <div role="tabpanel" class="tab-pane fade" id="seo-services">ccc</div>
+                                 <div role="tabpanel" class="tab-pane fade" id="logo-design">ccc</div>
+                               </div>       
                     </div>
                 </div>
         </section>
         <div class="container">
             <br/>
-            <h2>Popular Training Cources</h2>
+            <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Popular Training Cources</h2>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100">
@@ -318,7 +318,7 @@
                 </div>
             </div>
             <br/>
-            <h2>what our clients are saying</h2>
+            <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;What Our Clients Are Saying</h2>
              <!-- Section: Testimonials v.3 -->
 <section class="team-section text-center my-5">
   <!--Grid row-->
@@ -407,7 +407,7 @@
 
 </section>
 <!-- Section: Testimonials v.3 -->
-            <h4>JavaTportal Campus Placement Preparation</h4>
+            <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;JavaTportal Campus Placement Preparation</h2>
             <p><strong> The 3 Tier Placement Cell</strong> We have a dedicated Placement cell, continuously working to provide the best placement opportunities to our student. The Placement Cell works the Following structure:</p>
             <p style="text-align: center" > <strong> 1. Local Network. </strong> <strong> 2. National Presence. </strong> <strong> 3. International Reach.</strong></p>
             <img src="assets/img/javatportal-placement-process.jpg" width="100%">

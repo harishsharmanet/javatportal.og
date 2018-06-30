@@ -2,7 +2,7 @@
 <section id="contact">
     <div><!-- Container class Missing -->
         <div class="well well-sm">
-            <h3><strong>Contact Us</strong></h3>
+            <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;<strong>Contact Us</strong></h2>
         </div>
 
         <div class="row">
