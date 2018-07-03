@@ -1,4 +1,4 @@
-
+   
 <section id="contact">
     <div><!-- Container class Missing -->
         <div class="well well-sm">
@@ -154,5 +154,10 @@
         </div>
     </div>
 </div>
+  <script src="assets/js/jquery-3.2.1.slim.min.js"></script>
+<script src="assets/js/popper.min.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+
   </body>
+  
 </html>
