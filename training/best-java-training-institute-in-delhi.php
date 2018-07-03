@@ -169,32 +169,7 @@
                         </div>
                     </div>
                     <hr>
-                    <!-- Rating -->
-                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 no-padding review-course-box-sec">
-                    <div class="multiple2">
-                        <div class="review-course-box col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 review-course-clp">
-                                <div class="col-lg-auto col-md-auto col-sm-12 col-xs-12 user-img-rating">
-                                    <span class="user-review-img">
-                                        <img src="" class="img-circle img-responsive img90" alt="user">
-                                    </span>
-                                    <div class="star-rating-review">
-                                    <i class="fa fa-star starcolor starsize"></i> <i class="fa fa-star starcolor starsize"></i><i class="fa fa-star starcolor starsize"></i><i class="fa fa-star starcolor starsize"></i><i class="fa fa-star starcolor starsize"></i><i class="fa fa-star-o starcolor starsize"></i>								<!--i class="fa fa-star icon-fa-star-full starcolor starsize"></i><i class="fa fa-star icon-fa-star-full starcolor starsize"></i><i class="fa fa-star icon-fa-star-full starcolor starsize"></i><i class="fa fa-star icon-fa-star-full starcolor starsize"></i><i class="fa fa-star icon-fa-star-full starcolor starsize"></i-->
-                                    </div>
-                                </div>
-                                <div class="col-lg-auto col-md-auto col-sm-12 col-xs-12 review-user-info">
-                                    <h3>Neha Verma</h3>
-                                    <small>Associate Engineer at TCS</small>
-                                    <article>
-                                        JavaTportal is the best training Institute for class room Training on Salesforce. Best in class trainers to provide job oriented sessions. They prepa<span style="display: none;">red me in facing real time project challenges. After successful completion I got placed in HCL Technologies.</span>										
-                                        <a href="javascript:void(0);" class="read-more" style="display: inline-block;">Read More  </a>
-                                        <a href="javascript:void(0);" class="read-less" style="display: none;">Read Less </a>
-                                    </article>
-                                </div>
-                            </div>
-                        </div> </div>
-                    </div>
-                    <!-- Rating -->
+              
                     
                     <?php include '../inc/oralce-related-courses.php' ?>
                 </div>   
