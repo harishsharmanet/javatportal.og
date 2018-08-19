@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">  
     <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
         <link rel="shortcut icon" href="assets/img/favicon.ico" />
         <meta name="viewport" content="width=device-width">
