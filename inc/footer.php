@@ -54,7 +54,8 @@
  
      <!-- Container Class Missing -->
        
-    
+    <div class="container"> <!-- Container Class Missing  -->
+        <div class="row">
 
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 <ul class="contact">
@@ -138,7 +139,7 @@
             </div>
 
 
-        </div>  
+        </div>  -->
     </div>
       <div class="container">
           <center><img src="http://localhost/javatportal.org/assets/img/jtp_logo.png" class="img-responsive">
