@@ -71,7 +71,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <h2>Welcome to the Best Core Java Training Institute in Delhi</h2>
-                    <img src="../assets/img/training/best-training-institute.jpg" width="100%"> <br><br> 
+                    <img src="assets/img/training/best-training-institute.jpg" width="100%"> <br><br> 
                     <p>JavaTportal Corporation offers <strong>Best Core Java Training in Delhi</strong> with most experienced professionals. We're a leading <strong>Core Java training institute in Delhi.</strong> We provide most learning environment for major technical course at affordable price Our Instructors are working in Core Java and related technologies for more years in MNC's. We aware of industry needs and we are offering <strong>Core Java Training in Delhi</strong>  in more practical way.
                         Our team of Core Java trainers offers Core Java in Classroom training,<strong> Core Java Online Training and Core Java Corporate Training services</strong>. We framed our syllabus to match with the real world requirements for both beginner level to advanced level. Our training will be handled in either weekday or weekends programmer depends on participants requirement.
                     </p>
@@ -79,8 +79,8 @@
                     <p>JavaTportal <strong> Core Java Certification Training </strong> will help you in mastering the various concepts of Core Java from scratch. JavaTportal trainers provides highly customized and result oriented training in Core Java, Advance Java, Struts 2.x, Spring, Hibernate, Web Services etc. We focus on practical training sessions as well as theoretical classes.</p>  
                     <p>We do offer Fast-Track <strong>Core Java Training in Delhi</strong> and One-to-One Core Java Training in Delhi. Here are the major topics we cover under this Core Java course Syllabus . Every topic will be covered in mostly practical way with examples. JavaTportal Corporation located in various places in Delhi. We are the <strong> Best Training Institute in Delhi</strong> offers certification oriented Core Java Training in Delhi. Our participants will be eligible to clear all type of interviews at end of our sessions. We are building a team of Core Java trainers and participants for their future help and assistance in subject. Our training will be focused on assisting in placements as well. We have separate HR team professionals who will take care of all your interview needs. Our <strong>Core Java Training in Delhi</strong> Course Fees is very moderate compared to others. We are the only <strong>Core Java training institute in Delhi </strong> who can share video reviews of all our students. We mentioned the course timings and start date as well in below.</p>
                     <p>JavaTportal is the well-known <strong> Core Java Training Center in Delhi </strong>with high tech infrastructure and lab facilities. We also provide online access of servers so that candidates will implement the projects at their home easily. JavaTportal in Delhi mentored more than 4000+ candidates with <strong>Core Java Certification Training in Delhi </strong> at very reasonable fee. The course curriculum is customized as per the requirement of candidates/corporate.</p>
-                    <h2><p class="bg-primary"><i class="fas fa-hand-point-right"></i> Placement Assistance after Core Java Training in Delhi</p></h2>
-                    <ul>
+                    <h3>Placement Assistance after Core Java Training in Delhi</h3>
+                  <ul class="alert-success">
                         <li> JavaTportal Top Placement Company are :- <strong> HCL, Wipro, Dell, Birlasoft, Tech Mahindra, TCS, IBM</strong></li>
                         <li> JavaTportal HR team focuses on Group Discussions, personality development, and create students RESUME as per current company standards.</li>
                         <li> After completion of 75% training course content, we will arrange the interview calls to students & prepare them to F2F interaction.</li>
@@ -169,8 +169,7 @@
                         </div>
                     </div>
                     <hr>
-              
-                    
+                   
                     <?php include '../inc/oralce-related-courses.php' ?>
                 </div>   
                 <div class="col-md-4">

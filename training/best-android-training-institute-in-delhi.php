@@ -72,7 +72,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <h2>Welcome to the Best Android Training Institute in Delhi</h2>
-                    <img src="../assets/img/training/best-training-institute.jpg" width="100%"> <br><br> 
+                    <img src="assets/img/training/best-training-institute.jpg" width="100%"> <br><br> 
                     <p>JavaTportal Corporation offers <strong>Best Android Training in Delhi</strong> with most experienced professionals. We're a leading <strong>Android training institute in Delhi.</strong> We provide most learning environment for major technical course at affordable price Our Instructors are working in Android and related technologies for more years in MNC's. We aware of industry needs and we are offering <strong>Android Training in Delhi</strong>  in more practical way. Our team of Android trainers offers Android in Classroom training,<strong>Android Online Training </strong> and Android Corporate Training services. We framed our syllabus to match with the real world requirements for both beginner level to advanced level. Our training will be handled in either weekday or weekend’s programmer depends on participant's requirement.</p>
                     <h3>Best Android Training in Delhi</h3>
                     <p>We do offer Fast-Track <strong>Android Training in Delhi</strong> and One-to-One Android Training in Delhi. Here are the major topics we cover under this Android course Syllabus Android.                        Here are the major topics we cover under this Android course Syllabus Basics of Android, Android Components, UI Widgets, Intents, Android Menu, Layout Manager, Adaptor, View, Advance Android which includes Fragment, Android Service, Data Storage, SQLite, JSON & XML, Content Provider, Android Notification, Multimedia, Speech API, Telephony API, Social API Integrations, Firebase Integration, Material Design Basic Concepts.Every topic will be covered in mostly practical way with examples.</p>
@@ -98,8 +98,8 @@
                         JavaTportal in Delhi mentored more than 4000+ candidates with <strong>Android Certification Training in Delhi </strong>
                         at very reasonable fee. The course curriculum is customized as per the requirement of candidates/corporate.</p>
                     <h3> Placement Assistance after Android Training in Delhi </h3>
-                    <ul>
-                        <li> JavaTportal Top Placement Company are :- <strong> HCL, Wipro, Dell, Birlasoft, TechMahindra, TCS, IBM</strong></li>
+                    <ul class="alert-success">
+                        <li>JavaTportal Top Placement Company are :- <strong> HCL, Wipro, Dell, Birlasoft, TechMahindra, TCS, IBM</strong></li>
                         <li> JavaTportal HR team focuses on Group Discussions, personality development, and create students RESUME as per current company standards.</li>
                         <li> After completion of 75% training course content, we will arrange the interview calls to students & prepare them to F2F interaction.</li>
                         <li> CV Designing as per the company standard  (Job Description).</li>
