@@ -91,13 +91,11 @@
 
                     <a class="faa-parent animated-hover" href="<?php echo HOME; ?>/services/web-design-services.php"><i class="fab fa-soundcloud fa-7x faa-tada"></i><h4>ERP Software</h4></a></div>
             </div>
-        </div>
-
         <br/>
          <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Recent Work</h2>
                 <h5>Make a better Health for bright Future</h5>
         <section id="tabs">
-            <div class="container">
+            <div>
                 <div class="row">
                     <div class="col-xs-12 ">
                         
@@ -168,8 +166,9 @@
                                </div>       
                     </div>
                 </div>
+            </div> 
         </section>
-        <div class="container">
+        <div>
             <br/>
             <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Popular Training Cources</h2>
             <div class="row">
@@ -413,5 +412,6 @@
             <img src="assets/img/javatportal-placement-process.jpg" width="100%">
            <p>The entire placement process, be it for the summer or the Final placements, is managed by a group of dynamic students under the placement committee. These students manage the entire placement process from arranging corporative visits to final interviews and even joining formalities. This is one of the most beneficial experiential exercises done by student at JavaTportal. This activity gives them practical and real time exposure to planning, Resource utilization and perfect execution techniques.</p>
         </div>
+    </div>      
         <?php include 'inc/footer.php'; ?>
         

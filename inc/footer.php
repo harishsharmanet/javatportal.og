@@ -1,10 +1,10 @@
-   
+
 <section id="contact">
     <div><!-- Container class Missing -->
         <div class="well well-sm">
             <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;<strong>Contact Us</strong></h2>
         </div>
-
+<div class="container"> 
         <div class="row">
             <div class="col-md-7">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14002.728781992351!2d77.3790747!3d28.669233!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfb1a47372d8663a!2sJavatportal+Corporation+-+Website%2FSoftware+Development+and+Training+Center!5e0!3m2!1sen!2sin!4v1528625979417" width="100%" height="315" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -31,11 +31,11 @@
                 </form>
             </div>
         </div>
+</div>
     </div>
 </section>
-
 <footer>
-    <div> <!-- Container Class Missing -->
+    <div class="container"> <!-- Container Class Missing -->
         <div class="row">
 
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
