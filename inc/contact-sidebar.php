@@ -6,7 +6,7 @@
      <h6><a href="mailto:info@javatportal.org?Subject=Enquiry%20Statement" target="_top" style="color:#fff">info@javatportal.org</a></h6>
     </div>
 </div> 
-
+<div class="course-features">
 <h4><strong>Get in Touch</strong></h4>
 <form>
     <div class="form-group">
@@ -276,3 +276,4 @@
         <i class="fa fa-paper-plane-o" aria-hidden="true"></i> Submit
     </button>
 </form>
+</div>

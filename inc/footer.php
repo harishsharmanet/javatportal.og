@@ -35,11 +35,7 @@
     </div>
 </section>
 <footer>
-     <div class="container"> <!-- Container Class Missing -->
-        <div class="row">
- 
-     <!-- Container Class Missing -->
-        <script src=newsletter_subscription.js></script><div class=course-footer>
+     <script src=newsletter_subscription.js></script><div class=course-footer>
             <div class=footer-courses><div class=container><div class="col-md-12 footer-heading">
                         <h3>Top Courses</h3></div><div class=col-md-12>
                         <div class="col-md-3 col-sm-6">
@@ -55,8 +51,10 @@
                         </div>
                         <div class="col-md-3 col-sm-6 ftcontent"><h3>We Accept Online Payments</h3><div class=onlinepayment><a href=""><img src=assets/img/pay-option.jpg></a></div></div><div class="col-md-3 col-sm-6 ftcontent"><h3>Learn On</h3><div class=onlinepayment><a href=""><img src=assets/img/google-play.jpg></a></div></div></div><div class=col-md-12><div class="container bottom-nav"><span><a href=aboutus.php>About Us </a></span><span><a href=contactus.php>Contact Us </a></span><span><a href=career.php>Career </a></span><span><a href=request_certificate.php>Apply Training Certificate </a></span><span><a href=feedback.php>Feedback</a></span></div></div></div></div></div>
  
-    <div class="container"> <!-- Container Class Missing  
-        <div class="row">
+ 
+     <!-- Container Class Missing -->
+       
+    
 
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 <ul class="contact">
