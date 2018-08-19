@@ -138,7 +138,7 @@
             </div>
 
 
-        </div>  -->
+        </div>  
     </div>
       <div class="container">
           <center><img src="http://localhost/javatportal.org/assets/img/jtp_logo.png" class="img-responsive">
