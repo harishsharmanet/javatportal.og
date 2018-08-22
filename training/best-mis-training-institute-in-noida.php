@@ -12,7 +12,7 @@
         <meta name="rating" CONTENT="General"/>
         <meta name="revisit-after" CONTENT="2 days">
         <meta name="robots" content=" ALL, index, follow"/>
-        <meta <meta name="distribution" content="Global" />
+         <meta name="distribution" content="Global" />
         <meta name="rating" content="Safe ForAll" />
         <meta name="language" content="English" />
         <meta http-equiv="window-target" content="_top"/>
@@ -72,7 +72,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <h2>Welcome to the Best MIS Training Institute in Noida</h2>
-                    <img src="../assets/img/training/best-training-institute.jpg" width="100%"> <br><br> 
+                    <img src="assets/img/training/best-training-institute.jpg" width="100%"> <br><br> 
                     <p>JavaTportal Corporation offers <strong>Best MIS Training in Noida</strong> with most experienced professionals. We're a leading <strong>MIS training institute in Noida.</strong> We provide most learning environment for major technical course at affordable price Our Instructors are working in MIS and related technologies for more years in MNC's. We aware of industry needs and we are offering <strong>MIS Training in Noida</strong>  in more practical way.
                         Our team of MIS trainers offers MIS in Classroom training,<strong> MIS Online Training and MIS Corporate Training services</strong>. We framed our syllabus to match with the real world requirements for both beginner level to advanced level. Our training will be handled in either weekday or weekends programmer depends on participants requirement.
                     </p>
@@ -83,8 +83,8 @@
          with the resources of Database Training. At the completion of the training a certificate will be provided to each successful candidate.</p>
                      <p>We do offer Fast-Track <strong>MIS Training in Noida</strong> and One-to-One MIS Training in Noida. Here are the major topics we cover under this MIS course Syllabus . Every topic will be covered in mostly practical way with examples. JavaTportal Corporation located in various places in Noida. We are the <strong>best Training Institute in Noida</strong> offers certification oriented MIS Training in Noida. Our participants will be eligible to clear all type of interviews at end of our sessions. We are building a team of MIS trainers and participants for their future help and assistance in subject. Our training will be focused on assisting in placements as well. We have separate HR team professionals who will take care of all your interview needs. Our <strong>MIS Training in Noida</strong> Course Fees is very moderate compared to others. We are the only <strong>MIS training institute in Noida </strong> who can share video reviews of all our students. We mentioned the course timings and start date as well in below.</p>
                     <p>JavaTportal is the well-known <strong> MIS Training Center in Noida </strong>with high tech infrastructure and lab facilities. We also provide online access of servers so that candidates will implement the projects at their home easily. JavaTportal in Noida mentored more than 4000+ candidates with <strong>MIS Certification Training in Noida </strong> at very reasonable fee. The course curriculum is customized as per the requirement of candidates/corporate.</p>
-                    <h2><p class="bg-primary"><i class="fas fa-hand-point-right"></i> Placement Assistance after MIS Training in Noida</p></h2>
-                    <ul>
+                      <h3>Placement Assistance after MIS Training in Noida </h3>
+                    <ul class="alert-success">
                         <li> JavaTportal Top Placement Company are :- <strong> HCL, Wipro, Dell, Birlasoft, TechMahindra, TCS, IBM</strong></li>
                         <li> JavaTportal HR team focuses on Group Discussions, personality development, and create students RESUME as per current company standards.</li>
                         <li> After completion of 75% training course content, we will arrange the interview calls to students & prepare them to F2F interaction.</li>
@@ -95,7 +95,6 @@
                         <li>We provide 100% placement assistance</li>
                         <li> We provides interviews calls till Placement.</li>
                     </ul>
-                    
                      <h3>What is MIS</h3>
                      <p><strong> Management Information Systems (MIS) </strong>is the study of people, technology, and organizations. </p> 
                      <p> If you enjoy technology like iPhones, iPods, and Facebook, you have what it takes to major in information systems. All you need is an interest in technology and the desire to use technology to improve people's lives. Many people think that MIS is all programming. However, programming is just a small part of our curriculum and there are many, many jobs in MIS where you do not program. </p>                      
@@ -118,7 +117,7 @@
                                     <ul> 
                                         <li>More than 5 Years of experience in MIS  Technologies</li>
                                         <li>Has worked on multiple realtime MIS projects</li>
-                                        <li>Working in a top MNC company in Bangalore</li>
+                                        <li>Working in a top MNC company in Noida</li>
                                         <li>Trained 5000+ Students so far</li>
                                         <li>Strong Theoretical & Practical Knowledge</li>
                                         <li>Certified Professionals</li>

@@ -13,7 +13,7 @@
         <meta name="rating" CONTENT="General"/>
         <meta name="revisit-after" CONTENT="2 days">
         <meta name="robots" content=" ALL, index, follow"/>
-        <meta <meta name="distribution" content="Global" />
+        <meta name="distribution" content="Global" />
         <meta name="rating" content="Safe ForAll" />
         <meta name="language" content="English" />
         <meta http-equiv="window-target" content="_top"/>
@@ -47,7 +47,7 @@
                 text-align:center;
             }
         </style>
-        <title></title>
+      
     </head>
     <body>
         <?php include 'inc/header.php'; ?>
@@ -170,26 +170,28 @@
         </section>
         <div>
             <br/>
-            <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Popular Training Cources</h2>
+            <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Popular Training Course</h2>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100">
-                        <a href="<?php echo HOME; ?>/amazon-web-services-training-in-bangalore.html"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/aws.png" alt=""></a>
+                        <a href="<?php echo HOME; ?>/training/best-amazon-web-services-aws-training-in-noida">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/aws.png" alt="AWS Training Institute in Noida"></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="<?php echo HOME; ?>/amazon-web-services-training-in-bangalore.html">AWS Training</a>                      
-                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <a href="<?php echo HOME; ?>/training/best-amazon-web-services-aws-training-in-noida">AWS Training</a>                      
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt="AWS Training Institute in Noida"> 
                             </h4>                  
                         </div>                      
                     </div>   
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100">
-                        <a href="<?php echo HOME; ?>/selenium-training-in-bangalore.html"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/selenium.png" alt=""></a>
+                        <a href="<?php echo HOME; ?>/training/best-selenium-training-institute-in-noida">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/selenium.png" alt="Selenium Training Institute in Noida"></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="<?php echo HOME; ?>/selenium-training-in-bangalore.html">Selenium Training</a>
-                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <a href="<?php echo HOME; ?>/training/best-selenium-training-institute-in-noida">Selenium Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt="Selenium Training Institute in Noida"> 
 
                             </h4>
                         </div>
@@ -197,11 +199,12 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100">
-                        <a href="<?php echo HOME; ?>"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/oracle.png" alt=""></a>
+                        <a href="<?php echo HOME; ?>/training/best-oracle-training-institute-in-noida">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/oracle.png" alt="Best Oracle Training in Noida"></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="<?php echo HOME; ?>">Oracle Training</a>
-                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <a href="<?php echo HOME; ?>/training/best-oracle-training-institute-in-noida">Oracle Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt="Best Oracle Training in Noida"> 
 
                             </h4>
                         </div>
@@ -315,6 +318,151 @@
                         </div>
                     </div>
                 </div>
+                 <!-- New add -->
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/pmp-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/pmp-training.png" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/php-training-institute.php">PMP Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/artificial-intelligence-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/artificial-intelligence-training.png" alt="Artificial Intelligence Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/php-training-institute.php">Artificial Intelligence</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/devops-foundation-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/devops-training.png" alt="DevOps Foundation Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/php-training-institute.php">DevOps Foundation</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/machine-learning-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/machine-learning-training.png" alt="Machine Learning(AI Foundation)"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/machine-learning-training-institute.php">Machine Learning(AI Foundation)</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/data-science-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/data-science-training.png" alt="Data Science Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/data-science-training-institute.php">Data Science Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/blockchain-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/blockchain-training.png" alt="Blockchain Certification Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/blockchain-training-institute.php">Blockchain Certification Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/microsoft-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/msp-2016.png" alt="Microsoft Project 2016"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/microsoft-training-institute.php">Microsoft Project 2016 Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/node-js-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/node-js-training.png" alt="Node.js Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/node-js-training-institute.php">Node.js Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/angular-4-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/angular-4-training.png" alt="Angular 4 Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/angular-4-training-institute.php">Angular 4 Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/sap-hana-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/sap-hana-training.png" alt="SAP HANA Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/sap-hana-training-institute.php">SAP HANA Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/big-data-hadoop-architect-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/big-data-hadoop-training.png" alt="Big Data Hadoop Architect Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/big-data-hadoop-architect-training-institute.php">Big Data Hadoop Architect Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+             
             </div>
             <br/>
             <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;What Our Clients Are Saying</h2>

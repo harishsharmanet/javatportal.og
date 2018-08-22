@@ -115,7 +115,7 @@
                                     <ul> 
                                         <li>More than 10 Years of experience in Core Java&reg; Technologies</li>
                                         <li>Has worked on multiple realtime Core Java projects</li>
-                                        <li>Working in a top MNC company in Bangalore</li>
+                                        <li>Working in a top MNC company in Noida</li>
                                         <li>Trained 2000+ Students so far</li>
                                         <li>Strong Theoretical & Practical Knowledge</li>
                                         <li>Certified Professionals</li>

@@ -3,6 +3,7 @@
 
 <link rel="stylesheet" href="assets/css/jtpcoursestyle.css">
 <link rel="stylesheet" href="assets/css/cbdesign.css">
+ <link rel="stylesheet" href="assets/css/front-ui.css">
 <link rel="stylesheet" href="assets/css/allcourses.css">
  <link rel="stylesheet" href="assets/css/custom.css">
 <link rel="stylesheet" href="assets/css/bootstrap22.min.css">
