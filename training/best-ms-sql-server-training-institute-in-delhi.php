@@ -4,10 +4,10 @@
     <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
         <link rel="shortcut icon" href="assets/img/favicon.ico" />
         <meta name="viewport" content="width=device-width">
-        <title>SQL Training | SQL Server Training in Delhi, Best SQL Server Training Institute in Delhi| JavaTportal</title>
+        <title>SQL Server Training | SQL Server Training in Delhi | SQL Server Training Institute in Delhi| JavaTportal</title>
         <meta name="description" content="JavaTportal provides SQL Server training In Delhi. Course duration 40 Hours with 03 live projects. Our HR Team provides 100% Job support. Trainers are having 6+ years of working experience with MNC. 400+ certified candidates Trained. Join Our Two Days free Training Program. # +91-9650322998"/>
-        <meta name="keywords" content="sql server training in delhi, best sql server training institute in delhi, sql server training center in delhi, best sql server training center in delhi, sql server training institute in delhi, best sql server training institutes in delhi, sql server course content in delhi, sql server dba training in delhi, sql server training delhi, sql server 10g training delhi, sql server 11g training delhi"/>
-        <link rel="canonical" href="<?php echo HOME; ?>/training/best-sql-server-training-in-delhi-ncr.php/" />
+        <meta name="keywords" content="SQL Server training in delhi, best SQL Server training institute in delhi, SQL Server training center in delhi, best SQL Server training center in delhi, SQL Server training institute in delhi, best SQL Server training institutes in delhi, SQL Server course content in delhi, SQL Server dba training in delhi, SQL Server training delhi, SQL Server 10g training delhi, SQL Server dba training delhi"/>
+        <link rel="canonical" href="<?php echo HOME; ?>/training/best-ms-sql-server-training-institute-in-delhi.php/" />
         <meta name="author" content=" javatportal.org"/>
         <meta name="rating" CONTENT="General"/>
         <meta name="revisit-after" CONTENT="2 days">
@@ -19,14 +19,14 @@
         <meta http-equiv="pics-label" content="for all ages"/>
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="Best SQL Server Training in Delhi | SQL Server Training Institute/Center in Delhi – JavaTportal" />
-        <meta property="og:description" content="Get SQL Server Training in Delhi by JavaTportal&#039;s corporate trainer. Best SQL Server, SQL Server DBA training institute in Delhi, over 4K+ Students trained. Get 100% placement assistance. Free Demo Class with 2 days free trial. CALL: +91-9650322998" />
-        <meta property="og:url" content="http://www.javatportal.org/training/best-sql-server-training-in-delhi-ncr.php/" />
+        <meta property="og:title" content="Best SQL Server Training in Delhi | SQL Server DBA Training Institute/Center in Delhi – JavaTportal" />
+        <meta property="og:description" content="Get SQL Server Training in Delhi by JavaTportal&#039;s corporate trainer. Best SQL Server, SQL Server 10g, 11g DBA training institute in Delhi, over 4K+ Students trained. Get 100% placement assistance. Free Demo Class with 2 days free trial. CALL: +91-9650322998" />
+        <meta property="og:url" content="http://www.javatportal.org/training/best-ms-sql-server-training-institute-in-delhi.php/" />
         <meta property="og:site_name" content="JavaTportal" />
         <meta property="article:publisher" content="https://www.facebook.com/javatportal/" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:description" content="Get SQL Server Training in Delhi by JavaTportal&#039;s corporate trainer. Best SQL Server, SQL Server DBA training institute in Delhi, over 4K+ Students trained. Get 100% placement assistance. Free Demo Class with 2 days free trial. CALL: +91-9650322998" />
-        <meta name="twitter:title" content="Best SQL Server Training in Delhi | SQL Server DBA Training Institute/Center in Delhi – JavaTportal" />
+        <meta name="twitter:description" content="Get SQL Server Training in Delhi by JavaTportal&#039;s corporate trainer. Best SQL Server, SQL Server 10g, 11g DBA training institute in Delhi, over 4K+ Students trained. Get 100% placement assistance. Free Demo Class with 2 days free trial. CALL: +91-9650322998" />
+        <meta name="twitter:title" content="Best SQL Server Training in Delhi | SQL Server DBA 10g, 11g Training Institute/Center in Delhi – JavaTportal" />
         <meta name="twitter:site" content="@javatportal" />
         <meta name="twitter:creator" content="@javatportal" />
         <meta content="All, FOLLOW" name="GOOGLEBOTS"/>
@@ -73,11 +73,11 @@
                 <div class="col-lg-8">
                     <h2>Welcome to the Best SQL Server Training Institute in Delhi</h2>
                     <img src="assets/img/training/best-training-institute.jpg" width="100%"> <br><br> 
-                    <p>JavaTportal Corporation offers <strong>Best SQL Server Training in Delhi</strong> with most experienced professionals. We're a leading <strong>SQL Server training institute in Delhi.</strong> We provide most learning environment for major technical course at affordable price Our Instructors are working in SQL Server and related technologies for more years in MNC's. We aware of industry needs and we are offering<strong> SQL Server Training in Delhi</strong>  in more practical way. Our team of SQL Server trainers offers SQL Server in Classroom training,<strong>SQL Server Online Training </strong> and SQL Server Corporate Training services. We framed our syllabus to match with the real world requirements for both beginner level to advanced level. Our training will be handled in either weekday or weekend’s programmer depends on participant's requirement.</p>
+                    <p>JavaTportal Corporation offers <strong>Best SQL Server Training in Delhi</strong> with most experienced professionals. We're a leading <strong>SQL Server training institute in Delhi.</strong> We provide most learning environment for major technical course at affordable price Our Instructors are working in SQL Server and related technologies for more years in MNC's. We aware of industry needs and we are offering <strong>SQL Server Training in Delhi</strong>  in more practical way. Our team of SQL Server trainers offers SQL Server in Classroom training,<strong>SQL Server Online Training </strong> and SQL Server Corporate Training services. We framed our syllabus to match with the real world requirements for both beginner level to advanced level. Our training will be handled in either weekday or weekend’s programmer depends on participant's requirement.</p>
                     <h3>Best SQL Server Training in Delhi</h3>
-                    <p>We do offer Fast-Track <strong>SQL Server Training in Delhi</strong> and One-to-One SQL Server Training in Delhi. Here are the major topics we cover under this SQL Server course Syllabus SQL Server. Every topic will be covered in mostly practical way with examples. JavaTportal Corporation located in various places in Delhi. We are the <strong>best Training Institute in Delhi</strong> offers certification oriented SQL Server Training in Delhi. Our participants will be eligible to clear all type of interviews at end of our sessions. We are building a team of SQL Server trainers and participants for their future help and assistance in subject. Our training will be focused on assisting in placements as well. We have separate HR team professionals who will take care of all your interview needs. Our <strong>SQL Server Training in Delhi</strong> Course Fees is very moderate compared to others. We are the only <strong>SQL Server training institute in Delhi </strong> who can share video reviews of all our students. We mentioned the course timings and start date as well in below.</p>
+                    <p>We do offer Fast-Track <strong>SQL Server Training in Delhi</strong> and One-to-One SQL Server Training in Delhi. Here are the major topics we cover under this SQL Server course Syllabus SQL Server 2008, T-SQL. Every topic will be covered in mostly practical way with examples. JavaTportal Corporation located in various places in Delhi. We are the <strong>best Training Institute in Delhi</strong> offers certification oriented SQL Server Training in Delhi. Our participants will be eligible to clear all type of interviews at end of our sessions. We are building a team of SQL Server trainers and participants for their future help and assistance in subject. Our training will be focused on assisting in placements as well. We have separate HR team professionals who will take care of all your interview needs. Our <strong>SQL Server Training in Delhi</strong> Course Fees is very moderate compared to others. We are the only <strong>SQL Server training institute in Delhi </strong> who can share video reviews of all our students. We mentioned the course timings and start date as well in below.</p>
                     <p>JavaTportal is the well-known <strong> SQL Server Training Center in Delhi </strong>with high tech infrastructure and lab facilities. We also provide online access of servers so that candidates will implement the projects at their home easily. JavaTportal in Delhi mentored more than 4000+ candidates with <strong>SQL Server Certification Training in Delhi </strong> at very reasonable fee. The course curriculum is customized as per the requirement of candidates/corporate.</p>
-                    <h3>Placement Assistance after SQL Server Training in Delhi NCR </h3>
+                    <h3>Placement Assistance after SQL Server Training in Delhi </h3>
                     <ul class="alert-success">
                         <li> JavaTportal Top Placement Company are :- <strong> HCL, Wipro, Dell, Birlasoft, TechMahindra, TCS, IBM</strong></li>
                         <li> JavaTportal HR team focuses on Group Discussions, personality development, and create students RESUME as per current company standards.</li>
@@ -90,12 +90,17 @@
                         <li> We provides interviews calls till Placement.</li>
                     </ul>
 
-                    <h3>What is SQL Server</h3>
-                    <p> SQL stands for Structured Query Language. It is designed for managing data in a relational database management system (RDBMS).</p>
-                    <p>SQL is a database language, it is used for database creation, deletion, fetching rows and modifying rows etc.</p>
-                    <p>All DBMS like MySQL, SQL Server, MS Access, Sybase, Informix, Postgres and SQL Server use SQL as standard database language.</p>
-                    <hr/>
-                <div id="accordion">
+                    <h3>About the course</h3>
+                    <p>Learn how to write SQL (Structured Query Language) from scratch with SQL Essentials training course. This course will easily step you through writing SQL using Microsoft's SQL Server Management Studio. SQL allows you to retrieve, sort, filter, group, aggregate and calculate data stored in a SQL Server database. This course is designed for people wanting to learn how to interrogate data from a relational database, how to manipulate this data (Insert, update, and delete records).</p>
+                    <h3>Why Learn SQL ?</h3>
+                    <p>Nowadays, information is gathered from a variety of root, and the information is of great value to organizations. However, with an increasing amount of data comes the need for a database that can entrepot information for retrieval and analysis by the trained specialist. Thus, proper data analysis is in high demand in our digital world. </p>
+                    <p>A relational database, which logically group information into chunks, are basically used to store and organize large amounts of data. Of course, if you’re looking to retrieve any kind of information from a database, you need to speak its oral communication! The most widely used speech communication for interacting with the database is SQL (Structured Query Language), the amber standard of relational databases. </p>
+                    <p>
+                        SQL queries, which are essentially requests or instructions that you send to a database, allow you to retrieve information and update, insert, or delete data. SQL is mainly associated with the IT sector and is an everyday instrument for database administrators. Developers use SQL to write an application that requires database connector, and systems architects use it to design database models. All of this mean value that encyclopedism SQL is a great choice for anyone who would like to pursue a career in IT.
+                    </p>
+                    
+                    <hr/>       
+                    <div id="accordion">
                         <div class="card">
                             <div class="card-header" id="headingOne">
                                 <h8 class="mb-0"  text-align: left>
@@ -128,7 +133,7 @@
                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                 <div class="card-body">
                                     <ul> 
-                                        <li>More than 2000+ students Trained</li>
+                                        <li>    More than 2000+ students Trained</li>
                                         <li> 92% percent Placement Record</li>
                                         <li> 1000+ Interviews Organized</li></ul>
                                 </div>
@@ -169,7 +174,9 @@
                 <div class="col-md-4">
                     <?php include '../inc/contact-sidebar.php' ?>
                     <?php include '../inc/sidebar-course-features.php' ?>
+
+
                 </div>
             </div>
         </div> 
-        <?php include '../inc/footer.php'; ?>  
+        <?php include '../inc/footer.php'; ?>   

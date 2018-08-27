@@ -4,9 +4,9 @@
         <link rel="shortcut icon" href="assets/img/favicon.ico" />
         <meta name="viewport" content="width=device-width">
         <link rel="shortcut icon" href="images/favicon.ico" />
-        <title>JavaTportal | Website Designing Company in Ghaziabad India</title>
-        <meta name="description" content="JavaTportal leading Website Designing Company in Ghaziabad India based Company. Which Offers Website Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services.">
-        <meta name="keywords" content="website designing company in delhi,web designing company in delhi,web designing company delhi,website designing company delhi,website designing in delhi,website designing company in noida,best website designing company in delhi,ecommerce website designing company in delhi,top web designing company in delhi,website designing services in delhi,responsive website designing company in delhi,web designing company, website designing companies, web development companies, website designing in India,B2B Portal Development Company Delhi, B2C Portal Development company Delhi" />
+        <title>JavaTportal - Best IT Training Institute in Noida and Development Company</title>
+        <meta name="description" content="JavaTportal leading Best IT Training Institute in Noida and Website Designing Company in Ghaziabad India based Company. Which Offers Website Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services.">
+        <meta name="keywords" content="Best IT Training Institute in Noida, website designing company in delhi,web designing company in delhi,web designing company delhi,website designing company delhi,website designing in delhi,website designing company in noida,best website designing company in delhi,ecommerce website designing company in delhi,top web designing company in delhi,website designing services in delhi,responsive website designing company in delhi,web designing company, website designing companies, web development companies, website designing in India,B2B Portal Development Company Delhi, B2C Portal Development company Delhi" />
         <meta name="copyright" content="Copyright 2014-17 JavaTportal Corporation (P) Limited - Website Designing Company in Ghaziabad India" /> 
         <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <![endif]-->
         <meta name="author" content=" javatportal.org"/>
@@ -21,8 +21,8 @@
         <meta name="contact City" content=" Noida, Ghaziabad, Madhapur, Attapur, Hi Tech City, Gachibowli, India, Bangalore, USA, UAE, Mumbai, Delhi, Chennai, India, Lucknow, Kolkata "/>
         <meta name="subject" CONTENT=" Website Designing in Noida | Mobile Apps Development in Noida "/>
         <meta property="og:locale" content="en  US" />
-        <meta property="og: title" content ="Website Designing in Ghaziabad | Mobile Apps Development in Ghaziabad" />
-        <meta property="og: description" content= "	JavaTportal leading Website Designing Company in Ghaziabad India based Company. Which Offers Web Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services "/>
+        <meta property="og: title" content ="Best IT Training Institute in Noida and Development Company | Mobile Apps Development in Ghaziabad" />
+        <meta property="og: description" content= "JavaTportal leading Website Designing Company in Ghaziabad India based Company. Which Offers Web Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services "/>
         <meta property="og:url" content="javatportal.org " />
         <meta property="og:site name" content=" JavaTportal Corporation " />
         <meta name="rating" content="general"/>
@@ -33,7 +33,6 @@
         <meta content="All, FOLLOW" name="BINGBOTS"/>
         <meta content="all" name="Google bot -Image"/>
         <meta content="ALL" name="WEBCRAWLERS"/>
-
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:description"  content= "JavaTportal leading Website Designing Company in Ghaziabad based Company. Which Offers Web Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services "/>
         <meta name="twitter:title" content="Website Designing Company in Ghaziabad India | Mobile Apps Development in Ghaziabad" />
@@ -46,15 +45,12 @@
             .row .col{
                 text-align:center;
             }
-        </style>
-      
+        </style>      
     </head>
     <body>
         <?php include 'inc/header.php'; ?>
-
         <?php include 'slider/slider.php'; ?>
         <div class="container">
-
             <br/>
             <h1><img src="<?php echo HOME; ?>/assets/img/logo.png" alt="Javatportal" style="width: 6% !important;">Welcome to JavaTportal Corporation</h1>
 
@@ -212,11 +208,12 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100">
-                        <a href="<?php echo HOME; ?>/datastage-training-in-bangalore.html"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/datasciencer.png" alt=""></a>
+                        <a href="<?php echo HOME; ?>/training/best-data-science-with-r-training-in-noida">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/datasciencer.png" alt="Best Data Science with R Training in Noida"></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="<?php echo HOME; ?>/datastage-training-in-bangalore.html">Data Science with R</a>
-                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <a href="<?php echo HOME; ?>/training/best-data-science-with-r-training-in-noida">Data Science with R</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt="Best Data Science with R Training in Noida"> 
 
                             </h4>
                         </div>
@@ -465,6 +462,7 @@
              
             </div>
             <br/>
+            
             <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;What Our Clients Are Saying</h2>
              <!-- Section: Testimonials v.3 -->
 <section class="team-section text-center my-5">

@@ -14,7 +14,7 @@
             <span class="ficon">
                 <i class="far fa-clipboard"></i>
             </span>
-            Multiple Training Delivery Models
+            Multiple Training Delivery 
         </div>
         <div class="features">
             <span class="ficon">
