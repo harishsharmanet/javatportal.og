@@ -134,13 +134,13 @@
 <div class="fixed-bottom mobile-device">
     <div class="row">
         <div class="col">
-            <a href="tel:09711195889"><i class="fas fa-phone fa-3x"></i></a>
+            <a href="tel:09711195889"><img src="<?php echo HOME?>/assets/img/icon/call.png"></a>
         </div>
         <div class="col">
-            <a href="https://api.whatsapp.com/send?phone=9711195889&text=I'm%20interested%20in%20your%20web%20services"><i class="fab fa-whatsapp fa-3x"></i></a>
+            <a href="https://api.whatsapp.com/send?phone=9711195889&text=I'm%20interested%20in%20your%20web%20services"><img src="<?php echo HOME?>/assets/img/icon/whatsapp.png"></a>
         </div>
         <div class="col">
-            <a href="mailto:info@javatportal.org?Subject=Enquiry%20Statement" target="_top"><i class="fas fa-envelope-square fa-3x"></i></a>
+            <a href="mailto:info@javatportal.org?Subject=Enquiry%20Statement" target="_top"><img src="<?php echo HOME?>/assets/img/icon/gmail.png"></a>
 
         </div>
     </div>
