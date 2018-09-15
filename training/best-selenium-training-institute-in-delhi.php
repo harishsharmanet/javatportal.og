@@ -12,7 +12,7 @@
         <meta name="rating" CONTENT="General"/>
         <meta name="revisit-after" CONTENT="2 days">
         <meta name="robots" content=" ALL, index, follow"/>
-        <meta <meta name="distribution" content="Global" />
+       <meta name="distribution" content="Global" />
         <meta name="rating" content="Safe ForAll" />
         <meta name="language" content="English" />
         <meta http-equiv="window-target" content="_top"/>
@@ -72,7 +72,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <h2>Welcome to the Best Selenium Training Institute in Delhi</h2>
-                    <img src="../assets/img/training/best-training-institute.jpg" width="100%"> <br><br> 
+                    <img src="assets/img/training/best-training-institute.jpg" width="100%"> <br><br> 
                     <p>JavaTportal Corporation offers <strong>Best Selenium Training in Delhi</strong> with most experienced professionals. We're a leading <strong>Selenium training institute in Delhi.</strong> We provide most learning environment for major technical course at affordable price Our Instructors are working in Selenium and related technologies for more years in MNC's. We aware of industry needs and we are offering <strong>Selenium Training in Delhi</strong>  in more practical way.
                         Our team of Selenium trainers offers Selenium in Classroom training,<strong> Selenium Online Training and Selenium Corporate Training services</strong>. We framed our syllabus to match with the real world requirements for both beginner level to advanced level. Our training will be handled in either weekday or weekends programmer depends on participants requirement.
                     </p>
@@ -81,8 +81,8 @@
 </p>
                     <p>We do offer Fast-Track <strong>Selenium Training in Delhi</strong> and One-to-One Selenium Training in Delhi. Here are the major topics we cover under this Selenium course Syllabus . Every topic will be covered in mostly practical way with examples. JavaTportal Corporation located in various places in Delhi. We are the <strong>best Training Institute in Delhi</strong> offers certification oriented Selenium Training in Delhi. Our participants will be eligible to clear all type of interviews at end of our sessions. We are building a team of Selenium trainers and participants for their future help and assistance in subject. Our training will be focused on assisting in placements as well. We have separate HR team professionals who will take care of all your interview needs. Our <strong>Selenium Training in Delhi</strong> Course Fees is very moderate compared to others. We are the only <strong>Selenium training institute in Delhi </strong> who can share video reviews of all our students. We mentioned the course timings and start date as well in below.</p>
                     <p>JavaTportal is the well-known <strong> Selenium Training Center in Delhi </strong>with high tech infrastructure and lab facilities. We also provide online access of servers so that candidates will implement the projects at their home easily. JavaTportal in Delhi mentored more than 4000+ candidates with <strong>Selenium Certification Training in Delhi </strong> at very reasonable fee. The course curriculum is customized as per the requirement of candidates/corporate.</p>
-                    <h2><p class="bg-primary"><i class="fas fa-hand-point-right"></i> Placement Assistance after Selenium Training in Delhi</p></h2>
-                    <ul>
+                    <h3>Placement Assistance after PHP Training in Delhi </h3>
+                    <ul class="alert-success">
                         <li> JavaTportal Top Placement Company are :- <strong> HCL, Wipro, Dell, Birlasoft, TechMahindra, TCS, IBM</strong></li>
                         <li> JavaTportal HR team focuses on Group Discussions, personality development, and create students RESUME as per current company standards.</li>
                         <li> After completion of 75% training course content, we will arrange the interview calls to students & prepare them to F2F interaction.</li>
@@ -93,6 +93,7 @@
                         <li>We provide 100% placement assistance</li>
                         <li> We provides interviews calls till Placement.</li>
                     </ul>
+                    
                     
                      <h3>What is Selenium</h3>
                      <p>Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well.</p>                     <div class="row"> 

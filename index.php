@@ -4,16 +4,16 @@
         <link rel="shortcut icon" href="assets/img/favicon.ico" />
         <meta name="viewport" content="width=device-width">
         <link rel="shortcut icon" href="images/favicon.ico" />
-        <title>JavaTportal | Website Designing Company in Ghaziabad India</title>
-        <meta name="description" content="JavaTportal leading Website Designing Company in Ghaziabad India based Company. Which Offers Website Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services.">
-        <meta name="keywords" content="website designing company in delhi,web designing company in delhi,web designing company delhi,website designing company delhi,website designing in delhi,website designing company in noida,best website designing company in delhi,ecommerce website designing company in delhi,top web designing company in delhi,website designing services in delhi,responsive website designing company in delhi,web designing company, website designing companies, web development companies, website designing in India,B2B Portal Development Company Delhi, B2C Portal Development company Delhi" />
+        <title>JavaTportal - Best IT Training Institute in Noida and Development Company</title>
+        <meta name="description" content="JavaTportal leading Best IT Training Institute in Noida and Website Designing Company in Ghaziabad India based Company. Which Offers Website Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services.">
+        <meta name="keywords" content="Best IT Training Institute in Noida, website designing company in delhi,web designing company in delhi,web designing company delhi,website designing company delhi,website designing in delhi,website designing company in noida,best website designing company in delhi,ecommerce website designing company in delhi,top web designing company in delhi,website designing services in delhi,responsive website designing company in delhi,web designing company, website designing companies, web development companies, website designing in India,B2B Portal Development Company Delhi, B2C Portal Development company Delhi" />
         <meta name="copyright" content="Copyright 2014-17 JavaTportal Corporation (P) Limited - Website Designing Company in Ghaziabad India" /> 
         <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <![endif]-->
         <meta name="author" content=" javatportal.org"/>
         <meta name="rating" CONTENT="General"/>
         <meta name="revisit-after" CONTENT="2 days">
         <meta name="robots" content=" ALL, index, follow"/>
-        <meta <meta name="distribution" content="Global" />
+        <meta name="distribution" content="Global" />
         <meta name="rating" content="Safe ForAll" />
         <meta name="language" content="English" />
         <meta http-equiv="window-target" content="_top"/>
@@ -21,8 +21,8 @@
         <meta name="contact City" content=" Noida, Ghaziabad, Madhapur, Attapur, Hi Tech City, Gachibowli, India, Bangalore, USA, UAE, Mumbai, Delhi, Chennai, India, Lucknow, Kolkata "/>
         <meta name="subject" CONTENT=" Website Designing in Noida | Mobile Apps Development in Noida "/>
         <meta property="og:locale" content="en  US" />
-        <meta property="og: title" content ="Website Designing in Ghaziabad | Mobile Apps Development in Ghaziabad" />
-        <meta property="og: description" content= "	JavaTportal leading Website Designing Company in Ghaziabad India based Company. Which Offers Web Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services "/>
+        <meta property="og: title" content ="Best IT Training Institute in Noida and Development Company | Mobile Apps Development in Ghaziabad" />
+        <meta property="og: description" content= "JavaTportal leading Website Designing Company in Ghaziabad India based Company. Which Offers Web Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services "/>
         <meta property="og:url" content="javatportal.org " />
         <meta property="og:site name" content=" JavaTportal Corporation " />
         <meta name="rating" content="general"/>
@@ -33,7 +33,6 @@
         <meta content="All, FOLLOW" name="BINGBOTS"/>
         <meta content="all" name="Google bot -Image"/>
         <meta content="ALL" name="WEBCRAWLERS"/>
-
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:description"  content= "JavaTportal leading Website Designing Company in Ghaziabad based Company. Which Offers Web Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services "/>
         <meta name="twitter:title" content="Website Designing Company in Ghaziabad India | Mobile Apps Development in Ghaziabad" />
@@ -46,15 +45,12 @@
             .row .col{
                 text-align:center;
             }
-        </style>
-        <title></title>
+        </style>      
     </head>
     <body>
         <?php include 'inc/header.php'; ?>
-
         <?php include 'slider/slider.php'; ?>
         <div class="container">
-
             <br/>
             <h1><img src="<?php echo HOME; ?>/assets/img/logo.png" alt="Javatportal" style="width: 6% !important;">Welcome to JavaTportal Corporation</h1>
 
@@ -170,26 +166,28 @@
         </section>
         <div>
             <br/>
-            <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Popular Training Cources</h2>
+            <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Popular Training Course</h2>
             <div class="row">
                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100">
-                        <a href="<?php echo HOME; ?>/amazon-web-services-training-in-bangalore.html"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/aws.png" alt=""></a>
+                        <a href="<?php echo HOME; ?>/training/best-amazon-web-services-aws-training-in-noida">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/aws.png" alt="AWS Training Institute in Noida"></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="<?php echo HOME; ?>/amazon-web-services-training-in-bangalore.html">AWS Training</a>                      
-                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <a href="<?php echo HOME; ?>/training/best-amazon-web-services-aws-training-in-noida">AWS Training</a>                      
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt="AWS Training Institute in Noida"> 
                             </h4>                  
                         </div>                      
                     </div>   
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100">
-                        <a href="<?php echo HOME; ?>/selenium-training-in-bangalore.html"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/selenium.png" alt=""></a>
+                        <a href="<?php echo HOME; ?>/training/best-selenium-training-institute-in-noida">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/selenium.png" alt="Selenium Training Institute in Noida"></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="<?php echo HOME; ?>/selenium-training-in-bangalore.html">Selenium Training</a>
-                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <a href="<?php echo HOME; ?>/training/best-selenium-training-institute-in-noida">Selenium Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt="Selenium Training Institute in Noida"> 
 
                             </h4>
                         </div>
@@ -197,11 +195,12 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100">
-                        <a href="<?php echo HOME; ?>"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/oracle.png" alt=""></a>
+                        <a href="<?php echo HOME; ?>/training/best-oracle-training-institute-in-noida">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/oracle.png" alt="Best Oracle Training in Noida"></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="<?php echo HOME; ?>">Oracle Training</a>
-                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <a href="<?php echo HOME; ?>/training/best-oracle-training-institute-in-noida">Oracle Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt="Best Oracle Training in Noida"> 
 
                             </h4>
                         </div>
@@ -209,11 +208,12 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
                     <div class="card h-100">
-                        <a href="<?php echo HOME; ?>/datastage-training-in-bangalore.html"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/datasciencer.png" alt=""></a>
+                        <a href="<?php echo HOME; ?>/training/best-data-science-with-r-training-in-noida">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/datasciencer.png" alt="Best Data Science with R Training in Noida"></a>
                         <div class="card-body">
                             <h4 class="card-title">
-                                <a href="<?php echo HOME; ?>/datastage-training-in-bangalore.html">Data Science with R</a>
-                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+                                <a href="<?php echo HOME; ?>/training/best-data-science-with-r-training-in-noida">Data Science with R</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt="Best Data Science with R Training in Noida"> 
 
                             </h4>
                         </div>
@@ -315,8 +315,154 @@
                         </div>
                     </div>
                 </div>
+                 <!-- New add -->
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/pmp-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/pmp-training.png" alt=""></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/php-training-institute.php">PMP Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/artificial-intelligence-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/artificial-intelligence-training.png" alt="Artificial Intelligence Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/php-training-institute.php">Artificial Intelligence</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/devops-foundation-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/devops-training.png" alt="DevOps Foundation Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/php-training-institute.php">DevOps Foundation</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/machine-learning-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/machine-learning-training.png" alt="Machine Learning(AI Foundation)"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/machine-learning-training-institute.php">Machine Learning(AI Foundation)</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/data-science-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/data-science-training.png" alt="Data Science Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/data-science-training-institute.php">Data Science Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/blockchain-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/blockchain-training.png" alt="Blockchain Certification Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/blockchain-training-institute.php">Blockchain Certification Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/microsoft-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/msp-2016.png" alt="Microsoft Project 2016"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/microsoft-training-institute.php">Microsoft Project 2016 Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/node-js-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/node-js-training.png" alt="Node.js Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/node-js-training-institute.php">Node.js Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/angular-4-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/angular-4-training.png" alt="Angular 4 Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/angular-4-training-institute.php">Angular 4 Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/sap-hana-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/sap-hana-training.png" alt="SAP HANA Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/sap-hana-training-institute.php">SAP HANA Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+                 <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                    <div class="card h-100">
+                        <a href="<?php echo HOME; ?>/training/big-data-hadoop-architect-training-institute.php">
+                            <img class="card-img-top" src="<?php echo HOME; ?>/assets/img/training/big-data-hadoop-training.png" alt="Big Data Hadoop Architect Training"></a>
+                        <div class="card-body">
+                            <h4 class="card-title">
+                                <a href="<?php echo HOME; ?>/training/big-data-hadoop-architect-training-institute.php">Big Data Hadoop Architect Training</a>
+                                <br/> <img src="<?php echo HOME; ?>/assets/img/training/star5.png" alt=""> 
+
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+             
             </div>
             <br/>
+            
             <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;What Our Clients Are Saying</h2>
              <!-- Section: Testimonials v.3 -->
 <section class="team-section text-center my-5">

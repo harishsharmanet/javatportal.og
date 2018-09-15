@@ -1,4 +1,4 @@
-
+ 
 .carousel {
     height: 316px !important;
     margin-bottom: 34px !important;
@@ -159,6 +159,7 @@ body {
 .card-title {
     margin-bottom: 0rem !important;
 }
+
 .icogreen{
     color: green !important;
 }
@@ -322,4 +323,26 @@ p{
 
 .nav-tabs .nav-link, .nav-tabs .nav-link.disabled, .nav-tabs .nav-link.disabled:hover, .nav-tabs .nav-link.disabled:focus {
     background-color: #7d3737 !important;
+}
+ .mt25b50 {
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+.course-data-container .titleblock h2{
+	font-size: 30px;
+	position:relative;
+    margin-bottom: 25px;
+}
+.course-data-container .titleblock h2:before{
+	content: ' ';
+    background: #055AA8;
+    box-shadow: 0 2px 8px 0 rgba(129, 178, 222, 0.3);
+    width: 120px;
+    height: 3px;
+    position: absolute;
+    bottom: -10px;
+}
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
 }

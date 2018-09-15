@@ -1,16 +1,4 @@
-<hr/>
-<div>
-    <h4 class="card-title"></h4>
-    <ul>
-        <i><img src=" ../assets/img/icon/accredited-training-icn.png" alt="Accredited Training Partner"></i>  <br>
-        <i><img src=" ../assets/img/icon/multiple-training-icn.png" alt="Multiple Training Delivery Models" ></i> <br> 
-        <i><img src=" ../assets/img/icon/customize-course-icn.png" alt="Customize course">Customize course</i> <br>
-        <i><img src=" ../assets/img/icon/e-learning-access-icn.png" alt="24/7 e-Learning Access"></i>  <br>
-        <i><img src=" ../assets/img/icon/mock-tests-icn.png" alt="Assessments and Mock Tests">Assessments and Mock Tests</i>  <br>
-        <i><img src=" ../assets/img/icon/advance-analytical-reports-icn.png" alt="Advance Analytical Reports"> </i> <br>
-        <i><img src=" ../assets/img/icon/placement-assistance-icn.png" alt="Placement Assistance">  </i>  
-    </ul>
-</div> 
+
 <!-- Course Features -->
 
 <div class="course-features">
@@ -26,7 +14,7 @@
             <span class="ficon">
                 <i class="far fa-clipboard"></i>
             </span>
-            Multiple Training Delivery Models
+            Multiple Training Delivery 
         </div>
         <div class="features">
             <span class="ficon">

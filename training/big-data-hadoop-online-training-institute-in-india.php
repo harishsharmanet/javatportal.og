@@ -12,7 +12,7 @@
         <meta name="rating" CONTENT="General"/>
         <meta name="revisit-after" CONTENT="2 days">
         <meta name="robots" content=" ALL, index, follow"/>
-        <meta <meta name="distribution" content="Global" />
+         <meta name="distribution" content="Global" />
         <meta name="rating" content="Safe ForAll" />
         <meta name="language" content="English" />
         <meta http-equiv="window-target" content="_top"/>
@@ -72,7 +72,7 @@
             <div class="row">
                 <div class="col-lg-8">
                     <h2>Welcome to the Best BigData  Training Institute in India</h2>
-                    <img src="../assets/img/training/best-training-institute.jpg" width="100%"> <br><br> 
+                    <img src="assets/img/training/best-training-institute.jpg" width="100%"> <br><br> 
                     <p>JavaTportal Corporation offers <strong>Best BigData  Training in India</strong> with most experienced professionals. We're a leading <strong>BigData  training institute in India.</strong> We provide most learning environment for major technical course at affordable price Our Instructors are working in BigData  and related technologies for more years in MNC's. We aware of industry needs and we are offering <strong>BigData  Training in India</strong>  in more practical way.
                         Our team of BigData  trainers offers BigData  in Classroom training,<strong> BigData  Online Training and BigData  Corporate Training services</strong>. We framed our syllabus to match with the real world requirements for both beginner level to advanced level. Our training will be handled in either weekday or weekends programmer depends on participants requirement.
                     </p>
@@ -162,9 +162,9 @@
                         <li>  Oozie </li>
                         <li> SPARK </li>
                     </ul>
-                    <h2><p class="bg-primary"><i class="fas fa-hand-point-right"></i> Placement Assistance after BigData Training in India</p></h2>
-                    <ul>
-                        <li> JavaTportal Top Placement Company are :- <strong> HCL, Wipro, Dell, Birlasoft, Tech Mahindra, TCS, IBM</strong></li>
+                    <h3>Placement Assistance after BigData Training in India </h3>
+                    <ul class="alert-success">
+                        <li> JavaTportal Top Placement Company are :- <strong> HCL, Wipro, Dell, Birlasoft, TechMahindra, TCS, IBM</strong></li>
                         <li> JavaTportal HR team focuses on Group Discussions, personality development, and create students RESUME as per current company standards.</li>
                         <li> After completion of 75% training course content, we will arrange the interview calls to students & prepare them to F2F interaction.</li>
                         <li> CV Designing as per the company standard  (Job Description).</li>
@@ -175,7 +175,7 @@
                         <li> We provides interviews calls till Placement.</li>
                     </ul>
 
-                    <div class="row"> 
+                     <div class="row"> 
 
                     </div>
                     <hr/>       
