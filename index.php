@@ -7,7 +7,7 @@
         <title>JavaTportal - Best IT Training Institute in Noida and Development Company</title>
         <meta name="description" content="JavaTportal leading Best IT Training Institute in Noida and Website Designing Company in Ghaziabad India based Company. Which Offers Website Designing, Mobile Apps Development, Digital Marketing, Ecommerce software Services.">
         <meta name="keywords" content="Best IT Training Institute in Noida, website designing company in delhi,web designing company in delhi,web designing company delhi,website designing company delhi,website designing in delhi,website designing company in noida,best website designing company in delhi,ecommerce website designing company in delhi,top web designing company in delhi,website designing services in delhi,responsive website designing company in delhi,web designing company, website designing companies, web development companies, website designing in India,B2B Portal Development Company Delhi, B2C Portal Development company Delhi" />
-        <meta name="copyright" content="Copyright 2014-17 JavaTportal Corporation (P) Limited - Website Designing Company in Ghaziabad India" /> 
+        <meta name="copyright" content="Copyright 2014-18 JavaTportal Corporation (P) Limited - Website Designing Company in Ghaziabad India" /> 
         <!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <![endif]-->
         <meta name="author" content=" javatportal.org"/>
         <meta name="rating" CONTENT="General"/>

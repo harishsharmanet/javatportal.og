@@ -203,8 +203,8 @@
                 </style>
                 <hr/>
                 <div class="pp-search hidden-xs" style=" font-size:  large">
-                    <a href=" " title="Microsoft" class="badge badge-pill badge-success">Microsoft </a> 
-                    <a href=" " title="Microsoft Dynamics" class="badge badge-pill badge-success">MS Dynamics</a>
+                    <a href=" " title="Microsoft" class="badge badge-pill badge-success">Big Data</a> 
+                    <a href=" " title="Microsoft Dynamics" class="badge badge-pill badge-success">Blockchain </a>
                     <a href=" " title="Oracle" class="badge badge-pill badge-success">Oracle</a> 
                     <a href=" " title="Data Science" class="badge badge-pill badge-success">Data Science</a> 
                     <a href=" " title="Machine Learning" class="badge badge-pill badge-success">Machine Learning</a>
@@ -397,7 +397,18 @@
                 "Excel VBA Training Institute in Ghaziabad",
                 "Microsoft Excel (Basic + Advance)",
                 "MIS & Data Analysis in Excel Training",
-                "MIS & Analytics Training Institute"];
+                "MIS & Analytics Training Institute",
+                "AngularJS  Training in Delhi | AngularJS  Training Institute in Delhi",
+                "AngularJS  Training in Noida | AngularJS  Training Institute in Noida",	
+                "AngularJS  Training in Ghaziabad | AngularJS  Training Institute in Ghaziabad",
+                "Python Training in Delhi | Python Training Institute in Delhi",
+                "Python Training in Noida | Python Training Institute in Noida",	
+                "Python Training in Ghaziabad | Python Training Institute in Ghaziabad",
+                
+                
+                
+                
+                ];
 
 
 
