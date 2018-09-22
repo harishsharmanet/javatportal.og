@@ -30,6 +30,8 @@
                                     <li><a class="dropdown-item" href="#">Web Services/API Development</a></li>
                                     <li><a class="dropdown-item" href="#">MVC Framework</a></li>
                                 </ul>
+                            </li>
+                            <li class="dropdown-submenu">
                                 <a class="dropdown-item" href="#">Web Development</a>
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="#">HTML5 & CSS3</a></li>
@@ -39,7 +41,8 @@
                                     <li><a class="dropdown-item" href="#">AngularJs 1 | AngularJs 2 | AngularJs 4 and 5</a></li>
                                     <li><a class="dropdown-item" href="#">Python</a></li>
 
-                                </ul>
+                                </ul>   </li>
+                            <li class="dropdown-submenu">
                                 <a class="dropdown-item" href="#">Cloud Computing</a>
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="#">AWS Solution Architect- Associate</a></li>
@@ -48,7 +51,8 @@
                                     <li><a class="dropdown-item" href="#">AWS DevOps Engineer – Professional</a></li>
                                     <li><a class="dropdown-item" href="#">AWS SysOps Administrator – Associate</a></li>
 
-                                </ul>
+                                </ul>   </li>
+                            <li class="dropdown-submenu">
                                 <a class="dropdown-item" href="#">Software Testing</a>
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="#">Software Testing – (Using Selenium 3.0)</a></li>
@@ -56,22 +60,33 @@
                                     <li><a class="dropdown-item" href="#">Database Testing</a></li>
                                     <li><a class="dropdown-item" href="#">Mobile Application Testing</a></li>
 
-                                </ul>
+                                </ul>   </li>
+                            <li class="dropdown-submenu">
                                 <a class="dropdown-item" href="#">Automation Testing</a>
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="#">Selenium</a></li>     
                                     <li><a class="dropdown-item" href="#">Selenium with Cucumber</a></li> 
                                     <li><a class="dropdown-item" href="#">HP-QTP/UFT</a></li> 
-
-                                </ul>
-                                <a class="dropdown-item" href="#">Automation Testing</a>
+                            </ul> 
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item" href="#">Oracle DBA/Developer</a>
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="#">Oracle DBA (10G|11G|12C)</a></li> 
                                     <li><a class="dropdown-item" href="#">Oracle RAC (Real Application Cluster)</a></li> 
                                     <li><a class="dropdown-item" href="#">Oracle SQL (Basic|Advance)</a></li> 
                                     <li><a class="dropdown-item" href="#">Oracle PL/SQL (Basic|Advance)</a></li> 
                                     <li><a class="dropdown-item" href="#">Oracle Apps DBA R12</a></li> 
-
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
+                                <a class="dropdown-item" href="#">Microsoft SQL Server</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">SQL Server DBA (2005|08|12|14)</a></li> 
+                                    <li><a class="dropdown-item" href="#">SQL Server Developer</a></li> 
+                                    <li><a class="dropdown-item" href="#"> SQL (Basic|Advance)</a></li> 
+                                    <li><a class="dropdown-item" href="#"> T-SQL (Basic|Advance)</a></li> 
+                                   
                                 </ul>
                             </li>
                         </ul>
