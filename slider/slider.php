@@ -1,5 +1,8 @@
 
 <style>
+ canvas{ display: block; vertical-align: bottom; } /* ---- particles.js container ---- */ #particles-js{ position:absolute; width: 100%; height: 100%; background-color: #323840; background-image: url(""); background-repeat: no-repeat; background-size: cover; background-position: 50% 50%; } /* ---- stats.js ---- */ .count-particles{ background: #000022; position: absolute; top: 48px; left: 0; width: 80px; color: #13E8E9; font-size: .8em; text-align: left; text-indent: 4px; line-height: 14px; padding-bottom: 2px; font-family: Helvetica, Arial, sans-serif; font-weight: bold; } .js-count-particles{ font-size: 1.1em; } #stats, .count-particles{ -webkit-user-select: none; margin-top: 5px; margin-left: 5px; } #stats{ border-radius: 3px 3px 0 0; overflow: hidden; } .count-particles{ border-radius: 0 0 3px 3px; }
+    
+    
     .carousel .item {
         height: 370px !important;
         /*background-image: url('<?php echo HOME; ?>/assets/img/banner.jpg');
@@ -70,72 +73,9 @@
         background-color: DodgerBlue !important; 
         color: #ffffff; 
     }
-    /*-------------------------------------------OVERLAY--------------------------------------------*/
-    /* The Overlay (background) */
-    .overlay {
-        /* Height & width depends on how you want to reveal the overlay (see JS below) */    
-        height: 100%;
-        width: 0;
-        position: fixed; /* Stay in place */
-        z-index: 1; /* Sit on top */
-        left: 0;
-        top: 0;
-        background-color: rgb(0,0,0); /* Black fallback color */
-        background-color: rgba(0,0,0, 0.9); /* Black w/opacity */
-        overflow-x: hidden; /* Disable horizontal scroll */
-        transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
-    }
-
-    /* Position the content inside the overlay */
-    .overlay-content {
-        position: relative;
-        top: 25%; /* 25% from the top */
-        width: 100%; /* 100% width */
-        text-align: center; /* Centered text/links */
-        margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
-    }
-
-    /* The navigation links inside the overlay */
-    .overlay a {
-        padding: 8px;
-        text-decoration: none;
-        font-size: 36px;
-        color: #818181;
-        display: block; /* Display block instead of inline */
-        transition: 0.3s; /* Transition effects on hover (color) */
-    }
-
-    .overlay-row {
-    display: flex;
-    flex-wrap: wrap;
-        padding-right: 2%;
-    padding-left: 2%;
-    }
-    /* When you mouse over the navigation links, change their color */
-    .overlay a:hover, .overlay a:focus {
-        color: #f1f1f1;
-    }
-
-    /* Position the close button (top right corner) */
-    .overlay .closebtn {
-        position: absolute;
-        top: 20px;
-        right: 45px;
-        font-size: 60px;
-    }
-
-    /* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
-    @media screen and (max-height: 450px) {
-        .overlay a {font-size: 20px}
-        .overlay .closebtn {
-            font-size: 40px;
-            top: 15px;
-            right: 35px;
-        }
-    }
-
+    
 </style>
-
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> <!-- stats.js lib --> 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
 
@@ -143,53 +83,13 @@
     <div class="carousel-inner">
 
         <div class="item active">
-
+<div id="particles-js"></div>
             <div class="carousel-caption">
                 <img src="<?php echo HOME; ?>/assets/img/logo.png" alt="Javatportal" style="width: 10% !important;">
 
                 <h3>JAVATPORTAL CORPORATION</h3>
                 <p style="text-align:center">सॉफ्टवेयर विकास एवं प्रशिक्षण कार्यक्रम केंद्र</p>
-                <div class="row justify-content-center">
-                    <div id="myNav" class="overlay">
 
-                        <!-- Button to close the overlay navigation -->
-                        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-
-                        <!-- Overlay content -->
-                        <div class="overlay-content">
-            
-                                <form autocomplete="off" action="/action_page.php" style="width:100%">
-                                
-                                        
-                                            <div class="overlay-row">
-                                                <div class="col">
-                                                    <input id="myInput" class="form-control form-control-lg form-control-borderless" name="myCountry" type="search" placeholder="Search topics or keywords">
-                                                </div>
-                                                <!--end of col-->
-                                                <div class="col-auto">
-                                                    <button class="btn btn-lg btn-success" type="submit"><i class="fas fa-search-plus"></i>&nbsp;Search</button>
-                                                </div>
-                                                <!--end of col-->
-                                            </div>
-                                 
-                                </form>
-                  
-                        </div>
-
-                    </div>
-
-                    <!-- Use any element to open/show the overlay navigation menu -->
-
-                    <button onclick="openNav()" type="button" class="btn btn-primary btn-lg btn-block"><i class="fas fa-search-plus"></i>&nbsp;Search your desired course from here...</button>
-
-
-
-
-
-
-
-                    <!--end of col-->
-                </div>
                 <style>
                     .form-control-borderless {
                         border: none;
@@ -426,3 +326,129 @@
         document.getElementById("myNav").style.width = "0%";
     }
 </script>
+
+<script>
+    
+    particlesJS("particles-js", {
+  "particles": {
+    "number": {
+      "value": 88,
+      "density": {
+        "enable": true,
+        "value_area": 700
+      }
+    },
+    "color": {
+      "value": ["#aa73ff", "#f8c210", "#83d238", "#33b1f8"]
+    },
+    "shape": {
+      "type": "circle",
+      "stroke": {
+        "width": 0,
+        "color": "#000000"
+      },
+      "polygon": {
+        "nb_sides": 15
+      }
+    },
+    "opacity": {
+      "value": 0.5,
+      "random": false,
+      "anim": {
+        "enable": false,
+        "speed": 1.5,
+        "opacity_min": 0.15,
+        "sync": false
+      }
+    },
+    "size": {
+      "value": 2.5,
+      "random": false,
+      "anim": {
+        "enable": true,
+        "speed": 2,
+        "size_min": 0.15,
+        "sync": false
+      }
+    },
+    "line_linked": {
+      "enable": true,
+      "distance": 110,
+      "color": "#33b1f8",
+      "opacity": 0.25,
+      "width": 1
+    },
+    "move": {
+      "enable": true,
+      "speed": 1.6,
+      "direction": "none",
+      "random": false,
+      "straight": false,
+      "out_mode": "out",
+      "bounce": false,
+      "attract": {
+        "enable": false,
+        "rotateX": 600,
+        "rotateY": 1200
+      }
+    }
+  },
+  "interactivity": {
+    "detect_on": "canvas",
+    "events": {
+      "onhover": {
+        "enable": false,
+        "mode": "repulse"
+      },
+      "onclick": {
+        "enable": false,
+        "mode": "push"
+      },
+      "resize": true
+    },
+    "modes": {
+      "grab": {
+        "distance": 400,
+        "line_linked": {
+          "opacity": 1
+        }
+      },
+      "bubble": {
+        "distance": 400,
+        "size": 40,
+        "duration": 2,
+        "opacity": 8,
+        "speed": 3
+      },
+      "repulse": {
+        "distance": 200,
+        "duration": 0.4
+      },
+      "push": {
+        "particles_nb": 4
+      },
+      "remove": {
+        "particles_nb": 2
+      }
+    }
+  },
+  "retina_detect": true
+});
+var count_particles, stats, update;
+stats = new Stats;
+stats.setMode(0);
+stats.domElement.style.position = 'absolute';
+stats.domElement.style.left = '0px';
+stats.domElement.style.top = '0px';
+document.body.appendChild(stats.domElement);
+count_particles = document.querySelector('.js-count-particles');
+update = function() {
+  stats.begin();
+  stats.end();
+  if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
+    count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
+  }
+  requestAnimationFrame(update);
+};
+requestAnimationFrame(update);;
+    </script>
