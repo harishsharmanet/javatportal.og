@@ -1,33 +1,4 @@
-<style>
-    .navbar .dropdown-toggle, .navbar .dropdown-menu a {
-    cursor: pointer;
-}
 
-.navbar .dropdown-item.active, .navbar .dropdown-item:active {
-    color: inherit;
-    text-decoration: none;
-    background-color: inherit;
-}
-
-.navbar .dropdown-item:focus, .navbar .dropdown-item:hover {
-    color: #16181b;
-    text-decoration: none;
-    background-color: #f8f9fa;
-}
-
-@media (min-width: 767px) {
-    .navbar .dropdown-toggle:not(.nav-link)::after {
-        display: inline-block;
-        width: 0;
-        height: 0;
-        margin-left: .5em;
-        vertical-align: 0;
-        border-bottom: .3em solid transparent;
-        border-top: .3em solid transparent;
-        border-left: .3em solid;
-    }
-}
-</style>
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
   <a class="navbar-brand" href="#">Javatportal Corporation</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
@@ -42,33 +13,81 @@
       <li class="nav-item">
         <a class="nav-link" href="#"><i class="fas fa-globe"></i>&nbsp;About Us</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#"><i class="fas fa-book"></i>&nbsp;Trending Cources</a>
+         <div class="btn-group">
+   <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle" href="" aria-expanded="false"><i class="fas fa-book"></i>&nbsp;Trending Cources</a>
+   <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
+
+      <li class="dropdown-submenu">
+         <a class="dropdown-item" tabindex="-1" href="#"><i class="fas fa-code"></i> &nbsp;CS/IT</a>
+         <ul class="dropdown-menu">
+            
+            <li class="dropdown-submenu">
+               <a class="dropdown-item" href="#">Programming Language</a>
+               <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Core Java/J2SE</a></li>
+                  <li><a class="dropdown-item" href="#">ASP .NET</a></li>
+               </ul>
+            </li>
+         </ul>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#"><i class="fas fa-certificate"></i>&nbsp;Certification</a>
+      
+       <li class="dropdown-submenu">
+         <a class="dropdown-item" tabindex="-1" href="#"><i class="fas fa-database"></i> &nbsp;Professional Programs</a>
+         <ul class="dropdown-menu">
+            
+            <li class="dropdown-submenu">
+               <a class="dropdown-item" href="#">Big Data Hadoop</a>
+               <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Hadoop Admin</a></li>
+                  <li><a class="dropdown-item" href="#">Hadoop Data Scientist</a></li>
+               </ul>
+            </li>
+         </ul>
       </li>
+      
+       <li class="dropdown-submenu">
+         <a class="dropdown-item" tabindex="-1" href="#"><i class="fas fa-graduation-cap"></i> &nbsp;Advance Programs</a>
+         <ul class="dropdown-menu">
+            
+            <li class="dropdown-submenu">
+               <a class="dropdown-item" href="#">Salesforce</a>
+               <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">Salesforce Admin -201</a></li>
+                  <li><a class="dropdown-item" href="#">Apex & Visual Force Development</a></li>
+               </ul>
+            </li>
+         </ul>
+      </li>
+      
+   </ul>
+</div>
+         <div class="btn-group">
+   <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle" href="" aria-expanded="false"><i class="fas fa-certificate"></i>&nbsp;Certification</a>
+   <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
+      <li><a class="dropdown-item" href="#">level 1</a></li>
+      <li><a class="dropdown-item" href="#">level 1</a></li>
+      <li class="dropdown-divider"></li>
+      <li class="dropdown-submenu">
+         <a class="dropdown-item" tabindex="-1" href="#">level 1</a>
+         <ul class="dropdown-menu">
+            <li><a class="dropdown-item" tabindex="-1" href="#">level 2</a></li>
+            <li class="dropdown-submenu">
+               <a class="dropdown-item" href="#">level 2</a>
+               <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="#">3rd level</a></li>
+                  <li><a class="dropdown-item" href="#">3rd level</a></li>
+               </ul>
+            </li>
+            <li><a class="dropdown-item" href="#">level 2</a></li>
+            <li><a class="dropdown-item" href="#">level 2</a></li>
+         </ul>
+      </li>
+   </ul>
+</div>
        <li class="nav-item">
         <a class="nav-link" href="#">Apply as Trainer</a>
       </li>
-       <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" id="dropdown1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown1</a>
-                <ul class="dropdown-menu" aria-labelledby="dropdown1">
-                    <li class="dropdown-item" href="#"><a>Action 1</a></li>
-                    <li class="dropdown-item dropdown">
-                        <a class="dropdown-toggle" id="dropdown1-1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown1.1</a>
-                        <ul class="dropdown-menu" aria-labelledby="dropdown1-1">
-                            <li class="dropdown-item" href="#"><a>Action 1.1</a></li>
-                            <li class="dropdown-item dropdown">
-                                <a class="dropdown-toggle" id="dropdown1-1-1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown1.1.1</a>
-                                <ul class="dropdown-menu" aria-labelledby="dropdown1-1-1">
-                                    <li class="dropdown-item" href="#"><a>Action 1.1.1</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-            </li>
+    
     </ul>
     <form class="form-inline my-2 my-lg-0" autocomplete="off" action="/action_page.php">
       <input class="form-control mr-sm-2" id="myInput" name="myCountry" type="search" placeholder="Search topics or keywords">

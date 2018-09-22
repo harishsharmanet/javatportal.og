@@ -9,22 +9,26 @@
                 <div class="col-md-7">
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14002.728781992351!2d77.3790747!3d28.669233!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfb1a47372d8663a!2sJavatportal+Corporation+-+Website%2FSoftware+Development+and+Training+Center!5e0!3m2!1sen!2sin!4v1528625979417" width="100%" height="315" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
+                
                 <div class="col-md-5">
                     <h4><strong>Get in Touch</strong></h4>
-                    <form>
+                    <form action="thank-you" method="post" id="contact" name="contact">
                         <div class="form-group">
-                            <input type="text" class="form-control" name="" value="" placeholder="Name">
+                            <input type="text" class="form-control" name="name" id="name" value="" placeholder="Name" onfocusout="validate_value(1)">
+                            <small  class="form-text text-danger font-weight-bold" id="sname"></small>
                         </div>
                         <div class="form-group">
-                            <input type="email" class="form-control" name="" value="" placeholder="E-mail">
+                            <input type="email" class="form-control" name="email" id="email" value="" placeholder="E-mail" onfocusout="validate_value(2)">
+                            <small  class="form-text text-danger font-weight-bold" id="semail"></small>
                         </div>
                         <div class="form-group">
-                            <input type="tel" class="form-control" name="" value="" placeholder="Phone">
+                            <input type="tel" class="form-control" name="mobile" id="mobile" value="" placeholder="Phone" onfocusout="validate_value(3)">
+                            <small  class="form-text text-danger font-weight-bold" id="smobile"></small>
                         </div>
                         <div class="form-group">
-                            <textarea class="form-control" name="" rows="3" placeholder="Message"></textarea>
+                            <textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
                         </div>
-                        <button class="btn btn-default" type="submit" name="button">
+                        <button class="btn btn-default" name="submit" onclick="return validate_value('submit')">
                             <i class="fa fa-paper-plane-o" aria-hidden="true"></i> Submit
                         </button>
                     </form>
@@ -148,6 +152,7 @@
 <script src="assets/js/jquery-3.2.1.slim.min.js"></script>
 <script src="assets/js/popper.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/contact-form.js"></script>
 
 </body>
 

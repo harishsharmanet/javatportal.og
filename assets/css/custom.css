@@ -343,3 +343,11 @@ p{
     padding-right: 0;
 }
 
+
+.dropdown-menu>li>a {
+    color: #000 !important;
+}
+
+.dropdown-menu>li>a:hover{
+    color: #FFF !important;
+}
