@@ -54,7 +54,7 @@
             <br/>
             <h1><img src="<?php echo HOME; ?>/assets/img/logo.png" alt="Javatportal" style="width: 6% !important;">Welcome to JavaTportal Corporation</h1>
 
-            <p>JavaTportal Corporation Private Limited objective is to provide the best IT and software services to the client. We also looking our self to be establish as a best Indian IT company. We also want the provide our services not only for Indian clients even also for foreign clients. Our team members also handling the challenges for complete our vision and mission. We also supports the Indian Government campaign like 'Digital India' and 'Skill India'. JavaTportal Corporation providing their services successfully as a web development company in Ghaziabad and Delhi region. The happy clients and society will be always our objective and mission. Read More</p>
+            <p>JavaTportal Corporation Private Limited objective is to provide the <strong>Best IT Training Institute and Development Company </strong>services to the client. We also looking our self to be establish as a best Indian IT company. We also want the provide our services not only for Indian clients even also for foreign clients. Our team members also handling the challenges for complete our vision and mission. We also supports the Indian Government campaign like 'Digital India' and 'Skill India'. JavaTportal Corporation providing their services successfully as a <strong>web development company in Ghaziabad  </strong>and Delhi region. The happy clients and society will be always our objective and mission. Read More</p>
 
             <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Expertise Services We Offer</h2>
             <h5>Grow your business and save time with seamless experience</h5>
@@ -100,13 +100,19 @@
                                    <a class="nav-item nav-link active" href="#what-we-done" role="tab" data-toggle="tab">What we done?</a>
                                  </li>
                                  <li class="nav-item">
-                                   <a class="nav-item nav-link" href="#design-process" role="tab" data-toggle="tab">Design Process</a>
+                                   <a class="nav-item nav-link" href="#design-process" role="tab" data-toggle="tab">Web Designing</a>
                                  </li>
                                  <li class="nav-item">
-                                   <a class="nav-item nav-link" href="#seo-services" role="tab" data-toggle="tab">Quality SEO Services</a>
+                                   <a class="nav-item nav-link" href="#seo-services" role="tab" data-toggle="tab"> SEO Portfolio</a>
                                  </li>
                                  <li class="nav-item">
                                    <a class="nav-item nav-link" href="#logo-design" role="tab" data-toggle="tab">Logo Designing</a>
+                                 </li>
+                                 <li class="nav-item">
+                                   <a class="nav-item nav-link" href="#logo-design" role="tab" data-toggle="tab">Mobile App Portfolio</a>
+                                 </li>
+                                 <li class="nav-item">
+                                   <a class="nav-item nav-link" href="#logo-design" role="tab" data-toggle="tab">Digital Marketing</a>
                                  </li>
                             </ul>
 
@@ -481,7 +487,7 @@
         <h4 class="font-weight-bold dark-grey-text mt-4">Anna Deynah</h4>
         <h6 class="font-weight-bold blue-text my-3">Web Designer</h6>
         <p class="font-weight-normal dark-grey-text">
-          <i class="fa fa-quote-left pr-2"></i>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab hic tenetur.</p>
+          <i class="fa fa-quote-left pr-2"></i>The JavaTportal is unbelievable good in their work. The website they designed for my business is very sorted and compact. They made it very soon. I liked the company and recommend to others.   </p>
         <!--Review-->
         <div class="orange-text">
           <i class="fa fa-star"> </i>
@@ -504,10 +510,10 @@
           <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(8).jpg" class="rounded-circle z-depth-1 img-fluid">
         </div>
         <!--Content-->
-        <h4 class="font-weight-bold dark-grey-text mt-4">John Doe</h4>
-        <h6 class="font-weight-bold blue-text my-3">Web Developer</h6>
+        <h4 class="font-weight-bold dark-grey-text mt-4">Aboobacker </h4>
+        <h6 class="font-weight-bold blue-text my-3">Service and Support Manager</h6>
         <p class="font-weight-normal dark-grey-text">
-          <i class="fa fa-quote-left pr-2"></i>Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid commodi.</p>
+          <i class="fa fa-quote-left pr-2"></i>  Yes, no doubt at all. JavaTportal is the best web designing and digital marketing company. We are growing because of SEO done by JavaTportal, We are very very happy to choose them.</p>
         <!--Review-->
         <div class="orange-text">
           <i class="fa fa-star"> </i>
@@ -530,10 +536,10 @@
           <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(10).jpg" class="rounded-circle z-depth-1 img-fluid">
         </div>
         <!--Content-->
-        <h4 class="font-weight-bold dark-grey-text mt-4">Maria Kate</h4>
-        <h6 class="font-weight-bold blue-text my-3">Photographer</h6>
+        <h4 class="font-weight-bold dark-grey-text mt-4">Vishal Pawar</h4>
+        <h6 class="font-weight-bold blue-text my-3">NCR corporation pvt ltd</h6>
         <p class="font-weight-normal dark-grey-text">
-          <i class="fa fa-quote-left pr-2"></i>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.</p>
+          <i class="fa fa-quote-left pr-2"></i> Thanks for the quick reply and solving the issue. I was really impressed by your 24/7 support even during the festive period. I appreciate your service and the trainer for Oracle  is very friendly.</p>
         <!--Review-->
         <div class="orange-text">
           <i class="fa fa-star"> </i>

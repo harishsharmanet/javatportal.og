@@ -40,14 +40,14 @@
                 <ul class="contact">
                     <span style="border-bottom: solid 2px;">Top Courses</span>    
                     <ul>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> About Us</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Contact Us</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Success Stories</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> PG Courses</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Achiever's Batch</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Regular Batch</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Test & Discussion</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Fast Track T & D</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Core Java/J2SE</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Advance Java/J2EE</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Java Frameworks</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> AngularJs</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Python</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Selenium</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Android</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Big Data Hadoop</a></li>
                     </ul>
             </div>
 
@@ -57,14 +57,14 @@
                     <span></span>    
                     <ul>
                         <li><a  href="#"> &zwnj;</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> About Us</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Contact Us</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Success Stories</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> PG Courses</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Achiever's Batch</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Regular Batch</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Test & Discussion</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Fast Track T & D</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Data Science(SAS)</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Data Science(R)</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Robotics Process Automation(RPA)</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Advance Excel</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Digital Marketing</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  PhoneGap</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  PHP Frameworks</a></li>
+                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  MIS & Analytics</a></li>
                     </ul>
 
                 </ul>
