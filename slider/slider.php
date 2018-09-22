@@ -203,7 +203,7 @@
                 </style>
                 <hr/>
                 <div class="pp-search hidden-xs" style=" font-size:  large">
-                    <a href=" " title="Microsoft" class="badge badge-pill badge-success">Big Data</a> 
+                    <a href=" " title="Microsoft" class="badge badge-pill badge-success"> Big Data Hadoop</a> 
                     <a href=" " title="Microsoft Dynamics" class="badge badge-pill badge-success">Blockchain </a>
                     <a href=" " title="Oracle" class="badge badge-pill badge-success">Oracle</a> 
                     <a href=" " title="Data Science" class="badge badge-pill badge-success">Data Science</a> 
