@@ -14,12 +14,13 @@
 	<meta name="rating" CONTENT="General"/>
 	<meta name="revisit-after" CONTENT="2 days">
 	<meta name="robots" content=" ALL, index, follow"/>
-	<meta <meta name="distribution" content="Global" />
+	<meta name="distribution" content="Global" />
 	<meta name="rating" content="Safe ForAll" />
 	<meta name="language" content="English" />
+        <meta name="subject" content="Rated #1 Web Designing, Digital Marketing and Branding Company in India, UK, Australia Delhi" /> 
 	<meta http-equiv="window-target" content="_top"/>
 	<meta http-equiv="pics-label" content="for all ages"/>
-	<meta name="contact City" content=" Noida,Ghaziabad, Madhapur, Attapur, Hi Tech City, Gachibowli, India, Bangalore, USA, UAE, Mumbai, Delhi, Chennai, India, Lucknow, Kolkata "/>
+	<meta name="contact City" content=" Noida,Ghaziabad, Gachibowli, India, Bangalore, USA, UAE, Mumbai, Delhi, Chennai, India, Lucknow, Kolkata "/>
 	<meta name="subject" CONTENT="SEO company in Ghaziabad and specializes in providing SEO Services ghaziabad| Website Designing in Noida | Mobile Apps Development in Noida "/>
 	<meta property="og:locale" content="en  US" />
 	<meta property="og: title" content ="SEO Services Company in Ghaziabad |SEO Services in Ghaziabad | Best Seo Services in Ghaziabad | Seo Services in Noida Delhi India- JavaTportal" />
@@ -27,7 +28,7 @@
 	<meta property="og:url" content="javatportal.org " />
 	<meta property="og:site name" content=" JavaTportal Corporation " />
 	<meta name="rating" content="general"/>
-	<link rel="canonical" href=" http://www.javatportal.org/" />
+	<link rel="canonical" href=" http://www.javatportal.org/services/smo-services" />
 	<meta content="All, FOLLOW" name="GOOGLEBOTS"/>
 	<meta content="All, FOLLOW" name="YAHOOBOTS"/>
 	<meta content="All, FOLLOW" name="MSNBOTS"/>
@@ -65,6 +66,12 @@
         <div class="jumbotron">
             <div class="opacity-effect">
                 <h1 class="display-3">SEO Services Company in Ghaziabad India</h1>
+                 <h2 class="ih1">
+        <a class="typewrite" data-period="2000" data-type='[ "Search Engine Optimization Company in Delhi NCR ","" ]'>
+          <span class="wrap"></span>
+        </a>
+        &nbsp;
+      </h2>
                 <h4>Search Engine Optimization Services</h4>
                 <h5><i class="fas fa-star icogreen"></i><i class="fas fa-star icogreen"></i><i class="fas fa-star icogreen"></i><i class="fas fa-star icogreen"></i><i class="fas fa-star icogreen"></i>9325 Ratings</h5>
             </div>

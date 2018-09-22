@@ -1,8 +1,8 @@
 
 <style>
- canvas{ display: block; vertical-align: bottom; } /* ---- particles.js container ---- */ #particles-js{ position:absolute; width: 100%; height: 100%; background-color: #323840; background-image: url(""); background-repeat: no-repeat; background-size: cover; background-position: 50% 50%; } /* ---- stats.js ---- */ .count-particles{ background: #000022; position: absolute; top: 48px; left: 0; width: 80px; color: #13E8E9; font-size: .8em; text-align: left; text-indent: 4px; line-height: 14px; padding-bottom: 2px; font-family: Helvetica, Arial, sans-serif; font-weight: bold; } .js-count-particles{ font-size: 1.1em; } #stats, .count-particles{ -webkit-user-select: none; margin-top: 5px; margin-left: 5px; } #stats{ border-radius: 3px 3px 0 0; overflow: hidden; } .count-particles{ border-radius: 0 0 3px 3px; }
-    
-    
+    canvas{ display: block; vertical-align: bottom; } /* ---- particles.js container ---- */ #particles-js{ position:absolute; width: 100%; height: 100%; background-color: #323840; background-image: url(""); background-repeat: no-repeat; background-size: cover; background-position: 50% 50%; } /* ---- stats.js ---- */ .count-particles{ background: #000022; position: absolute; top: 48px; left: 0; width: 80px; color: #13E8E9; font-size: .8em; text-align: left; text-indent: 4px; line-height: 14px; padding-bottom: 2px; font-family: Helvetica, Arial, sans-serif; font-weight: bold; } .js-count-particles{ font-size: 1.1em; } #stats, .count-particles{ -webkit-user-select: none; margin-top: 5px; margin-left: 5px; } #stats{ border-radius: 3px 3px 0 0; overflow: hidden; } .count-particles{ border-radius: 0 0 3px 3px; }
+
+
     .carousel .item {
         height: 370px !important;
         /*background-image: url('<?php echo HOME; ?>/assets/img/banner.jpg');
@@ -73,7 +73,7 @@
         background-color: DodgerBlue !important; 
         color: #ffffff; 
     }
-    
+
 </style>
 <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script> <!-- stats.js lib --> 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -83,7 +83,7 @@
     <div class="carousel-inner">
 
         <div class="item active">
-<div id="particles-js"></div>
+            <div id="particles-js"></div>
             <div class="carousel-caption">
                 <img src="<?php echo HOME; ?>/assets/img/logo.png" alt="Javatportal" style="width: 10% !important;">
 
@@ -299,16 +299,95 @@
                 "MIS & Data Analysis in Excel Training",
                 "MIS & Analytics Training Institute",
                 "AngularJS  Training in Delhi | AngularJS  Training Institute in Delhi",
-                "AngularJS  Training in Noida | AngularJS  Training Institute in Noida",	
+                "AngularJS  Training in Noida | AngularJS  Training Institute in Noida",
                 "AngularJS  Training in Ghaziabad | AngularJS  Training Institute in Ghaziabad",
                 "Python Training in Delhi | Python Training Institute in Delhi",
-                "Python Training in Noida | Python Training Institute in Noida",	
+                "Python Training in Noida | Python Training Institute in Noida",
                 "Python Training in Ghaziabad | Python Training Institute in Ghaziabad",
-                
-                
-                
-                
-                ];
+
+                "Custom Website Designing Company in India",
+                "Responsive Web Designing Company in India ",
+                "PSD to HTML Conversion Company in India ",
+                "Landing Page Designing Company in India",
+                "Multi Vendor Ecommerce Marketplace Company in India",
+                "Ecommerce Website Company in India",
+                "Corporate Website Company in India",
+                "Small Business Website Company in India",
+                "B2C Portal Development Company in India",
+                "B2B Portal Development Company in India",
+                "Magento Web Development Company in India",
+                "Wordpress Web Development Company in India ",
+                "Joomla Web Development Company in India",
+                "CodeIgniter Web Development Company in India",
+                "CMS Web Development Company in India ",
+                "PHP Web Development Company in India",
+                "Digital Marketing Company in India",
+                "Writing Services Company in India",
+                "Google Promotion Services Company in India",
+                "Facebook Advertising Company in India",
+                "Google Adwords PPC Management Company in India",
+                "Google Map Promotion Company in India",
+                "SMS Marketing Services Company in India",
+                "Email Marketing Services Company in India",
+                "Youtube Video Promotion Company in India",
+                "Content Marketing Services Company in India",
+                "Social Media Management Company in India",
+                "Social Media MarketingCompany in India",
+                "Local SEO Services Company in India",
+                "Best Social Media Marketing Company in Delhi NCR",
+                "Graphic Designing Company in India",
+                "Graphic Designing for Social Media Company in India",
+                "Logo Designing Company in India",
+                "Best Website Development Company in India",
+                "Website Designing Company in Delhi",
+                "Website Designing Company in India",
+                "Website Designing Company in Gurgaon",
+                "Website Designing Company in Ghaziabad",
+                "Website Designing Company in Noida",
+                "E Commerce Website Design Company",
+                "Website re-designing Design Company",
+                "Website Maintenance Services Provider",
+                "Search Marketing Services in Delhi NCR",
+                "Search Engine Optimisation Services in Delhi NCR",
+                "Pay Per Click Management Services in Delhi NCR",
+                "Content Marketing Services in Delhi NCR",
+                "Email Marketing Services in Delhi NCR",
+                "Local Search Optimisation Services in Delhi NCR",
+                "Digital Marketing for Startups Services in Delhi NCR",
+                "Voice Search Optimization Services in Delhi NCR",
+                "Quality Link Building Services in Delhi NCR",
+                "SEO Consultancy and Plan Services in Delhi NCR",
+                "Dedicated SEO Resource Services in Delhi NCR",
+                "Web Analytics Services in Delhi NCR",
+                "Conversion Optimisation Services in Delhi NCR",
+                "Landing Page Optimisation Services in Delhi NCR",
+                "Dashboard Management Services in Delhi NCR",
+                "Mobile Analytics Services in Delhi NCR",
+                "Google Tag Management Services in Delhi NCR",
+                "Website Development Services in Delhi NCR",
+                "Website Designing Services in Delhi NCR",
+                "Responsive Designing Services in Delhi NCR",
+                "Custom web application Services in Delhi NCR",
+                "E-commerece Development Services in Delhi NCR",
+                "Content Management System Services in Delhi NCR",
+                "Mobile Application Services in Delhi NCR",
+                "Logo/Brochure Design Services in Delhi NCR",
+                "Social Media Marketing Services in Delhi NCR",
+                "Online Reputation Management Services in Delhi NCR",
+                "Facebook Marketing Services in Delhi NCR",
+                "Twitter Profile Management Services in Delhi NCR",
+                "LinkedIn Marketing Services in Delhi NCR",
+                "Top Digital Marketing Agency in Delhi NCR",
+                "SEO Services Company in India",
+                "SMO Services Company in India",
+                "SME Services Company in India",
+                "Search engine optimization (SEO) services",
+                "Social media optimization (SMO) services",
+                "Pay per click (PPC) campaign management service",
+                "Affordable seo link building services",
+                "Professional seo website copywriting service",
+                "Website designing company india",
+            ];
 
 
 
@@ -328,127 +407,128 @@
 </script>
 
 <script>
-    
+
     particlesJS("particles-js", {
-  "particles": {
-    "number": {
-      "value": 88,
-      "density": {
-        "enable": true,
-        "value_area": 700
-      }
-    },
-    "color": {
-      "value": ["#aa73ff", "#f8c210", "#83d238", "#33b1f8"]
-    },
-    "shape": {
-      "type": "circle",
-      "stroke": {
-        "width": 0,
-        "color": "#000000"
-      },
-      "polygon": {
-        "nb_sides": 15
-      }
-    },
-    "opacity": {
-      "value": 0.5,
-      "random": false,
-      "anim": {
-        "enable": false,
-        "speed": 1.5,
-        "opacity_min": 0.15,
-        "sync": false
-      }
-    },
-    "size": {
-      "value": 2.5,
-      "random": false,
-      "anim": {
-        "enable": true,
-        "speed": 2,
-        "size_min": 0.15,
-        "sync": false
-      }
-    },
-    "line_linked": {
-      "enable": true,
-      "distance": 110,
-      "color": "#33b1f8",
-      "opacity": 0.25,
-      "width": 1
-    },
-    "move": {
-      "enable": true,
-      "speed": 1.6,
-      "direction": "none",
-      "random": false,
-      "straight": false,
-      "out_mode": "out",
-      "bounce": false,
-      "attract": {
-        "enable": false,
-        "rotateX": 600,
-        "rotateY": 1200
-      }
-    }
-  },
-  "interactivity": {
-    "detect_on": "canvas",
-    "events": {
-      "onhover": {
-        "enable": false,
-        "mode": "repulse"
-      },
-      "onclick": {
-        "enable": false,
-        "mode": "push"
-      },
-      "resize": true
-    },
-    "modes": {
-      "grab": {
-        "distance": 400,
-        "line_linked": {
-          "opacity": 1
+        "particles": {
+            "number": {
+                "value": 88,
+                "density": {
+                    "enable": true,
+                    "value_area": 700
+                }
+            },
+            "color": {
+                "value": ["#aa73ff", "#f8c210", "#83d238", "#33b1f8"]
+            },
+            "shape": {
+                "type": "circle",
+                "stroke": {
+                    "width": 0,
+                    "color": "#000000"
+                },
+                "polygon": {
+                    "nb_sides": 15
+                }
+            },
+            "opacity": {
+                "value": 0.5,
+                "random": false,
+                "anim": {
+                    "enable": false,
+                    "speed": 1.5,
+                    "opacity_min": 0.15,
+                    "sync": false
+                }
+            },
+            "size": {
+                "value": 2.5,
+                "random": false,
+                "anim": {
+                    "enable": true,
+                    "speed": 2,
+                    "size_min": 0.15,
+                    "sync": false
+                }
+            },
+            "line_linked": {
+                "enable": true,
+                "distance": 110,
+                "color": "#33b1f8",
+                "opacity": 0.25,
+                "width": 1
+            },
+            "move": {
+                "enable": true,
+                "speed": 1.6,
+                "direction": "none",
+                "random": false,
+                "straight": false,
+                "out_mode": "out",
+                "bounce": false,
+                "attract": {
+                    "enable": false,
+                    "rotateX": 600,
+                    "rotateY": 1200
+                }
+            }
+        },
+        "interactivity": {
+            "detect_on": "canvas",
+            "events": {
+                "onhover": {
+                    "enable": false,
+                    "mode": "repulse"
+                },
+                "onclick": {
+                    "enable": false,
+                    "mode": "push"
+                },
+                "resize": true
+            },
+            "modes": {
+                "grab": {
+                    "distance": 400,
+                    "line_linked": {
+                        "opacity": 1
+                    }
+                },
+                "bubble": {
+                    "distance": 400,
+                    "size": 40,
+                    "duration": 2,
+                    "opacity": 8,
+                    "speed": 3
+                },
+                "repulse": {
+                    "distance": 200,
+                    "duration": 0.4
+                },
+                "push": {
+                    "particles_nb": 4
+                },
+                "remove": {
+                    "particles_nb": 2
+                }
+            }
+        },
+        "retina_detect": true
+    });
+    var count_particles, stats, update;
+    stats = new Stats;
+    stats.setMode(0);
+    stats.domElement.style.position = 'absolute';
+    stats.domElement.style.left = '0px';
+    stats.domElement.style.top = '0px';
+    document.body.appendChild(stats.domElement);
+    count_particles = document.querySelector('.js-count-particles');
+    update = function () {
+        stats.begin();
+        stats.end();
+        if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
+            count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
         }
-      },
-      "bubble": {
-        "distance": 400,
-        "size": 40,
-        "duration": 2,
-        "opacity": 8,
-        "speed": 3
-      },
-      "repulse": {
-        "distance": 200,
-        "duration": 0.4
-      },
-      "push": {
-        "particles_nb": 4
-      },
-      "remove": {
-        "particles_nb": 2
-      }
-    }
-  },
-  "retina_detect": true
-});
-var count_particles, stats, update;
-stats = new Stats;
-stats.setMode(0);
-stats.domElement.style.position = 'absolute';
-stats.domElement.style.left = '0px';
-stats.domElement.style.top = '0px';
-document.body.appendChild(stats.domElement);
-count_particles = document.querySelector('.js-count-particles');
-update = function() {
-  stats.begin();
-  stats.end();
-  if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
-    count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
-  }
-  requestAnimationFrame(update);
-};
-requestAnimationFrame(update);;
-    </script>
+        requestAnimationFrame(update);
+    };
+    requestAnimationFrame(update);
+    ;
+</script>
