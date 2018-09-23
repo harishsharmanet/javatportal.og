@@ -19,7 +19,7 @@
                      $message.=$email;
                      $message.="<h2>Requestor Mobile</h2> \r\n\n";
                      $message.=$mobile;
-                     $message.="Kindly respond as earliest \n";
+                     $message.="<p>Kindly respond as earliest</p> \n";
                      
                      if(mail($to,$subject,$message,$headers)){
                          $msg = 'success';

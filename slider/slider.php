@@ -89,6 +89,7 @@
 
                 <h3>JAVATPORTAL CORPORATION</h3>
                 <p style="text-align:center">सॉफ्टवेयर विकास एवं प्रशिक्षण कार्यक्रम केंद्र</p>
+                <p style="text-align:center">GRAB & ENROLL IN YOUR DESIRED COURSE TODAY | 20% DISCOUNT FOR FEMALE CANDIDATES</p>
 
                 <style>
                     .form-control-borderless {
