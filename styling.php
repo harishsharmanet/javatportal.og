@@ -1,5 +1,5 @@
 <?php include 'inc/config.php'; ?>
-<base href="http://localhost/javatportal.org/" target="_blank">
+<base href="http://localhost/javatportal.org/">
 
 <link rel="stylesheet" href="assets/css/jtpcoursestyle.css">
 <link rel="stylesheet" href="assets/css/cbdesign.css">

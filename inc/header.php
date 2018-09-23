@@ -207,7 +207,7 @@
 
             </div>
             <li class="nav-item">
-                <a class="nav-link" href="#">Apply as Trainer</a>
+                <a class="nav-link" href="#"><i class="fa fa-user" aria-hidden="true"></i>&nbsp;Apply as Trainer</a>
             </li>
 
         </ul>
