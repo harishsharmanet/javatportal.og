@@ -67,7 +67,7 @@
                                     <li><a class="dropdown-item" href="#">Selenium</a></li>     
                                     <li><a class="dropdown-item" href="#">Selenium with Cucumber</a></li> 
                                     <li><a class="dropdown-item" href="#">HP-QTP/UFT</a></li> 
-                            </ul> 
+                                </ul> 
                             </li>
                             <li class="dropdown-submenu">
                                 <a class="dropdown-item" href="#">Oracle DBA/Developer</a>
@@ -86,7 +86,7 @@
                                     <li><a class="dropdown-item" href="#">SQL Server Developer</a></li> 
                                     <li><a class="dropdown-item" href="#"> SQL (Basic|Advance)</a></li> 
                                     <li><a class="dropdown-item" href="#"> T-SQL (Basic|Advance)</a></li> 
-                                   
+
                                 </ul>
                             </li>
                         </ul>
@@ -125,25 +125,86 @@
             <div class="btn-group">
                 <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle" href="" aria-expanded="false"><i class="fas fa-certificate"></i>&nbsp;Certification</a>
                 <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
-                    <li><a class="dropdown-item" href="#">level 1</a></li>
-                    <li><a class="dropdown-item" href="#">level 1</a></li>
-                    <li class="dropdown-divider"></li>
                     <li class="dropdown-submenu">
-                        <a class="dropdown-item" tabindex="-1" href="#">level 1</a>
+                        <a class="dropdown-item" tabindex="-1" href="#"><i class="fas fa-code"></i> &nbsp;Professional Certifications</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" tabindex="-1" href="#">level 2</a></li>
+
                             <li class="dropdown-submenu">
-                                <a class="dropdown-item" href="#">level 2</a>
+                                <a class="dropdown-item" href="#">Programming Language</a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">3rd level</a></li>
-                                    <li><a class="dropdown-item" href="#">3rd level</a></li>
+                                    <li><a class="dropdown-item" href="#">Core and Advance Java</a></li>
+                                    <li><a class="dropdown-item" href="#">AWS Solution Architect- Associate</a></li>
+                                    <li><a class="dropdown-item" href="#">AWS Solution Architect – Professional</a></li>
+                                    <li><a class="dropdown-item" href="#">Oracle SQL (Basic|Advance)</a></li>
+                                    <li><a class="dropdown-item" href="#">Oracle DBA (10G|11G|12C)</a></li> 
+                                    <li><a class="dropdown-item" href="#">Hadoop Admin</a></li>
+                                    <li><a class="dropdown-item" href="#">Hadoop Data Scientist</a></li>
+
                                 </ul>
                             </li>
-                            <li><a class="dropdown-item" href="#">level 2</a></li>
-                            <li><a class="dropdown-item" href="#">level 2</a></li>
+                        </ul>
+                    </li> 
+                </ul>
+            </div>
+            <!-- Our Services--> 
+            <div class="btn-group">
+                <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle" href="" aria-expanded="false"><i class="fas fa-certificate"></i>&nbsp;Our Services</a>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
+                    <li class="dropdown-submenu">
+                        <a class="dropdown-item" tabindex="-1" href="#"><i class="fas fa-code"></i> &nbsp;Web Designing</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">Small Business Website</a></li>
+                            <li><a class="dropdown-item" href="#">Corporate Website</a></li>
+                            <li><a class="dropdown-item" href="#">Ecommerce Website</a></li>
+                            <li><a class="dropdown-item" href="#">Multi Vendor Ecommerce Marketplace</a></li>
+                            <li><a class="dropdown-item" href="#">Landing Page Designing</a></li> 
+                            <li><a class="dropdown-item" href="#">Responsive Web Designing</a></li>
+                            <li><a class="dropdown-item" href="#">Custom Website Designing</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown-submenu">
+                        <a class="dropdown-item" tabindex="-1" href="#"><i class="fas fa-code"></i> &nbsp;Development</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">PHP Web Development</a></li>
+                            <li><a class="dropdown-item" href="#">CMS Web Development</a></li>
+                            <li><a class="dropdown-item" href="#">CodeIgniter Web Development</a></li>
+                            <li><a class="dropdown-item" href="#">Joomla Web Development</a></li>
+                            <li><a class="dropdown-item" href="#">Wordpress Web Development</a></li> 
+                            <li><a class="dropdown-item" href="#">Magento Web Development </a></li>
+                            <li><a class="dropdown-item" href="#">B2B Portal Development</a></li>
+                            <li><a class="dropdown-item" href="#">B2C Portal Development</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown-submenu">
+                        <a class="dropdown-item" tabindex="-1" href="#"><i class="fas fa-code"></i> &nbsp;Digital Marketing</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#"> SEO Services</a></li>
+                            <li><a class="dropdown-item" href="#">Local SEO Services</a></li>
+                            <li><a class="dropdown-item" href="#">Social Media Marketing </a></li>
+                            <li><a class="dropdown-item" href="#"> Social Media Management</a></li>
+                            <li><a class="dropdown-item" href="#">Content Marketing Services</a></li> 
+                            <li><a class="dropdown-item" href="#">Youtube Video Promotion </a></li>
+                            <li><a class="dropdown-item" href="#">Email Marketing Services</a></li>
+                            <li><a class="dropdown-item" href="#">SMS Marketing Services </a></li>
+                            <li><a class="dropdown-item" href="#">Google Map Promotion </a></li>
+                            <li><a class="dropdown-item" href="#">Google Adwords </a></li>
+                            <li><a class="dropdown-item" href="#">PPC Management </a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown-submenu">
+                        <a class="dropdown-item" tabindex="-1" href="#"><i class="fas fa-code"></i> &nbsp;Graphics</a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">Logo Designing</a></li>
+                            <li><a class="dropdown-item" href="#">Brochure Designing</a></li>
+                            <li><a class="dropdown-item" href="#"> Resumes & CV Designing </a></li>
+                            <li><a class="dropdown-item" href="#"> Business Card & Stationer</a></li>
+                            <li><a class="dropdown-item" href="#">Graphic Designing for Social Media</a></li> 
+                            <li><a class="dropdown-item" href="#">Banner Designing Services</a></li>
+                            <li><a class="dropdown-item" href="#">Photoshop Editing</a></li>
                         </ul>
                     </li>
                 </ul>
+
             </div>
             <li class="nav-item">
                 <a class="nav-link" href="#">Apply as Trainer</a>
