@@ -1,4 +1,4 @@
-
+<?php error_reporting(0); ?>
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="<?php echo HOME; ?>">JavaTportal Corporation</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
@@ -240,7 +240,7 @@
 
             </div>
             <li class="nav-item">
-                <a class="nav-link" href="#"><i class="fa fa-user" aria-hidden="true"></i>&nbsp;Apply as Trainer</a>
+                <a class="nav-link" href="apply-trainer"><i class="fa fa-user" aria-hidden="true"></i>&nbsp;Apply as Trainer</a>
             </li>
 
         </ul>

@@ -19,6 +19,8 @@
                      $message.=$email;
                      $message.="<h2>Requestor Mobile</h2> \r\n\n";
                      $message.=$mobile;
+                     $message.="<h2>Requestor Message</h2> \r\n\n";
+                     $message.=$comment;
                      $message.="<p>Kindly respond as earliest</p> \n";
                      
                      if(mail($to,$subject,$message,$headers)){
