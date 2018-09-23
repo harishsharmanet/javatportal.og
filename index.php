@@ -125,46 +125,47 @@
                                             <a href="http://civildefenceghaziabad.com/"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/website_screenshot/civil_defence.jpg" alt="" width="700" height="300"></a>
                                             <div class="card-body">
                                                 <h4 class="card-title">
-                                                    <a href="http://civildefenceghaziabad.com/">Civil Defence Ghaziabad</a>
+                                                    
+                                                </h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                      <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                                        <div class="card h-100">
+                                            <a href=" "><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/website_screenshot/1.jpg" alt="" width="700" height="300"></a>
+                                            <div class="card-body">
+                                                <h4 class="card-title">
+                                                    
+                                                </h4>
+                                            </div>
+                                        </div>
+                                    </div>
+                                            <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+                                        <div class="card h-100">
+                                            <a href=" "><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/website_screenshot/2.jpg" alt="" width="700" height="300"></a>
+                                            <div class="card-body">
+                                                <h4 class="card-title">
+                                                   
                                                 </h4>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
                                         <div class="card h-100">
-                                            <a href="http://www.myphpjobs.com/"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/website_screenshot/myphpjobs.jpg" alt="" width="700" height="300"></a>
+                                            <a href="http://www.myphpjobs.com/"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/website_screenshot/3.jpg" alt="" width="700" height="300"></a>
                                             <div class="card-body">
                                                 <h4 class="card-title">
-                                                    <a href="http://www.myphpjobs.com/">My PHP Jobs</a>
+                                                 
                                                 </h4>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-                                        <div class="card h-100">
-                                            <a href="http://www.harishsharma.net"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/website_screenshot/harish.jpg" alt="" width="700" height="300"></a>
-                                            <div class="card-body">
-                                                <h4 class="card-title">
-                                                    <a href="http://www.harishsharma.net">Harish Sharma Blog</a>
-                                                </h4>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
-                                        <div class="card h-100">
-                                            <a href="#"><img class="card-img-top" src="<?php echo HOME; ?>/assets/img/website_screenshot/nitex_computers.jpg" alt="" width="700" height="300"></a>
-                                            <div class="card-body">
-                                                <h4 class="card-title">
-                                                    <a href="#">Nitex Infotrading</a>
-                                                </h4>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    
                                 </div>
                                    </div>
-                                 <div role="tabpanel" class="tab-pane fade" id="design-process">bbb</div>
-                                 <div role="tabpanel" class="tab-pane fade" id="seo-services">ccc</div>
-                                 <div role="tabpanel" class="tab-pane fade" id="logo-design">ccc</div>
+                                 <div role="tabpanel" class="tab-pane fade" id="design-process">Web Designing</div>
+                                 <div role="tabpanel" class="tab-pane fade" id="seo-services">SEO Portfolio</div>
+                                 <div role="tabpanel" class="tab-pane fade" id="logo-design">Logo Designing</div>
                                </div>       
                     </div>
                 </div>

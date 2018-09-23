@@ -14,7 +14,7 @@
 	<meta name="rating" CONTENT="General"/>
 	<meta name="revisit-after" CONTENT="2 days">
 	<meta name="robots" content=" ALL, index, follow"/>
-	<meta <meta name="distribution" content="Global" />
+	<meta name="distribution" content="Global" />
 	<meta name="rating" content="Safe ForAll" />
 	<meta name="language" content="English" />
 	<meta http-equiv="window-target" content="_top"/>

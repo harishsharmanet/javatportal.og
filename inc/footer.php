@@ -96,7 +96,7 @@
                     <span></span>    
                     <li><a  href="#"> &zwnj;</a></li>
                     <li>
-                        <a href="http://www.javatportal.org/training/terms-of-use.php">Terms of Use</a>
+                        <a href="http://www.javatportal.org/training/terms-of-use">Terms of Use</a>
                     </li>
 
                     <li>
