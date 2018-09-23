@@ -44,14 +44,14 @@
                 <ul class="contact">
                     <span style="border-bottom: solid 2px;">Top Courses</span>    
                     <ul>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Core Java/J2SE</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Advance Java/J2EE</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Java Frameworks</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> AngularJs</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Python</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Selenium</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Android</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  Big Data Hadoop</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-java-training-institute-in-noida"><i class="fa fa-angle-double-right"></i> Core Java/J2SE</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-java-training-institute-in-ghaziabad"><i class="fa fa-angle-double-right"></i> Advance Java/J2EE</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-java-training-institute-in-noida"><i class="fa fa-angle-double-right"></i> Java Frameworks</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-angularjs-training-institute-in-noida"><i class="fa fa-angle-double-right"></i> Angular Js</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-python-training-institute-in-noida"><i class="fa fa-angle-double-right"></i>  Python</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-selenium-training-institute-in-noida"><i class="fa fa-angle-double-right"></i>  Selenium</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-android-training-institute-in-noida"><i class="fa fa-angle-double-right"></i>  Android</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/big-data-hadoop-online-training-institute-in-india"><i class="fa fa-angle-double-right"></i>  Big Data Hadoop</a></li>
                     </ul>
             </div>
 
@@ -60,15 +60,15 @@
                 <ul class="contact">
                     <span></span>    
                     <ul>
-                        <li><a  href="#"> &zwnj;</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Data Science(SAS)</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Data Science(R)</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Robotics Process Automation(RPA)</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Advance Excel</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i> Digital Marketing</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  PhoneGap</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  PHP Frameworks</a></li>
-                        <li><a  href="#"><i class="fa fa-angle-double-right"></i>  MIS & Analytics</a></li>
+                        <li><a  href="<?php echo HOME; ?>"> &zwnj;</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-data-science-with-r-training-in-noida"><i class="fa fa-angle-double-right"></i> Data Science(SAS)</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-data-science-with-r-training-in-noida"><i class="fa fa-angle-double-right"></i> Data Science(R)</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-data-science-with-r-training-in-noida"><i class="fa fa-angle-double-right"></i> Robotics Process Automation(RPA)</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-mis-training-institute-in-noida"><i class="fa fa-angle-double-right"></i> Advance Excel</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-seo-training-institute-in-noida"><i class="fa fa-angle-double-right"></i> Digital Marketing</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-android-training-institute-in-noida"><i class="fa fa-angle-double-right"></i>  PhoneGap</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-php-training-institute-in-noida"><i class="fa fa-angle-double-right"></i>  PHP Frameworks</a></li>
+                        <li><a  href="<?php echo HOME; ?>/training/best-mis-training-institute-in-ghaziabad"><i class="fa fa-angle-double-right"></i>  MIS & Analytics</a></li>
                     </ul>
 
                 </ul>
@@ -78,15 +78,15 @@
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 <ul class="contact">
                     <span></span>    
-                    <li><a  href="#"> &zwnj;</a></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i> Enquiry Form</a></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i> Online Test Series</a></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i> Grand Tests Series</a></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i> Subject Wise Test Series</a></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i> Smart Book</a></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i> Test Centres</a></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i>  Admission Form</a></li>
-                    <li><a href="#"><i class="fa fa-angle-double-right"></i>  Computer Live Test</a></li>
+                    <li><a  href="<?php echo HOME; ?>/contact-us"> &zwnj;</a></li>
+                    <li><a href="<?php echo HOME; ?>/contact-us"><i class="fa fa-angle-double-right"></i> Enquiry Form</a></li>
+                    <li><a href="<?php echo HOME; ?>/contact-us"><i class="fa fa-angle-double-right"></i> Online Test Series</a></li>
+                    <li><a href="<?php echo HOME; ?>/contact-us"><i class="fa fa-angle-double-right"></i> Grand Tests Series</a></li>
+                    <li><a href="<?php echo HOME; ?>/contact-us"><i class="fa fa-angle-double-right"></i> Subject Wise Test Series</a></li>
+                    <li><a href="<?php echo HOME; ?>/contact-us"><i class="fa fa-angle-double-right"></i> Smart Book</a></li>
+                    <li><a href="<?php echo HOME; ?>/contact-us"><i class="fa fa-angle-double-right"></i> Test Centres</a></li>
+                    <li><a href="<?php echo HOME; ?>/contact-us"><i class="fa fa-angle-double-right"></i>  Admission Form</a></li>
+                    <li><a href="<?php echo HOME; ?>/contact-us"><i class="fa fa-angle-double-right"></i>  Computer Live Test</a></li>
 
                 </ul>
             </div>
@@ -94,21 +94,21 @@
             <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                 <ul class="contact">
                     <span></span>    
-                    <li><a  href="#"> &zwnj;</a></li>
+                    <li><a  href="<?php echo HOME; ?>contact-us"> &zwnj;</a></li>
                     <li>
-                        <a href="http://www.javatportal.org/training/terms-of-use">Terms of Use</a>
+                        <a href="<?php echo HOME; ?>contact-us">Terms of Use</a>
                     </li>
 
                     <li>
-                        <a href="#">Privacy Policy</a>
+                        <a href="<?php echo HOME; ?>contact-us">Privacy Policy</a>
                     </li>
 
                     <li>
-                        <a href="#">Contact</a>
+                        <a href="<?php echo HOME; ?>/contact-us">Contact</a>
                     </li>
 
                     <li>
-                        <a href="#">Make Payment</a>
+                        <a href="<?php echo HOME; ?>/contact-us">Make Payment</a>
                     </li>
 
                     <li>
