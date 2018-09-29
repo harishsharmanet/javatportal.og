@@ -11,7 +11,7 @@
                 <a class="nav-link" href="<?php echo HOME; ?>"><i class="fas fa-home"></i>&nbsp;Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="<?php echo HOME; ?>/about-us"><i class="fas fa-globe"></i>&nbsp;About Us</a>
+                <a class="nav-link" href="<?php echo HOME; ?>/about-us"><i class="fas fa-globe"></i>&nbsp;About</a>
 <!--                <a class="nav-link" href="/about-us"><i class="fas fa-globe"></i>&nbsp;About Us</a>-->
             </li>
             <div class="btn-group">
@@ -180,7 +180,7 @@
             </div>
             <!-- Our Services--> 
             <div class="btn-group">
-                <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle" href="" aria-expanded="false"><i class="fas fa-certificate"></i>&nbsp;Our Services</a>
+                <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle" href="" aria-expanded="false"><i class="fas fa-certificate"></i>&nbsp;Services</a>
                 <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
                     <li class="dropdown-submenu">
                         <a class="dropdown-item" tabindex="-1" href="<?php echo HOME; ?>"><i class="fas fa-code"></i> &nbsp;Web Designing</a>

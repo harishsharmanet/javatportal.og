@@ -135,7 +135,7 @@
 
 </footer>
 
-<div class="fixed-bottom mobile-device">
+<div class="fixed-bottom mobile-only">
     <div class="row">
         <div class="col">
             <a href="tel:09711195889"><img src="<?php echo HOME?>/assets/img/icon/call.png"></a>

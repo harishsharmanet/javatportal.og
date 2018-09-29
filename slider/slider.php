@@ -85,12 +85,17 @@
         <div class="item active">
             <div id="particles-js"></div>
             <div class="carousel-caption">
-                <img src="<?php echo HOME; ?>/assets/img/logo.png" alt="Javatportal" style="width: 10% !important;">
+                <img src="<?php echo HOME; ?>/assets/img/logo.png" alt="Javatportal" style="width: 10% !important;" class="desktop-only">
+                <img src="<?php echo HOME; ?>/assets/img/logo.png" alt="Javatportal" style="width: 30% !important;" class="mobile-only">
 
                 <h3>JAVATPORTAL CORPORATION</h3>
                 <p style="text-align:center">सॉफ्टवेयर विकास एवं प्रशिक्षण कार्यक्रम केंद्र</p>
-                <p style="text-align:center">GRAB & ENROLL IN YOUR DESIRED COURSE TODAY | <mark class="text-success">20% DISCOUNT</mark> FOR FEMALE CANDIDATES</p>
-
+                <p style="text-align:center" class="desktop-only">GRAB & ENROLL IN YOUR DESIRED COURSE TODAY | <mark class="text-success">20% DISCOUNT</mark> FOR FEMALE CANDIDATES</p>
+                        
+                
+                        
+             
+                
                 <style>
                     .form-control-borderless {
                         border: none;
@@ -103,7 +108,7 @@
                     }
                 </style>
                 <hr/>
-                <div class="pp-search hidden-xs" style=" font-size:  large">
+                <div class="pp-search hidden-xs desktop-only" style=" font-size:  large">
                     <a href=" " title="Microsoft" class="badge badge-pill badge-success"> Big Data Hadoop</a> 
                     <a href=" " title="Microsoft Dynamics" class="badge badge-pill badge-success">Blockchain </a>
                     <a href=" " title="Oracle" class="badge badge-pill badge-success">Oracle</a> 
@@ -119,7 +124,7 @@
                     <a href=" " title="Testing" class="badge badge-pill badge-success">Testing</a>  
                 </div>
 
-                <div class="mobile-search visible-xs">
+                <div class="mobile-search visible-xs desktop-only">
                     <a href=" " title="Project Management" class="badge badge-pill badge-success">Project Management</a> 
                     <a href=" " title="CAD/CAM" class="badge badge-pill badge-success"> CAD/CAM</a> 
                     <a href=" "  title="Embedded Systems" class="badge badge-pill badge-success">Embedded Systems</a> 
