@@ -245,8 +245,6 @@
                     <li class="dropdown-item">
                         <a class="nav-link" href="apply-trainer"><i class="fa fa-user" aria-hidden="true"></i>&nbsp; Apply as Trainer</a>
                         <a class="nav-link" href="apply-trainer"><i class="fa fa-user" aria-hidden="true"></i>&nbsp; Apply as Developer</a>
-
-
                     </li> 
                 </ul>
             </div>
