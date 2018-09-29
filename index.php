@@ -52,9 +52,9 @@
         <?php include 'slider/slider.php'; ?>
         <div class="container">
             <br/>
-            <h1><img src="<?php echo HOME; ?>/assets/img/logo.png" alt="Javatportal" style="width: 6% !important;">Welcome to JavaTportal Corporation</h1>
+            <h1><img src="<?php echo HOME; ?>/assets/img/logo.png" alt="Javatportal" style="width: 6% !important;" class="desktop-only">Welcome to JavaTportal Corporation</h1>
 
-            <p>JavaTportal Corporation Private Limited objective is to provide the <strong>Best IT Training Institute and Development Company </strong>services to the client. We also looking our self to be establish as a best Indian IT company. We also want the provide our services not only for Indian clients even also for foreign clients. Our team members also handling the challenges for complete our vision and mission. We also supports the Indian Government campaign like 'Digital India' and 'Skill India'. JavaTportal Corporation providing their services successfully as a <strong>web development company in Ghaziabad  </strong>and Delhi region. The happy clients and society will be always our objective and mission. Read More</p>
+            <p>JavaTportal Corporation Private Limited objective is to provide the <kbd>Best IT Training Institute and Development Company </kbd>services to the client. We also looking our self to be establish as a best Indian IT company. We also want the provide our services not only for Indian clients even also for foreign clients. Our team members also handling the challenges for complete our vision and mission. We also supports the Indian Government campaign like 'Digital India' and 'Skill India'. JavaTportal Corporation providing their services successfully as a <kbd>web development company in Ghaziabad  </kbd>and Delhi region. The happy clients and society will be always our objective and mission. Read More</p>
 
             <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Expertise Services We Offer</h2>
             <h5>Grow your business and save time with seamless experience</h5>
@@ -88,9 +88,9 @@
                     <a class="faa-parent animated-hover" href="<?php echo HOME; ?>/services/web-design-services"><i class="fab fa-soundcloud fa-7x faa-tada"></i><h4>ERP Software</h4></a></div>
             </div>
         <br/>
-         <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Recent Work</h2>
-                <h5>Make a better Health for bright Future</h5>
-        <section id="tabs">
+        <h2 class="desktop-only"><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Recent Work</h2>
+        <h5 class="desktop-only">Make a better Health for bright Future</h5>
+        <section id="tabs" class="desktop-only">
             <div>
                 <div class="row">
                     <div class="col-xs-12 ">
@@ -562,7 +562,8 @@
             <h2><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;JavaTportal Campus Placement Preparation</h2>
             <p><strong> The 3 Tier Placement Cell</strong> We have a dedicated Placement cell, continuously working to provide the best placement opportunities to our student. The Placement Cell works the Following structure:</p>
             <p style="text-align: center" > <strong> 1. Local Network. </strong> <strong> 2. National Presence. </strong> <strong> 3. International Reach.</strong></p>
-            <img src="assets/img/javatportal-placement-process.jpg" width="100%">
+            <img src="assets/img/javatportal-placement-process.jpg" width="100%" class="desktop-only">
+            <img src="assets/img/prepration.png" width="100%" class="mobile-only">
            <p>The entire placement process, be it for the summer or the Final placements, is managed by a group of dynamic students under the placement committee. These students manage the entire placement process from arranging corporative visits to final interviews and even joining formalities. This is one of the most beneficial experiential exercises done by student at JavaTportal. This activity gives them practical and real time exposure to planning, Resource utilization and perfect execution techniques.</p>
         </div>
     </div>      
