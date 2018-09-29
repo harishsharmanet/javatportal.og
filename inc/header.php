@@ -107,7 +107,7 @@
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/big-data-hadoop-online-training-institute-in-india">Hadoop Admin</a></li>
                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/big-data-hadoop-online-training-institute-in-india">Hadoop Data Scientist</a></li>
-                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/big-data-hadoop-online-training-institute-in-india">Hadoop Developer Training in Noida</a></li>
+                                    <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/big-data-hadoop-online-training-institute-in-india">Hadoop Developer Training in Noida</a></li>
 
                                 </ul>
                             </li>
@@ -116,9 +116,9 @@
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/best-data-science-with-r-training-in-ghaziabad">Data Science with R</a></li>
                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/best-data-science-with-r-training-in-noida">Data Science with SAS</a></li>
-                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/bigdata-hadoop-training-institute-in-noida">Hadoop</a></li>
+                                    <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/bigdata-hadoop-training-institute-in-noida">Hadoop</a></li>
                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/best-mis-training-institute-in-noida">Excel</a></li>
-                                       <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/best-python-training-institute-in-ghaziabad">Analytics (Python) Specialist</a></li>
+                                    <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/best-python-training-institute-in-ghaziabad">Analytics (Python) Specialist</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown-submenu">
@@ -126,9 +126,9 @@
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/best-mis-training-institute-in-ghaziabad">Microsoft Office</a></li>
                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/best-mis-training-institute-in-noida">Microsoft Advance Excel</a></li>
-                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/best-mis-training-institute-in-delhi">Microsoft Advance Excel with VBA (Macro)</a></li>
+                                    <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/best-mis-training-institute-in-delhi">Microsoft Advance Excel with VBA (Macro)</a></li>
                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/best-mis-training-institute-in-noida">Microsoft Access</a></li>
-                                 </ul>
+                                </ul>
                             </li>
                         </ul>
                     </li>
@@ -239,9 +239,19 @@
                 </ul>
 
             </div>
+            <div class="btn-group">
+                <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary dropdown-toggle" href="" aria-expanded="false"><i class="fas fa-book"></i>&nbsp;Join Us Today!</a>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(0px, 31px, 0px);">
+                    <li class="dropdown-item">
+                        <a class="nav-link" href="apply-trainer"><i class="fa fa-user" aria-hidden="true"></i>&nbsp; Apply as Trainer</a>
+                        <a class="nav-link" href="apply-trainer"><i class="fa fa-user" aria-hidden="true"></i>&nbsp; Apply as Developer</a>
+                    </li> 
+                </ul>
+            </div>
+            <!--          
             <li class="nav-item">
-                <a class="nav-link" href="apply-trainer"><i class="fa fa-user" aria-hidden="true"></i>&nbsp;Apply as Trainer</a>
-            </li>
+                            <a class="nav-link" href="apply-trainer"><i class="fa fa-user" aria-hidden="true"></i>&nbsp;Apply as Trainer</a>
+                        </li>-->
 
         </ul>
         <form class="form-inline my-2 my-lg-0" autocomplete="off" action="/action_page.php">
