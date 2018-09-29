@@ -4,10 +4,11 @@
         $email = $_POST['email'];
         $mobile = $_POST['mobile'];
         $comment = $_POST['message'];
+        //$requestfor = $_SERVER['REQUEST_URI'];
         
                 $to="harish.zetetic@gmail.com";
                      $subject="New Business Query";
-                     $headers = "From: no-reply@javatportal.org \r\n";
+                     $headers = "From: Javatportal Corporation <no-reply@javatportal.org> \r\n";
                 $headers .= "Reply-To: no-reply@javatportal.org \r\n";
                 $headers .= "CC: info@javatportal.org\r\n";
                 $headers .= "MIME-Version: 1.0\r\n";

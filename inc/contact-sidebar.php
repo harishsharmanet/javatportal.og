@@ -1,39 +1,4 @@
-<?php 
-if(isset($_POST['submit'])){
-    $name = $_POST['name'];
-    $email = $_POST['email'];
-    $mobile = $_POST['mobile'];
-    $requestfor = $_SERVER['REQUEST_URI'];
-    
-    
-    $to="harish.zetetic@gmail.com";
-                     $subject="New Business Query";
-                     $headers = "From: no-reply@javatportal.org \r\n";
-                $headers .= "Reply-To: no-reply@javatportal.org \r\n";
-                $headers .= "CC: info@javatportal.org\r\n";
-                $headers .= "MIME-Version: 1.0\r\n";
-                $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
-                     $message="You have recieved a following business query \r\n";
-                     $message.="<h2>Requestor Name</h2> \r\n\n";
-                     $message.=$name;
-                     $message.="<h2>Requestor email</h2> \r\n\n";
-                     $message.=$email;
-                     $message.="<h2>Requestor Mobile</h2> \r\n\n";
-                     $message.=$mobile;
-                     $message.="<h2>Requestor Message</h2> \r\n\n";
-                     $message.=$requestfor;
-                     $message.="<p>Kindly respond as earliest</p> \n";
-                     
-                     if(mail($to,$subject,$message,$headers)){
-                         $msg = 'success';
-                     }
-                     else{
-                         $msg = 'failed';
-                     }
-                     
-                     
-}
-?>
+
 <div class="card text-white bg-primary mb-3 " style="max-width: 20rem;">
     <h4 class="card-title faa-horizontal animated">Contact Us</h4>
 
@@ -45,18 +10,8 @@ if(isset($_POST['submit'])){
 </div> 
 <div class="course-features">
 <h4><strong>Get in Touch</strong></h4>
- <?php 
-             if($msg == 'success' ){
-                echo '<p class="bg-success" style="color:white">Your request has been sent.</p>';
-            }
-            else if($msg == 'failed' ){
-                echo '<p class="bg-danger">Something went wrong. Try later.</p>';
-            }   
-            else{
-                echo '';
-            }
-            ?>
-        <form method="post" action="">
+
+        <form method="post" action="thank-you">
     <div class="form-group">
         <input type="text" class="form-control" name="name" value="" placeholder="Name">
     </div>
@@ -318,7 +273,7 @@ if(isset($_POST['submit'])){
         </select>
     </div>
     <div class="form-group">
-        <textarea class="form-control" name="" rows="3" placeholder="Message"></textarea>
+        <textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
     </div>
     <button class="btn btn-default" type="submit" name="submit">
         <i class="fa fa-paper-plane-o" aria-hidden="true"></i> Submit

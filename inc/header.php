@@ -1,4 +1,4 @@
-<?php error_reporting(0); ?>
+
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="<?php echo HOME; ?>">JavaTportal Corporation</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
@@ -22,7 +22,7 @@
                         <a class="dropdown-item" tabindex="-1" href="<?php echo HOME; ?>"><i class="fas fa-code"></i> &nbsp;CS/IT</a>
                         <ul class="dropdown-menu">
 
-                            <li class="dropdown-submenu">
+                            <li class="d    ropdown-submenu">
                                 <a class="dropdown-item" href="<?php echo HOME; ?>">Programming Language</a>
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/best-java-training-institute-in-noida">Core and Advance Java</a></li>
