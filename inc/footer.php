@@ -25,6 +25,7 @@
                             <input type="tel" class="form-control" name="mobile" id="mobile" value="" placeholder="Phone" onfocusout="validate_value(3)">
                             <small  class="form-text text-danger font-weight-bold" id="smobile"></small>
                         </div>
+                        <input name="website" type="text" class="website" style="display: none;"/>
                         <div class="form-group">
                             <textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
                         </div>

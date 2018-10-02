@@ -169,6 +169,7 @@ body {
 }
 p{
     text-align: justify;
+font-family: 'Cabin', sans-serif;
 }
 .display-3 {
     font-size: 3.0rem !important;
@@ -353,3 +354,4 @@ p{
 .dropdown-menu>li>a:hover{
     color: #FFF !important;
 }
+

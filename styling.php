@@ -11,4 +11,4 @@
  <link rel="stylesheet" href="assets/css/font-awesome-animation.min.css">
  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
  <script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
-
+<link href="https://fonts.googleapis.com/css?family=Cabin|Josefin+Sans" rel="stylesheet">

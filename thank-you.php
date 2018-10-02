@@ -1,5 +1,7 @@
 <?php
-    if(isset($_POST['submit'])){
+  
+    if (isset($_POST["website"]) && $_POST["website"] == "") {
+                  if(isset($_POST['submit'])){
         $name = $_POST['name'];
         $email = $_POST['email'];
         $mobile = $_POST['mobile'];
@@ -32,6 +34,10 @@
                      }
         
     }
+} else {
+  http_response_code(400);
+  exit;
+}
 ?>
 <!DOCTYPE html>  
 <html lang="en">  
