@@ -1,5 +1,5 @@
 <?php
-//include 'inc/config.php';
+include 'inc/config.php';
     if(isset($_POST['submit'])){
         
 
@@ -13,7 +13,7 @@
         $mobile = $_POST['mobile'];
         $email = $_POST['email'];
         $msg='';
-        $conn = new mysqli('localhost', 'root', '', 'javatportal');
+        $conn = new mysqli(SERVER, USER, PASS, DB);
         if ($conn->connect_error) {
             die("Connection failed: " . $conn->connect_error);
         }

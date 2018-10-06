@@ -2,7 +2,8 @@
 
 
 if (!defined('HOME')) define('HOME', 'http://localhost/javatportal.org');
-//define("SERVER", "localhost");
-//define("USER", "root");
-//define("PASS", "");
-//define("DB", "javatportal");
+if (!defined('SERVER')) define('SERVER', 'localhost');
+if (!defined('USER')) define('USER', 'root');
+if (!defined('PASS')) define('PASS', '');
+if (!defined('DB')) define('DB', 'javatportal');
+

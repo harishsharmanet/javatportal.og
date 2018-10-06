@@ -38,6 +38,35 @@
         </div>
     </div>
 </section>
+
+<div class="intro-header"> 
+<div class="container"  align="center">
+
+<div class="tab-content custom-tab-content" align="center">
+<div class="subscribe-panel">
+<h1><i class="fas fa-check-circle" style="color:#5fa703"></i>&nbsp;Newsletter!!!</h1>
+<h3>Subscribe to our weekly Newsletter and stay tuned.</h3>
+                
+                <form action="enews-subscription" method="post">
+                    	
+							<div class="col-md-4"></div>
+							<div class="col-md-4">
+								<div class="input-group">
+									<span class="input-group-addon"><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i></span>
+									<input type="text" class="form-control input-lg" name="subscriber_email" id="email"  placeholder="Enter your Email"/>
+           <input name="website" type="text" class="website" style="display: none;"/>
+								</div>
+							</div>
+							<div class="col-md-4"></div>
+                    <br/>
+                    <button class="btn btn-warning btn-lg" name="subscribe" onclick="this.form.submit()">Subscribe Now!</button>
+                    <br/><br/>
+              </form>
+
+</div>
+</div>
+</div>
+</div>
 <footer>
     <div class="container"> <!-- Container Class Missing  -->
         <div class="row">
