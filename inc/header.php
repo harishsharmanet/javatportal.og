@@ -78,7 +78,7 @@
                         <a class="dropdown-item" tabindex="-1" href="<?php echo HOME; ?>"><i class="fas fa-code"></i> &nbsp;CS/IT</a>
                         <ul class="dropdown-menu">
 
-                            <li class="d    ropdown-submenu">
+                            <li class="dropdown-submenu">
                                 <a class="dropdown-item" href="<?php echo HOME; ?>">Programming Language</a>
                                 <ul class="dropdown-menu">
                                     <li><a class="dropdown-item" href="<?php echo HOME; ?>/training/best-java-training-institute-in-noida">Core and Advance Java</a></li>
